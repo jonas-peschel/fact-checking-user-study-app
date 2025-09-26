@@ -1,0 +1,42 @@
+https://globaledge.msu.edu/countries/nigeria/economy
+Nigeria: Economy
+|
+Income Level (by per capita GNI) Source: The World Bank Possible values: High Income, Upper Middle Income, Lower Middle Income and Low Income |
+Lower Middle Income |
+|
+Level of Development
+Source: United Nations Possible values: Developed, In Transition and Developing |
+Developing |
+| Economic Trivia | The oil sector provides for 95% of Nigeria's foreign exchange earnings and 80% of its budgetary revenues. |
+|
+Trade
+Source: United Nations Comtrade Note: Top 3 trade partners are calculated by imports + exports. |
+Top 3 Trade Partners (2021): China, India, and Netherlands |
+| Top Industries Source: CIA World Factbook | Crude Oil; Coal; Tin; Columbite |
+Gross Domestic Product (GDP) [1]
+| GDP, PPP (current international) | $1,280,715,695,745 (2022) |
+| GDP Growth Rate (annual %) | 3.252% (2022) |
+| GDP Per Capita, PPP (current international) | $5,860 (2022) |
+GDP Country Rank 25/197 (2022)
+Economic Indicators [1]
+| Inflation, consumer prices (annual %) | 18.847% (2022) |
+| External debt stocks, total (DOD, current US$) | $76,214,593,269 (2021) |
+| Total tax rate (% of commercial profits) | 34.8% (2019) |
+| Real Interest Rate (5 year average %) | 0.919% (2022) |
+| Manufacturing, value added (% of GDP) | 13.594% (2022) |
+| Current Account Balance (BoP, current US$) | $1,018,598,846 (2022) |
+Labor and Employment [1]
+| Labor Force, Total | 73,272,344 (2022) |
+| Employment in Agriculture (% of total employment) | 35.205% (2021) |
+| Employment in Industry (% of total employment) | 12.661% (2021) |
+| Employment in Services (% of total employment) | 52.134% (2021) |
+| Unemployment Rate | 5.761% (2022) |
+Trade [1]
+| Imports of goods and services (current US$) | $52,186,247,815 (2021) |
+| Exports of goods and services (current US$) | $47,338,716,492 (2021) |
+| Total Merchandise Trade (% of GDP) | 24.36% (2022) |
+| FDI, net inflows (BoP, current US$) | ($186,792,429) (2022) |
+| Commercial Service Exports (current US$) | $4,408,199,241 (2022) |
+Economic Snapshot [1]
+Note: Percentile ranks are calculated using the latest available data for all countries within the last 5 years.
+How to interpret the graph: The purpose of this graph is to take a snapshot of a country’s economy in comparison to other economies. For example, Nigeria’s Exports rank is higher than (please wait...) of the countries in the dataset. For Exports, FDI and GDP measures, a higher rank (closer to 100%) indicates a stronger economy. Conversely, for Unemployment and Inflation, a lower rank (closer to 0%) indicates a stronger economy.

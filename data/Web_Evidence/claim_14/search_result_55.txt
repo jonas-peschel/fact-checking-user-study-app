@@ -1,0 +1,148 @@
+https://cjokoyelawview.com/criminal-litigation/week-4-arrest-searches-and-constitutional-rights
+OUTCOMES
+- Discuss and explain the power of arrest and searches in criminal proceedings;
+- Explain how Criminal summons, search warrants and warrants of arrest are obtained and executed and the admissibility of materials recovered during searches;
+- List and explain the Constitutional/procedural rights and safeguards of an accused person in these procedures;
+- Complete/draft Forms of Summons and warrants.
+There is no writ of summons in criminal litigation, an accused person is brought to court by summon or arrest. The summon here is different from a writ of summons, the procedures are different.
+SEARCHES
+A search is examination of a person’s body, premises or thing. The search under criminal litigation is one that has the force of law.
+Who carries out a search? Police and other officers e.g. NDLEA, Customs.
+The purpose of a search is to retrieve evidence (s.29 police act Cap P19 LFN 2004, ss.107 CPA, 74 CPC, 104 ACJL Lagos 2011, 144 ACJA)
+Types of searches
+There are three main types of searches that have the force of law:
+- Search of persons – this is one that is carried out on the human person.
+- Search of premises
+- Search of things
+- Search of persons: Police has the power to search persons arrested. Ss.9 (1) ACJA; 5(1) ACJL, 6(1) CPL, 44 CPC, 25& 29 Police Act. Cap.P19, LFN 2004.
+Police can conduct search on anyone in lawful custody Ss.5 (6) ACJL, 6(6) CPL, 127 CPC. Other law enforcement agencies –NDLEA customs are also empowered by statute to conduct searches Ss.4 (4) NDLEA Act Cap N30 LFN 2004, S.133 Customs and Excise Management Act.
+S.6 (2) CPA provides that where a woman is to be searched it should be done by a woman but is silent on search carried out on a man, however in practice for decency sake, it is best for a man to be searched by another man. While, s 5(2) ACJL provides that a person is to be searched by a person of the same sex with a sense of decency. This rule doesn’t apply or extend to (appurtenances) items owned by the person so a woman’s bag can be searched by a man.
+Note: The ACJL 2017 is the applicable law in Enugu despite the fact that the law is not in circulation.
+In most instances, search of persons generally may be carried out without search warrant because you can’t abandon the person and go to court to receive a search warrant. It is usually carried out there and then especially when material evidence is to be retrieved unless the person is to be arrested.
+- Search of premises – generally a search cannot be conducted on premises without a search warrant. Right to privacy is provided for under the constitution, therefore it is mandatory that before a search is carried out on premises, a search warrant be obtained. Search conducted without warrant is illegal- right to privacy is violated. Search warrant is an order in writing issued by the competent authority to search and seize any property that may constitute the evidence for the commission of an offence.
+Before a search warrant is obtained, a complaint has to be made that there are certain items that need to be removed from that premises. The search warrant usually contains the list of things to be removed or searched for in the premises and this is why generally a search warrant is required to carry out search of premises.
+Generally a search warrant is required, although some officers are empowered to carry out search of premises without a search warrant.
+Search warrant required for search of premises, see format in (form D).
+Police officer effecting an arrest may search premises without search warrant – ss. 7(1) CPA, 34 (1) CPC.
+In the north, 2 adults must be present during search of premises s.78 (1) CPC, there is however no such requirement required in the south. Why? The two people will act as witnesses and ensure that the searching officer is not planting any incriminating substance and ensure that what is listed on the search warrant is what they’re removing. Usually they’re expected to give a list of what they’re removing to the house owner.
+Premises may also be searched without warrant s.7 (1) CPL, 7(1) ACJL, 34 CPC.
+Custom officers are empowered to search premises without warrants – s.147 (1) customs and excise management act. Anyone within premises may also be searched ss.112 (3) CPL, 81(1) CPC, 109(3) ACJL; 144 ACJA. Women in purdah in the premises should be evacuated because it’s a religious practice. Ss79 CPC, 7 (3) ACJL unless the women are the offenders or the ones whose premises are to be searched, in such instance female police officers are the ones to search their premises.7 (3) ACJL provides that unless the person making the arrest is woman, the notice for the woman to withdraw the premises would not be necessary but is important.
+A police officer can still seize illegal things not listed on the search warrant but discovered upon the search warrant in the premises because i) it may relevant to the offence ii) the owner of premises may be prosecuted on those illegal items.
+- Search of things – search of things may be with or without warrant – Ss. 4and 25 Police Act. Things include motor vehicle, ship aircraft or any other carriage Ss. 144(1)(2) ACJA; 104 (1) ACJL; 107 CPL; 76 CPC, 131 Customs and excise management Act(check s147 CEMA).
+Police or Custom Officers have power to search with or without warrant – Ss. 4 &29 Police Act, 132 Customs and excise management Act 1958 (also check s 147 CEMA).
+Police empowered to stop, detain and search any vehicle suspected of carrying contraband or used in committing criminal act.
+This is general authority of police for prevention and detection of Crime under S.4 Police Act, Cap p19 LFN 2004.
+Who can issue a search warrant?
+- Magistrate, judge, justice of peace: Upon information on oath or in writing – Ss.143& 144 ACJA; 104 (1)(c) ACJL, 76 (1) CPC, 107(1), 109(1) CPA. Specifying items to be searched.
+- Superior police officer(aboverank of cadet ASP); this is limited to when the premises to be searched are, or within the preceding twelve months have been, in the occupation of any person who has been convicted of receiving stolen property or of harbouring thieves, or of any offence involving fraud or dishonesty, and punishable by imprisonment.
+so the instances are limited etc. see Ss.28 (1)&(3) Police Act
+Note that it is only a search warrant that superior police office can issue in certain circumstances; no matter the status of a police officer he cannot issue warrant of arrest.
+For a search warrant to be issued the information has to be laid before Magistrate/ judge/justice of peace and that information has to be in writing and on oath before a search warrant can be issued to the officer.
+A search warrant can be issued on any day including Sunday and public holidays Ss148 ACJA; 108(1) ACJL, S111
+It doesn’t end or expire unless it has been executed or cancelled by the issuing authority ss 146(2) ACJA; 106(2)
+It may be executed on any day including Sunday and public holiday Ss. 148 ACJA; 108(1) ACJL
+Must be executed between the hours of 5am-8pm Ss.108 (1)(2) ACJL, 111 CPL and endorsement is required when execution is outside time stated S.108 (2) ACJL; 111(2) CPL.
+So there is usually a specific time (5am -8pm) unless the issuing officer authorises and endorses it allowing otherwise, he has to put his signature on it. Ss.108 (1) & (2) ACJL
+But see s148 ACJA which says it can be executed at any time.
+Search procedure
+- Occupant of the place to be searched must be present at search s 80 CPC ; 150 ACJA
+- Women in purdah must be evacuated before the search is conducted, notice is given to the woman that she may withdraw and she is to be afforded every reasonable facility for withdrawing. See 79 CPC; 149 (6) ACJA
+- Search is to be in the presence of two witnesses
+Admissibility of Evidence Illegally obtained
+How is admissibility determined?
+Only goods mentioned in search warrant should be seized.
+Assuming the officer comes across goods, which he reasonable believes were stolen and relevant to other offences? Admissible?
+Relevance; To what? – R v Leatham (1861) 3 LT 777, Kuruma v R 1955 A.C 197, R v Senate & sin 1968 52 C.A.R 262, Musa Sadau v The state supra. S. 78(1) CPC
+But see Ss. 14 & 15 Evidence Act, 2011 – these two sections give the courts discretion to admit illegally obtained evidence. Prior to the act the court didn’t have a say, but the sections now give the court discretion and a say in admitting or not admitting evidence illegally obtained.
+Previously they were admissible as a matter of cause, it does not matter how they were obtained but now the EA has given the judge the power to exercise discretion. If the desirability in admitting it is outweighed by the undesirability of it being admitted it would be refused.
+Irregularity in procedure
+In a case where there was a search warrant but it was not carried out in the way and manner laid down by the rules so e.g. he went at a time not stipulated without endorsement from the issuing officer. Will irregularity in issuing or execution of the warrant vitiate the trial? It would not vitiate the trial, so despite the proper procedure was not followed, if the items removed were valid and constituted good evidence, the trial would not be vitiated
+So what are the consequences of irregularity in procedure?
+Irregularity attaches to the executing officer. Thus the officer who carried out the search will be liable in damages. He may be sued by the occupier of the house for damages in civil action – Elias v Passmore 1934 2 KB 164, Reynolds v C.O.P for the Metropolis1985 C.A.R 125
+It will not vitiate trial.
+Ss. 136 ACJA, 98 ACJL, 101 CPL, Okotie v Police (1959) 4 FSC 125
+How is Liability incurred?
+Ojo v Lasisi 2003 FWLR (107) (18) Kuku v Olusoga, Adefunmilayo v Oduntan 1958 WRNLR 31.UAC Plc v Sobodu2006 FWLR (pt. 329) 876
+At the end of the search if no illegal item is found and its discovered that the person who made the report didn’t believe in the report but just made it out of malice or vengeful spite, such persons makes themselves liable to the person whose house was searched.
+A complainant must ensure that a complaint is made bona fide without malice. Otherwise they may incur liability in damages.
+ARREST AND SUMMONS
+What is Criminal Summons?
+This is an invitation to the suspect to appear in court within 48 hrs. S.117 ACJA , 82 ACJL. Summons is usually used for minor offences and not serious ones like homicide.
+Who can issue summons?
+Judge, magistrate or justice of the peace.Ss79 CPA, 79 ACJL, 47(1) CPC
+How is it issued?
+A police or private person can make a complaint so that summons may be issued and it is served personally on the offender who signs the duplicate that he has received it.
+The summons contains the name of the person.
+Service of summons
+- Personal service by police or officer of the court SS 88 CPA, 87 ACJL, 23 ACJL
+- Substitutedservice …..
+Life span of the summons - The death or retirement of the issuing officer does not put an end to the summons ss 103 CPA
+Note: this is different from public summons
+Issue of summons – s 81 ACJL
+Contents of a summon
+- Statement of the offence /name of the offender
+- Must be in writing
+- Invitation to offender to appear
+- A date to appear
+- ……
+Note that in practice summons is rarely used
+Arrest with warrant
+What is an arrest and the role in criminal litigation? Apprehension of offender and prevention of crime.Ss 25 police act
+Warrant of arrest –ss 25-27 CPA, 58(1) CPC, 22,23 ACJL, 36, 39 (1) ACJA
+An authority in writing by a judicial officer directing the arrest of an offender
+Content of a warrant
+- Date of issue
+- Name of offender
+- Concise statement of offence
+- An order to a police/officers 39(1) ACJA
+- Signature of the judicial officer – Ss 22(1-2) ACJL, 56&58 CPC, 36 ACJA (see form 6 in first schedule CPA)
+Issuance of a warrant
+- Who can issue a warrant? – Ss. 22(1) ACJL, 56 CPC, 36(1)(C) ACJA
+- Upon complaint in writing on oath – s 23 ACJL, Ikonne v COP &Wachukwu 1986 4 NWLR (pt.36) 473, 133 ACJA. A Warrant is issued upon complaint by police officer to the judge, a police officer cannot lay an oral complaint before a judicial officer when he wants a warrant of arrest to be issued, it has to be in writing on oath. However if an arrest is not intended, the warrant need not be in writing. *A police officer no matter the rank cannot issue a warrant of arrest.
+- When can it be issued? Any day including Sunday and public holiday SS. 24 ACJL, CPA, 38 ACJA. It can also be executed on any day.
+- Lifespan of a warrant – Ss 25 (2) ACJL, 39(2) ACJA , 56(2) CPC, R v Akinyanju 1959 . Once a warrant is issued it remains in force until it is executed or cancelled. If a person is arrested with a warrant and taken into custody, if he escapes custody, you can’t use that same warrant to re-arrest him, a new warrant has to be issued.
+Note that no matter the rank of the police officer, he cannot issue a warrant of arrest, he has to lay his complaint on oath in writing before a judicial officer to issue a warrant of arrest.
+Also note s.88 and 89 CFRN, 89(d): The powers of the National Assembly to issue warrants of arrest is circumscribed in s 88 of CFRN, once it doesn’t fall into those matters covered therein (s 88 (1) (a) and (b)), they cannot invite or arrest you. It also extends to State House of Assembly as it relates to commissioners at the state level (s2 legislative…)
+Execution of a warrant
+It may be executed on any day, at anytime – S.27(1)&(2) ACJL, 43 ACJA 28(1) 8(2) CPA including Sunday and public holiday. Prima facie there is no time limit on the warrant.
+An individual listed on an arrest warrant can be arrested anywhere except a courtroom – Ss.27 (2) ACJL, 28(2) CPA, and legislative Houses – Tony Momoh v Senate President 1981, s.31 Legislative House (Power & Privileges) Act 1958. The courtroom doesn’t include court premises, likewise legislative house refers to inside the chambers, be it senate or House of Representatives and not the premises. The rationale behind it is thatbecause the sittings are hallowed and an arrest will cause distractions, however aren’t church services hallowed as well, why doesn’t this privilege extend to them? Read the story about Apostle Johnson Sulaiman.
+Also the offender must be shown the warrant (Ss.27 (3), 28 ACJL, 43(3) ACJA) because he has to see the content.
+Endorsement of Warrant
+The issuing officer may endorse the warrant with bail except in capital offences – Ss. 29 ACJL, 57 CPC, 30 CPA , 8(3) ACJA
+Public summons under CPC – when is it issued? The court can issue public summons where under the CPC a person is difficult to arrest or is dodging arrest the court can make a public summons whereby his name will be published in a public place where they feel the accused could be found. So where it wasn’t possible to effect the arrest warrant the court may publish a public summons ss 67(1)(2) CPC, s 41 &42 ACJA
+Suspect must appear within 30 days of publication of public summons
+Execution outside state of issue
+If the warrant is issued in Lagos but the person to be arrested has escaped to cross river or Yenagoa, how do you execute a warrant of arrest outside the issuing state? – Ss. 482(1) CPA, 365 (1) ACJL, The police v Apampa unreported (Suit No.42/1968, R v Olowu 1971, R v The Comr. Of Metropolitan Police Exparte Hammond 1964, Mattaradona v Aliu (1995)
+- The warrant is first taken to a magistrate in the state who then has to ascertain if it was issued by a competent authority and if the offence is known to the law of the stateof issue. After ascertaining this, he will endorse the warrant empowering the police officers to go ahead with the arrest. After the arrest the suspect is brought before the magistrate who endorsed the warrant who will then confirm the suspect was the one against whom the warrant was issued. The magistrate can then consider bail if bail was issued or be transferred back to Lagos where the warrant was issued. If warrant carries endorsement as to bail then the magistrate should allow bail in such terms with the knowledge that he’s (suspect) to face trial in the court of issuance within one month. A suspect cannot be removed from a state without him appearing before a magistrate who confirms all this.
+The procedure is the same for the north and south.
+Arrest without warrant?
+Who may arrest without warrant?
+- The police: if the offence is committed in the presence of the police officer
+- Judicial officers – magistrate/judge: if the offence is committed in the presence of the court.
+- Private person
+Provided that he committed an offence before which he is to be charged to court.
+The general power of police to arrest without warrant is derived from s 4, s24(1)(a)(b)(c) Police act 2004. Upon arrest of suspect, the police officer must inform the person arrested of cause of arrest, except he is arrested during the course of the offence then he is deemed to have notice of the offence – Ss 3 (1-2) ACJL 2011, S 35(2)(3) 1999 CFRN (as amended). Note the exception in Ss 3(1) ACJL.
+He may take him to any other place before police station. Why? See case of Dallison v Caffery (1964) 2 ER 610. So if it is necessary for retrieval of more evidence, upon his arrest he may be taken to another place (e.g. his house or office) where the officer feels he may get material evidence that is relevant to the offence, so that both he and the items may be taken to the police station together.
+Judicial officer
+Power of a judge or Magistrate to arrest without warrant is provided for in Ss15 CPA, 29 CPC, 15 ACJL 2011, 24 ACJA.
+This power is exercisable;
+- Where offence is committed in his presence – s 15 ACJL. Or;
+- If he could have validly arrested with warrant – s.16 (1) ACJL, 25(1)(2) ACJA
+Private persons
+Private persons can effect arrest without warrant,
+Ss. 12(1)(2) ACJL,12 CPA, 28(d) CPC, 20 ACJA, Nweke v The State 1965
+Under the constitution a person has the right to protect their property and so a person can arrest armed robbers without a warrant if he has the physical power to subdue and overpower them.This includes property owner or his servants, SS13(1)(2), 138 ACJL, 21 ACJA.
+What to do after arrest – Ss.14 (1) ACJL, 14 CPA, 39 CPC, 23 ACJA, John Lewis v Tims 1952. What a person does with the suspect is important, an individual has the power to arrest but not the power to keep them indefinitely.
+The person is expected to take them to the nearest police station for re-arrest as soon as it’s practicably possible. You can’t keep them in your house indefinitely because it can lead to a charge for false imprisonment by the persons arrested.
+Mode of arrest
+- Must touch or confine body of suspect unless there’s voluntary submission – S.1 ACJL, S.3 CPA, Sadiq v The State 1982 2 NCR 142 – here she was merely invited to the police station and she refused to show up, she was then sued for resisting arrest, the court held that there was no arrest that it was a mere invitation. 4 ACJA
+- Administer words of caution – Ss.3 (2) ACJL
+- Use of handcuffs is prohibited unless by court order – Ss.2 ACJL, ss.4 CPA, 37 CPC, or to prevent escape, 5 ACJA. Use of handcuffs is prohibited unless there is attempt to escape.
+Arrest in Lieu
+No one must be arrested in lieu of the suspect or accused person. Ss.4 ACJL , 7 ACJA
+Constitutional rights of suspect in searches and arrest
+- Right to be informed of offence Ss 35(3) CFRN , ss3(1) ACJL, 5 CPA , 6 ACJA
+- Right to bail (police bail) Ss. 17 (1&2) ACJL , S35(4) 1999 CFRN
+- Right to legal representation S.35(2) CFRN
+- Right to privacy and family life. S.37 CFRN 1999
+- Right to dignity of human person

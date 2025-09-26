@@ -1,0 +1,9 @@
+https://www.imf.org/external/datamapper/exp@FPP
+IMF
+Data
+Mapper
+{ indicator.label }
+{ indicator.unit }
+{ parent.indicator.unit }
+{ parent.indicator.unit }
+{ related.length }

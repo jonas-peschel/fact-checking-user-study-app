@@ -1,0 +1,379 @@
+https://www.senate.gov/legislative/LIS/roll_call_votes/vote1021/vote_102_1_00002.htm
+XML
+Vote Summary
+Question:
+On the Joint Resolution
+(S.J.Res.2
+)
+Vote Number: 2
+Vote Date: January 12, 1991, 02:44 PM
+Required For Majority: 1/2
+Vote Result: Joint Resolution Passed
+Measure Number: S.J.Res. 2
+(Authorization for Use of Military Force Against Iraq Resolution
+)
+Measure Title: A joint resolution to authorize the use of United States Armed Forces pursuant to United Nations Security Council Resolution 678.
+Vote Counts:
+YEAs52
+NAYs
+47
+Not Voting
+1
+*Information compiled through Senate LIS by the Senate bill clerk under the direction of the secretary of the Senate
+Alphabetical by Senator Name
+Adams (D-WA), Nay
+Akaka (D-HI), Nay
+Baucus (D-MT), Nay
+Bentsen (D-TX), Nay
+Biden (D-DE), Nay
+Bingaman (D-NM), Nay
+Bond (R-MO), Yea
+Boren (D-OK), Nay
+Bradley (D-NJ), Nay
+Breaux (D-LA), Yea
+Brown (R-CO), Yea
+Bryan (D-NV), Yea
+Bumpers (D-AR), Nay
+Burdick, Quentin S (D-ND), Nay
+Burns (R-MT), Yea
+Byrd (D-WV), Nay
+Chafee (R-RI), Yea
+Coats (R-IN), Yea
+Cochran (R-MS), Yea
+Cohen (R-ME), Yea
+Conrad (D-ND), Nay
+Craig (R-ID), Yea
+Cranston (D-CA), Not Voting
+D'Amato (R-NY), Yea
+Danforth (R-MO), Yea
+Daschle (D-SD), Nay
+DeConcini (D-AZ), Nay
+Dixon (D-IL), Nay
+Dodd (D-CT), Nay
+Dole (R-KS), Yea
+Domenici (R-NM), Yea
+Durenberger (R-MN), Yea
+Exon (D-NE), Nay
+Ford (D-KY), Nay
+Fowler (D-GA), Nay
+Garn (R-UT), Yea
+Glenn (D-OH), Nay
+Gore (D-TN), Yea
+Gorton (R-WA), Yea
+Graham (D-FL), Yea
+Gramm (R-TX), Yea
+Grassley (R-IA), Nay
+Harkin (D-IA), Nay
+Hatch (R-UT), Yea
+Hatfield (R-OR), Nay
+Heflin (D-AL), Yea
+Heinz (R-PA), Yea
+Helms (R-NC), Yea
+Hollings (D-SC), Nay
+Inouye (D-HI), Nay
+Jeffords (R-VT), Yea
+Johnston (D-LA), Yea
+Kassebaum (R-KS), Yea
+Kasten (R-WI), Yea
+Kennedy (D-MA), Nay
+Kerrey (D-NE), Nay
+Kerry (D-MA), Nay
+Kohl (D-WI), Nay
+Lautenberg (D-NJ), Nay
+Leahy (D-VT), Nay
+Levin (D-MI), Nay
+Lieberman (D-CT), Yea
+Lott (R-MS), Yea
+Lugar (R-IN), Yea
+Mack (R-FL), Yea
+McCain (R-AZ), Yea
+McConnell (R-KY), Yea
+Metzenbaum (D-OH), Nay
+Mikulski (D-MD), Nay
+Mitchell (D-ME), Nay
+Moynihan (D-NY), Nay
+Murkowski (R-AK), Yea
+Nickles (R-OK), Yea
+Nunn (D-GA), Nay
+Packwood (R-OR), Yea
+Pell (D-RI), Nay
+Pressler (R-SD), Yea
+Pryor (D-AR), Nay
+Reid (D-NV), Yea
+Riegle (D-MI), Nay
+Robb (D-VA), Yea
+Rockefeller (D-WV), Nay
+Roth (R-DE), Yea
+Rudman (R-NH), Yea
+Sanford (D-NC), Nay
+Sarbanes (D-MD), Nay
+Sasser (D-TN), Nay
+Seymour (R-CA), Yea
+Shelby (D-AL), Yea
+Simon (D-IL), Nay
+Simpson (R-WY), Yea
+Smith (R-NH), Yea
+Specter (R-PA), Yea
+Stevens (R-AK), Yea
+Symms (R-ID), Yea
+Thurmond (R-SC), Yea
+Wallop (R-WY), Yea
+Warner (R-VA), Yea
+Wellstone (D-MN), Nay
+Wirth (D-CO), Nay
+Grouped By Vote Position
+YEAs ---52
+Bond (R-MO)
+Breaux (D-LA)
+Brown (R-CO)
+Bryan (D-NV)
+Burns (R-MT)
+Chafee (R-RI)
+Coats (R-IN)
+Cochran (R-MS)
+Cohen (R-ME)
+Craig (R-ID)
+D'Amato (R-NY)
+Danforth (R-MO)
+Dole (R-KS)
+Domenici (R-NM)
+Durenberger (R-MN)
+Garn (R-UT)
+Gore (D-TN)
+Gorton (R-WA)
+Graham (D-FL)
+Gramm (R-TX)
+Hatch (R-UT)
+Heflin (D-AL)
+Heinz (R-PA)
+Helms (R-NC)
+Jeffords (R-VT)
+Johnston (D-LA)
+Kassebaum (R-KS)
+Kasten (R-WI)
+Lieberman (D-CT)
+Lott (R-MS)
+Lugar (R-IN)
+Mack (R-FL)
+McCain (R-AZ)
+McConnell (R-KY)
+Murkowski (R-AK)
+Nickles (R-OK)
+Packwood (R-OR)
+Pressler (R-SD)
+Reid (D-NV)
+Robb (D-VA)
+Roth (R-DE)
+Rudman (R-NH)
+Seymour (R-CA)
+Shelby (D-AL)
+Simpson (R-WY)
+Smith (R-NH)
+Specter (R-PA)
+Stevens (R-AK)
+Symms (R-ID)
+Thurmond (R-SC)
+Wallop (R-WY)
+Warner (R-VA)
+NAYs ---47
+Adams (D-WA)
+Akaka (D-HI)
+Baucus (D-MT)
+Bentsen (D-TX)
+Biden (D-DE)
+Bingaman (D-NM)
+Boren (D-OK)
+Bradley (D-NJ)
+Bumpers (D-AR)
+Burdick, Quentin S (D-ND)
+Byrd (D-WV)
+Conrad (D-ND)
+Daschle (D-SD)
+DeConcini (D-AZ)
+Dixon (D-IL)
+Dodd (D-CT)
+Exon (D-NE)
+Ford (D-KY)
+Fowler (D-GA)
+Glenn (D-OH)
+Grassley (R-IA)
+Harkin (D-IA)
+Hatfield (R-OR)
+Hollings (D-SC)
+Inouye (D-HI)
+Kennedy (D-MA)
+Kerrey (D-NE)
+Kerry (D-MA)
+Kohl (D-WI)
+Lautenberg (D-NJ)
+Leahy (D-VT)
+Levin (D-MI)
+Metzenbaum (D-OH)
+Mikulski (D-MD)
+Mitchell (D-ME)
+Moynihan (D-NY)
+Nunn (D-GA)
+Pell (D-RI)
+Pryor (D-AR)
+Riegle (D-MI)
+Rockefeller (D-WV)
+Sanford (D-NC)
+Sarbanes (D-MD)
+Sasser (D-TN)
+Simon (D-IL)
+Wellstone (D-MN)
+Wirth (D-CO)
+Not Voting -
+1
+Cranston (D-CA)
+Grouped by Home State
+Alabama:
+Heflin (D-AL), Yea
+Shelby (D-AL), Yea
+Alaska:
+Murkowski (R-AK), Yea
+Stevens (R-AK), Yea
+Arizona:
+DeConcini (D-AZ), Nay
+McCain (R-AZ), Yea
+Arkansas:
+Bumpers (D-AR), Nay
+Pryor (D-AR), Nay
+California:
+Cranston (D-CA), Not Voting
+Seymour (R-CA), Yea
+Colorado:
+Brown (R-CO), Yea
+Wirth (D-CO), Nay
+Connecticut:
+Dodd (D-CT), Nay
+Lieberman (D-CT), Yea
+Delaware:
+Biden (D-DE), Nay
+Roth (R-DE), Yea
+Florida:
+Graham (D-FL), Yea
+Mack (R-FL), Yea
+Georgia:
+Fowler (D-GA), Nay
+Nunn (D-GA), Nay
+Hawaii:
+Akaka (D-HI), Nay
+Inouye (D-HI), Nay
+Idaho:
+Craig (R-ID), Yea
+Symms (R-ID), Yea
+Illinois:
+Dixon (D-IL), Nay
+Simon (D-IL), Nay
+Indiana:
+Coats (R-IN), Yea
+Lugar (R-IN), Yea
+Iowa:
+Grassley (R-IA), Nay
+Harkin (D-IA), Nay
+Kansas:
+Dole (R-KS), Yea
+Kassebaum (R-KS), Yea
+Kentucky:
+Ford (D-KY), Nay
+McConnell (R-KY), Yea
+Louisiana:
+Breaux (D-LA), Yea
+Johnston (D-LA), Yea
+Maine:
+Cohen (R-ME), Yea
+Mitchell (D-ME), Nay
+Maryland:
+Mikulski (D-MD), Nay
+Sarbanes (D-MD), Nay
+Massachusetts:
+Kennedy (D-MA), Nay
+Kerry (D-MA), Nay
+Michigan:
+Levin (D-MI), Nay
+Riegle (D-MI), Nay
+Minnesota:
+Durenberger (R-MN), Yea
+Wellstone (D-MN), Nay
+Mississippi:
+Cochran (R-MS), Yea
+Lott (R-MS), Yea
+Missouri:
+Bond (R-MO), Yea
+Danforth (R-MO), Yea
+Montana:
+Baucus (D-MT), Nay
+Burns (R-MT), Yea
+Nebraska:
+Exon (D-NE), Nay
+Kerrey (D-NE), Nay
+Nevada:
+Bryan (D-NV), Yea
+Reid (D-NV), Yea
+New Hampshire:
+Rudman (R-NH), Yea
+Smith (R-NH), Yea
+New Jersey:
+Bradley (D-NJ), Nay
+Lautenberg (D-NJ), Nay
+New Mexico:
+Bingaman (D-NM), Nay
+Domenici (R-NM), Yea
+New York:
+D'Amato (R-NY), Yea
+Moynihan (D-NY), Nay
+North Carolina:
+Helms (R-NC), Yea
+Sanford (D-NC), Nay
+North Dakota:
+Burdick, Quentin S (D-ND), Nay
+Conrad (D-ND), Nay
+Ohio:
+Glenn (D-OH), Nay
+Metzenbaum (D-OH), Nay
+Oklahoma:
+Boren (D-OK), Nay
+Nickles (R-OK), Yea
+Oregon:
+Hatfield (R-OR), Nay
+Packwood (R-OR), Yea
+Pennsylvania:
+Heinz (R-PA), Yea
+Specter (R-PA), Yea
+Rhode Island:
+Chafee (R-RI), Yea
+Pell (D-RI), Nay
+South Carolina:
+Hollings (D-SC), Nay
+Thurmond (R-SC), Yea
+South Dakota:
+Daschle (D-SD), Nay
+Pressler (R-SD), Yea
+Tennessee:
+Gore (D-TN), Yea
+Sasser (D-TN), Nay
+Texas:
+Bentsen (D-TX), Nay
+Gramm (R-TX), Yea
+Utah:
+Garn (R-UT), Yea
+Hatch (R-UT), Yea
+Vermont:
+Jeffords (R-VT), Yea
+Leahy (D-VT), Nay
+Virginia:
+Robb (D-VA), Yea
+Warner (R-VA), Yea
+Washington:
+Adams (D-WA), Nay
+Gorton (R-WA), Yea
+West Virginia:
+Byrd (D-WV), Nay
+Rockefeller (D-WV), Nay
+Wisconsin:
+Kasten (R-WI), Yea
+Kohl (D-WI), Nay
+Wyoming:
+Simpson (R-WY), Yea
+Wallop (R-WY), Yea

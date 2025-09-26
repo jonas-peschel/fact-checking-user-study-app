@@ -1,0 +1,214 @@
+https://fever.ai/dataset/averitec.html
+AVeriTeC (Automated Verification of Textual Claims) is a dataset of 4568 real-world claims covering fact-checks by 50 different organizations. Each claim is annotated with question-answer pairs supported by evidence available online, as well as textual justifications explaining how the evidence combines to produce a verdict. The Claims in AVeriTeC are classified into four labels: "Supported", "Refuted", "Not Enough Evidence", "Conflicting Evidence/Cherry-picking". The dataset also contains several fields of metadata such as the speaker of the claim, the publisher of the claim, the date the claim was published, and the location most relevant to the claim. These can be used to support questions, answers, and justifications.
+AVERITEC: A Dataset for Real-world Claim Verification with Evidence from the Web
+Michael Schlichtkrull, Zhijiang Guo, Andreas Vlachos
+@inproceedings{ schlichtkrull2023averitec, title={AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web}, author={Michael Sejr Schlichtkrull and Zhijiang Guo and Andreas Vlachos}, booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track}, year={2023}, url={https://openreview.net/forum?id=fKzSz0oyaI} }
+The dataset is formatted as JSON, with each split located as a separate file in the data-folder.
+Each claim is an object of the following form:
+claim
+: The claim text itself. required_reannotation
+: True or False. Denotes that the claim received a second round of QG-QA and quality control annotation. label
+: The annotated verdict for the claim. justification
+: A textual justification explaining how the verdict was reached from the question-answer pairs. claim_date
+: Our best estimate for the date the claim first appeared. speaker
+: The person or organization that made the claim, e.g. Barrack Obama, The Onion. original_claim_url
+: If the claim first appeared on the internet, a url to the original location. cached_original_claim_url
+: Where possible, an archive.org link to the original claim url. fact_checking_article
+: The fact-checking article we extracted the claim from. reporting_source
+: The website or organization that first published the claim, e.g. Facebook, CNN. location_ISO_code
+: The location most relevant for the claim. Highly useful for search. claim_types
+: The types of the claim. fact_checking_strategies
+: The strategies employed in the fact-checking article". questions
+:
+question
+: A fact-checking question for the claim. answers
+:
+answer
+: The answer to the question. answer_type
+: Whether the answer was abstractive, extractive, boolean, or unanswerable. source_url
+: The answer to the question. cached_source_url
+: An archive.org link for the source url. source_medium
+: The medium the answer appeared in, e.g. web text, a pdf, or an image. Below are four examples of the data structure.
+{
+"claim": "Hunter Biden had no experience in Ukraine or in the energy sector when he joined the board of Burisma.",
+"required_reannotation": false,
+"label": "Supported",
+"justification": "No former experience stated.",
+"claim_date": "25-8-2020",
+"speaker": "Pam Bondi",
+"original_claim_url": null,
+"cached_original_claim_url": null,
+"fact_checking_article": "https://web.archive.org/web/20210111003633/https://www.politifact.com/article/2020/aug/26/fact-checking-second-night-2020-rnc/",
+"reporting_source": "Speech at The Republican National Convention",
+"location_ISO_code": "US",
+"claim_types": [
+"Position Statement"
+],
+"fact_checking_strategies": [
+"Written Evidence"
+],
+"questions": [
+{
+"question": "Did Hunter Biden have any experience in the energy sector at the time he joined the board of the Burisma energy company in 2014",
+"answers": [
+{
+"answer": "No",
+"answer_type": "Boolean",
+"source_url": "https://en.wikipedia.org/wiki/Hunter_Biden",
+"source_medium": "Web text",
+"boolean_explanation": "Hunter bidens previous career history does not include work for energy company's.",
+"cached_source_url": "https://web.archive.org/web/20230323135844/https://en.wikipedia.org/wiki/Hunter_Biden"
+}
+]
+},
+{
+"question": "Did Hunter Biden have any experience in Ukraine at the time he joined the board of the Burisma energy company in 2014",
+"answers": [
+{
+"answer": "No",
+"answer_type": "Boolean",
+"source_url": "https://en.wikipedia.org/wiki/Hunter_Biden",
+"source_medium": "Web text",
+"boolean_explanation": "Hunter Bidens previous career history does not include working with Ukrainian company's.",
+"cached_source_url": "https://web.archive.org/web/20230323135844/https://en.wikipedia.org/wiki/Hunter_Biden"
+}
+]
+}
+],
+}
+{
+"claim": "Donald Trump delivered the largest tax cuts in American history.",
+"required_reannotation": false,
+"label": "Refuted",
+"justification": "Three tax bills have been larger than that of Donald Trump",
+"claim_date": "25-8-2020",
+"speaker": "Eric Trump",
+"original_claim_url": null,
+"cached_original_claim_url": null,
+"fact_checking_article": "https://web.archive.org/web/20210111003633/https://www.politifact.com/article/2020/aug/26/fact-checking-second-night-2020-rnc/",
+"reporting_source": "Speech at The Republican National Convention",
+"location_ISO_code": "US",
+"claim_types": [
+"Numerical Claim"
+],
+"fact_checking_strategies": [
+"Written Evidence",
+"Numerical Comparison"
+],
+"questions": [
+{
+"question": "Did the 2017 tax bill deliver the largest tax cuts in American history?",
+"answers": [
+{
+"answer": "This tax cut is the 8th largest as a percent of Gross Domestic Product (GDP) since 1918 and the 4th largest in inflation-adjusted dollars.",
+"answer_type": "Abstractive",
+"source_url": "https://www.crfb.org/blogs/president-trumps-tax-cut-largest-history-yet",
+"source_medium": "Web text",
+"cached_source_url": "https://web.archive.org/web/20230202181046/https://www.crfb.org/blogs/president-trumps-tax-cut-largest-history-yet"
+}
+]
+},
+{
+"question": "Has there been larger tax bills than the 2017 tax bill?",
+"answers": [
+{
+"answer": "Three tax bills have been larger: American Taxpayer Relief Act of 2012 (enacted in 2013); \nTax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 and\nEconomic Recovery Tax Act of 1981",
+"answer_type": "Abstractive",
+"source_url": "https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/WP81-Table2013.pdf",
+"source_medium": "Web table",
+"cached_source_url": "https://web.archive.org/web/20230420092455/https://home.treasury.gov/"
+}
+]
+}
+],
+}
+{
+"claim": "Kenya had a population of about 48 million with one judge serving over 300,000 people in 2019.",
+"required_reannotation": false,
+"label": "Not Enough Evidence",
+"justification": "From the question and answer pairs, there is not enough evidence to label the claim. Therefore, it is not enough evidence.",
+"claim_date": "23-8-2020",
+"speaker": "David Maraga ",
+"original_claim_url": "https://www.youtube.com/watch?v=xb0LoEBc6_o&feature=youtu.be&t=761",
+"cached_original_claim_url": "https://web.archive.org/web/20230420110107/https://www.youtube.com/watch?v=xb0LoEBc6_o&feature=youtu.be&t=761"
+"fact_checking_article": "https://web.archive.org/web/20210127231105/https://africacheck.org/fact-checks/reports/factchecking-kenyas-chief-justice-judiciary-funding-and-backlog-cases",
+"reporting_source": "Youtube: NTV Kenya",
+"location_ISO_code": "KE",
+"claim_types": [
+"Numerical Claim"
+],
+"fact_checking_strategies": [
+"Numerical Comparison"
+],
+"questions": [
+{
+"question": "According to the 2019 census data what was the population of Kenya?",
+"answers": [
+{
+"answer": "Posted on November 4, 2019\nThe total enumerated population was 47,564,296",
+"answer_type": "Extractive",
+"source_url": "https://www.knbs.or.ke/?p=5621",
+"source_medium": "Web text",
+"cached_source_url": "https://web.archive.org/web/20230328172723/https://www.knbs.or.ke/?p=5621"
+}
+]
+},
+{
+"question": "How many judges were there as of June 2019?",
+"answers": [
+{
+"answer": "No answer could be found.",
+"answer_type": "Unanswerable",
+"source_url": "",
+"source_medium": ""
+}
+]
+}
+],
+}
+{
+"claim": "Anxiety levels among young teenagers dropped during the coronavirus pandemic, a study has suggested",
+"required_reannotation": false,
+"label": "Conflicting Evidence/Cherrypicking",
+"justification": "One study shows anxiety dropping amongst young teenagers, but another study shows it depends on age and whether child will be receiving exam results.",
+"claim_date": "23-8-2020",
+"speaker": null,
+"original_claim_url": null,
+"cached_original_claim_url": null
+"fact_checking_article": "https://web.archive.org/web/20201126085147/https://fullfact.org/health/child-anxiety-pandemic/",
+"reporting_source": "Media Outlets",
+"location_ISO_code": null,
+"claim_types": [
+"Causal Claim"
+],
+"fact_checking_strategies": [
+"Written Evidence",
+"Consultation"
+],
+"questions": [
+{
+"question": "What study is this based on?",
+"answers": [
+{
+"answer": "The study was based on a survey of around 1,000 year 9 students in the south west of England. It found that students reported lower levels of anxiety when surveyed in April and May of this year compared to October 2019. \n\nIt also found an increase in wellbeing but \u201cno large change in risk of depression.\u201d",
+"answer_type": "Abstractive",
+"source_url": "https://web.archive.org/web/20201126085147/https://sphr.nihr.ac.uk/wp-content/uploads/2020/08/Young-Peoples-Mental-Health-during-the-COVID-19-Pandemic-Report.pdf",
+"source_medium": "Web text",
+"cached_source_url": "https://web.archive.org/web/20201126085147/https://sphr.nihr.ac.uk/wp-content/uploads/2020/08/Young-Peoples-Mental-Health-during-the-COVID-19-Pandemic-Report.pdf"
+}
+]
+},
+{
+"question": "Is this study backed up by further research?",
+"answers": [
+{
+"answer": "There\u2019s nothing wrong with this study in terms of its method or what it claims, but it shouldn\u2019t necessarily be taken to represent the experience of all children across the country. \n\nIt can\u2019t rule out the possibility that the mental toll of the pandemic may have been different across different parts of the country, and for people of different ages. \n\nFor example, a study out of the University of Oxford, asked parents and carers to report any changes in behavior of their children during a one-month period in lockdown. It found that while parents and carers reported that the emotional difficulties of adolescents decreased, the emotional difficulties of children aged four to ten increased. \n\nAlso a potential contributor to feelings of anxiety among students during the pandemic has been the uncertainty over exam results, which would have primarily affected students in years 11 and 13, not year 9 (as the study itself notes).",
+"answer_type": "Abstractive",
+"source_url": "https://web.archive.org/web/20201126085147/https://www.ox.ac.uk/news/2020-06-16-children-show-increase-mental-health-difficulties-over-covid-19-lockdown",
+"source_medium": "Web text",
+"cached_source_url": "https://web.archive.org/web/20201126085147/https://www.ox.ac.uk/news/2020-06-16-children-show-increase-mental-health-difficulties-over-covid-19-lockdown"
+}
+]
+}
+],
+}

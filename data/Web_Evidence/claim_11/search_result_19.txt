@@ -1,0 +1,4 @@
+https://data.worldbank.org/indicator/NY.GDP.PETR.RT.ZS?locations=NG
+Oil rents (% of GDP) - Nigeria
+The Changing Wealth of Nations, World Bank ( WB ), uri: worldbank.org/en/publication/changing-wealth-of-nations/data, publisher: World Bank ( WB );
+Staff estimates, World Bank ( WB ), note: World Bank staff estimates based on sources and methods described in the World Bank's The Changing Wealth of Nations.

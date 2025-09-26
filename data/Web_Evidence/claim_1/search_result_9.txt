@@ -1,0 +1,665 @@
+https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act
+Tax Cuts and Jobs Act
+| Long title | An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 |
+|---|---|
+| Acronyms (colloquial) | TCJA |
+| Nicknames | Tax Cuts and Jobs Act GOP tax reform Trump tax cuts Cut Cut Cut Act[1] |
+| Enacted by | the 115th United States Congress |
+| Effective | January 1, 2018 |
+| Citations | |
+| Public law | Pub. L. 115–97 (text) (PDF) |
+| Statutes at Large | 131 Stat. 2054 |
+| Codification | |
+| Acts affected | Internal Revenue Code of 1986 |
+| Agencies affected | Internal Revenue Service |
+| Legislative history | |
+| |
+| Major amendments | |
+| One Big Beautiful Bill Act | |
+| United States Supreme Court cases | |
+|
+The Tax Cuts and Jobs Act, Pub. L. 115–97 (text) (PDF), is a United States federal law that amended the Internal Revenue Code of 1986, and also known as the Trump Tax Cuts, but officially the law has no short title, with that being removed during the Senate amendment process.[2] The New York Times described the TCJA as "the most sweeping tax overhaul in decades".[3] Studies show the TCJA increased the federal debt, as well as after-tax incomes disproportionately for the most affluent.[4] It led to an estimated 11% increase in corporate investment, but its effects on economic growth and median wages were smaller than expected and modest at best.[5]
+Major elements of the changes include reducing tax rates for corporations and individuals, increasing the standard deduction and family tax credits, eliminating personal exemptions and making it less beneficial to itemize deductions, limiting deductions for state and local income taxes and property taxes, further limiting the mortgage interest deduction, reducing the alternative minimum tax for individuals and eliminating it for corporations, doubling the estate tax exemption, and reducing the penalty for violating the individual mandate of the Affordable Care Act (ACA) to $0.[6][7]
+Most of the changes introduced by the bill went into effect on January 1, 2018, and did not affect 2017 taxes.[8] Many tax cut provisions contained in the TCJA, notably including individual income tax cuts, such as the changes to the standard deduction in §63 of the IRC, were scheduled to expire in 2025 while many of the business tax cuts were set to expire in 2028.[9][10] However, in 2025, Congress passed the One Big Beautiful Bill Act, which extends most provisions of the TCJA beyond their original expiration dates.[11] Extending the cuts have caused economists across the political spectrum to worry it could boost inflationary pressures[12][13] and worsen America's fiscal trajectory.[14] The Congressional Budget Office estimated that extending the expiring provisions would add $4.6 trillion in deficits over 10 years.[15]
+Plan elements
+[edit]Individual income tax
+[edit]| Under previous law | Under TCJA | ||
+|---|---|---|---|
+| Rate | Income bracket | Rate | Income bracket |
+| 10% | $0–$9,525 | 10% | $0–$9,525 |
+| 15% | $9,525–$38,700 | 12% | $9,525–$38,700 |
+| 25% | $38,700–$93,700 | 22% | $38,700–$82,500 |
+| 28% | $93,700–$195,450 | 24% | $82,500–$157,500 |
+| 33% | $195,450–$424,950 | 32% | $157,500–$200,000 |
+| 35% | $424,950–$426,700 | 35% | $200,000–$500,000 |
+| 39.6% | $426,700 and up | 37% | $500,000 and up |
+| Under previous law | Under TCJA | ||
+|---|---|---|---|
+| Rate | Income bracket | Rate | Income bracket |
+| 10% | $0–$19,050 | 10% | $0–$19,050 |
+| 15% | $19,050–$77,400 | 12% | $19,050–$77,400 |
+| 25% | $77,400–$156,150 | 22% | $77,400–$165,000 |
+| 28% | $156,150–$237,950 | 24% | $165,000–$315,000 |
+| 33% | $237,950–$424,950 | 32% | $315,000–$400,000 |
+| 35% | $424,950–$480,050 | 35% | $400,000–$600,000 |
+| 39.6% | $480,050 and up | 37% | $600,000 and up |
+Under the law, there were numerous changes to the individual income tax, including changing the income level of individual tax brackets, lowering tax rates, and increasing the standard deductions and family tax credits while itemized deductions are reduced and the personal exemptions are eliminated.
+Most individual income taxes are reduced, until 2025. The number of income tax brackets remain at seven, but the income ranges in several brackets have been changed and most brackets have lower rates. These are marginal rates that apply to income in the indicated range as under current law (i.e., prior Public Law 115-97 or the Act), so a higher income taxpayer will have income taxed at several different rates.[16][17] A different inflation measure (Chained CPI or C-CPI) will be applied to the brackets instead of the Consumer Price Index (CPI), so the brackets increase more slowly. This is effectively a tax increase over time, as people move more quickly into higher brackets as their income rises; this element is permanent.[18][19]
+The standard deduction nearly doubles, from $12,700 to $24,000 for married couples. For single filers, the standard deduction will increase from $6,350 to $12,000. About 70% of families choose the standard deduction rather than itemized deductions; this could rise to over 84% if doubled. The personal exemption is eliminated—this was a deduction of $4,050 per taxpayer and dependent, unless it is in an estate or trust.[18][19][20]
+The child tax credit (CTC) is doubled from $1,000 to $2,000, $1,400 of which will be refundable. There is also a $500 credit for other dependents, versus zero under current law. The lower threshold for the high-income phaseout for the CTC changes from $110,000 AGI to $400,000 for married filers.[21]
+Mortgage interest deduction for newly purchased homes (and second homes) was lowered from total loan balances of $1 million under current law to $750,000. Interest from home equity loans (aka second mortgages) is no longer deductible, unless the money is used for home improvements.
+The deduction for state and local income tax, sales tax, and property taxes ("SALT deduction") will be capped at $10,000. This has more impact on taxpayers with more expensive property, generally those who live in higher-income areas, or people in states with higher rates for state tax.[22]
+The act zeroed out the federal tax penalty for violating the individual mandate of the Affordable Care Act, starting in 2019. (In order to pass the Senate under reconciliation rules with only 50 votes, the requirement itself is still in effect).[23] This is estimated to save the government over $300 billion, because up to an estimated 13 million fewer people will have insurance coverage, resulting in the government giving fewer tax subsidies. It is estimated to increase premiums on the health insurance exchanges by up to 10%.[24] It also expands the amount of out-of-pocket medical expenses that may be deducted by lowering threshold from 10% of adjusted gross income to 7.5%, but only for 2017 (retroactively) and 2018. Effective January 1, 2019, the threshold will increase to 10%.[25]
+No changes are made to major education deductions and credits, or to the teacher deduction for unreimbursed classroom expenses, which remains at $250. The bill initially expanded usage of 529 college savings accounts for both K–12 private school tuition and homeschools, but the provision regarding homeschools was overruled by the Senate parliamentarian and removed. The 529 savings accounts for K-12 private school tuition provision was left intact.[26]
+Taxpayers will only be able to deduct a casualty loss if it occurs in a federally declared disaster area.[27]
+Alimony paid to a former spouse will no longer be deductible by the payer, and alimony payments will no longer be included in the recipient's gross income. This effectively shifts the tax burden of alimony from the recipient to the payer, increases the amount of tax collected on the income transferred as alimony, and simplifies the audit trail for the IRS.[citation needed] This provision is effective for divorce and separation agreements signed after December 31, 2018.[28]
+Employment-related moving expenses will no longer be deductible, except for moves related to active-duty military service.[29]
+The miscellaneous itemized deduction, including tax-deductions for tax-preparation fees, investment expenses, union dues, and unreimbursed employee expenses, are eliminated.[30]
+Fewer people will pay the Alternative minimum tax because the act increases the exemption level from $84,500 to $109,400 for married taxpayers filing jointly and from $54,300 to $70,300 for single taxpayers.[31]
+The act repeals the ability to recharacterize Roth conversions.[32][33]
+The act exempts the discharge of certain student loans due to the death or total permanent disability of the borrower from taxable income. This provision applies only to debt discharged during tax years 2018 through 2025.[34][35]
+The act now taxes survivors benefits that were allocated to the children of a deceased military service member as if they were for a trust or estate, which can subject them to an income tax rate of up to 37%.[36]
+Estate tax
+[edit]For deaths occurring between 2018 and 2025, estates that exceed $11.2 million are subject to a 40% estate tax at time of death, increased from $5.6 million previously. For a married couple aggregating their exemptions, an estate exceeding $22.4 million is subject to a 40% estate tax at time of death.[37]
+Corporate tax
+[edit]The corporate tax rate was changed from a tiered tax rate ranging from 15% to as high as 39% depending on taxable income[38] to a flat 21%, while some related business deductions and credits were reduced or eliminated. The Act also changed the U.S. from a global to a territorial tax system with respect to corporate income tax. Instead of a corporation paying the U.S. tax rate for income earned in any country (less a credit for taxes paid to that country), each subsidiary pays the tax rate of the country in which it is legally established. In other words, under a territorial tax system, the corporation saves the difference between the generally higher U.S. tax rate and the lower rate of the country in which the subsidiary is legally established. Bloomberg journalist Matt Levine explained the concept, "If we're incorporated in the U.S. [under the old global tax regime], we'll pay 35 percent taxes on our income in the U.S. and Canada and Mexico and Ireland and Bermuda and the Cayman Islands, but if we're incorporated in Canada [under a territorial tax regime, proposed by the Act], we'll pay 35 percent on our income in the U.S. but 15 percent in Canada and 30 percent in Mexico and 12.5 percent in Ireland and zero percent in Bermuda and zero percent in the Cayman Islands."[39] In theory, the law would reduce the incentive for tax inversion, which is used today to obtain the benefits of a territorial tax system by moving U.S. corporate headquarters to other countries.[40]
+One-time repatriation tax of profits in overseas subsidiaries is taxed at 8%, 15.5% for cash. U.S. multinationals have accumulated nearly $3 trillion offshore, much of it subsidiaries in tax-haven countries. The Act may encourage companies to bring the money back to the U.S. at these much lower rates.[41][42]
+The Corporate Alternative Minimum Tax was eliminated.[40]
+The law also eliminated the net operating loss carryback, a procedure by which a company with significant losses could receive a tax refund by counting the losses as part of the previous year's tax return. They were considered important in providing liquidity during a recession. The provision was cut in order to finance the tax cuts in the act, and was one of the largest offsets in the law.[43]
+Additionally, the domestic production activities deduction was eliminated by the Tax Cuts and Jobs Act.[44]
+Churches and nonprofit organizations
+[edit]Employee compensation
+[edit]There is a 25% excise tax on compensation paid to certain employees of churches and other tax-exempt organizations.[45] The excise tax applies to any organization that is tax-exempt under 501(c) or 501(d), a Section 521(b)(1) farmer's cooperative, Section 527 political organizations, and organizations that have Section 115(1) income that is earned by performing essential government functions.[46]
+The excise tax applies to compensation paid to certain employees in excess of $1,000,000 during the year. The employees covered under this rule are the organization's five highest-compensated employees and any employees who previously had this status after 2016.[46] Compensation is exempt from the excise tax if the compensation is paid to medical doctors, dentists, veterinarians, nurse practitioners, and other licensed professionals providing medical or veterinary services. Compensation includes all current compensation, qualifying deferred compensation, non-qualifying deferred compensation without substantial risk of forfeiture, income under Section 457(f), and severance payments, but excluding Roth retirement contributions.[47][48][49]
+An organization may also be subject to the 21% excise tax if an organization has a deferred compensation plan in which benefits are spread over several years and then vest all at once.[50] Severance payments exceeding triple an employee's average salary during the last five years may also be subject to the 21% excise tax.[50]
+University investment tax
+[edit]There is a 1.4% excise tax on investment income of certain private tax-exempt colleges and universities. The excise tax applies only if the institution has at least 500 tuition-paying students and more than half the students are located in the United States. The excise tax applies if the institution and its related organizations have an endowment with an aggregate fair-market value at the end of the preceding tax year of at least $500,000 per full-time student, excluding assets used directly in carrying out institution's tax-exempt purpose.[51][48]
+This provision has been referred to as an endowment tax, and it has been estimated that it applies to around 32 universities.
+Some provisions from the earlier House bill were dropped that would have taxed graduate student tuition waivers, tuition benefits for children and spouses of employees, and student loan interest.[52] A Senate Parliamentarian ruling on December 19 changed the exemption threshold from 500 tuition-paying students to 500 total students.[53] Endowment funds used to carry out a college's tax-exempt purpose are excluded from the asset threshold, but Internal Revenue Service has not issued regulations specifically defining this term.[54]
+In addition, a tax deduction is now disallowed entirely for charitable contributions if the donor receives rights to receive seats to college athletic events.[48] Formerly, 80% of the charitable contribution was considered to be a tax-deductible charitable contribution.[48]
+Parking and public transportation provided to employees
+[edit]Unrelated business income is now increased by the amount a church or other tax-exempt organization pays or incurs for qualifying parking or qualifying transportation benefits for its employees. This type of unrelated business income includes only tax-free transportation benefits provided to employees, not transportation benefits that are included in the employee's taxable wages.[55]
+Unrelated business income does not result if the employer provides free parking for employees, the majority of the parking spaces are available to the general public during the organization's normal business hours, and none of the parking spots reserved for its employees.[55] If some parking spots are reserved for employees, then unrelated business income results from a portion of the total parking expenses, based on the percentage of parking spots that are reserved for its employees.[55]
+The Internal Revenue Service has clarified that the employer should use a reasonable method to determine the value of parking benefits provided to its employees.[55] The value of the parking spaces should include repairs, maintenance, utility costs, insurance, property taxes, interest, snow and ice removal, leaf removal, trash removal, cleaning, landscape costs, parking attendant expenses, security, and rent or lease payments, but not depreciation expense.[55]
+A church or other tax-exempt organization would need to file Form 990-T and pay unrelated business income tax if its total unrelated business income exceeds $1,000 during the fiscal year.[55][56] Netting the unrelated business income from transportation with other unrelated business income in order to reduce or eliminate the amount of tax due is allowed.[55]
+Some states and jurisdictions require all employers to provide these benefits to their employees, which may result in an organization being required to choose between paying unrelated business income tax to the federal government or being in noncompliance with state and local laws.[48]
+Unrelated business income
+[edit]Unrelated business income is now separately computed for each trade or business activity of the church or other tax-exempt organization. Losses on one trade or business can no longer be used to offset gains on another trade or business for unrelated business income purposes. Net operating losses generated before January 1, 2018, and carried forward to other tax years are not affected and can be used to offset gains from any trade or business activity. Some affected organizations are considering incorporating for-profit subsidiaries and then moving all unrelated business income to the for-profit subsidiaries, which might make all the unrelated business income count as the same category of trade or business activity, namely "income from for-profit subsidiaries".[57][48] Unrelated business taxable income from transportation benefits is not considered a trade or business activity and will be applied after totaling all of the organization's unrelated business income overall.[58][59][60]
+Net operating losses are now limited to 80% of taxable income for tax years beginning after December 31, 2017.[58] Unrelated business income tax is now assessed at the flat rate of 21%, rather than at a graduated tax rate, except for unrelated business income earned on or before December 31, 2017.[61][48] Net operating losses for tax years ending after December 31, 2017 may now be carried forward to future tax years indefinitely.[58]
+Charitable contributions
+[edit]More individuals will choose to take the standard deduction rather than itemize their tax deductions because of the increase in standard deduction and limitation on itemized deduction for state and local taxes. As a result, these individuals will not see a tax savings from donations to churches or other eligible nonprofit organizations, and churches and other organizations may receive fewer charitable contributions.[48][62][63][64]
+The indexed estate tax exemption was doubled, which means that people may not need to include charitable contributions being written into their will in order to reduce the estate tax paid, which is expected to reduce the amount of charitable contributions given to churches and nonprofit organizations overall.[48]
+Tax credit for paid family and medical leave
+[edit]The Tax Cuts and Jobs Act of 2017 allows a tax credit for employers that provide paid family and medical leave to employees. A 501(c)(3) organization is not eligible for the tax credit.[65]
+Miscellaneous tax provisions
+[edit]This section needs to be updated.(December 2017) |
+The Act contains a variety of miscellaneous tax provisions, many advantaging particular special interests.[66] Miscellaneous provisions include:
+- Internal Revenue Code section 1031, which allowed the deferment of capital gains taxes on so-called "like-kind exchanges" of a wide array of real, personal, and business property, was maintained for real property but repealed for other types of property.[67]
+- A tax break for citrus growers,[68] allowing them to deduct the cost of replanting "citrus plants lost or damaged due to causes like freezing, natural disaster or disease."[66]
+- The extension of "full expensing," a favorable tax treatment provision for film and television production companies, to 2022. The provision allows such companies "to write-off the full cost of their investments in the first year." The Joint Committee on Taxation estimates that the extension will lead to the loss of about $1 billion in federal revenue per year.[68]
+- A provision ending a corporate tax exemption for certain international airlines with commercial flights to the United States (specifically, in cases where "the country where the foreign airline is headquartered doesn't have a tax treaty with the U.S., and if major U.S. airliners make fewer than two weekly trips to that foreign country"). This provision is seen as likely to disadvantage Gulf airlines (such as Etihad, Emirates and Qatar Airways); major U.S. airlines have complained that the Gulf states provide unfair subsidies to those carriers.[68]
+- Reductions in excise taxes on alcohol for a two-year period.[69] The Senate bill would reduce the tax on "the first 60,000 barrels of beer produced domestically by small brewers" from $7 to $3.50 and would reduce the tax on the first 6 million barrels produced from $18 to $16 per barrel.[68] The Senate bill would also extend a tax credit on wine production to all wineries and would extend the credit to the producers and importers of sparkling wine as well.[66] These provisions were supported by the alcohol lobby, specifically the Beer Institute, Wine Institute, and Distilled Spirits Council.[69]
+- Exempts private jet management companies from the 7.5% federal excise tax that is levied on tickets for commercial flights.[70][71]
+- A late change to the bill created what came to be called the "grain glitch", which altered an existing deduction for U.S. production in a way that allowed farmers to deduct 20% of their total sales to agricultural cooperatives. According to The New York Times, this "caused an uproar among independent agriculture businesses that say they can no longer compete with cooperatives."[72] This glitch was corrected by the Consolidated Appropriations Act, 2018.[73]
+- Because of a drafting error, businesses making renovations or other improvements must now use a 39-year depreciation schedule for the cost of these improvements instead of the intended 15-year period, which reduces allowable business tax deductions each year.[72]
+- The creation of opportunity zones, allowing for tax advantages for investments in low-income areas.[74]
+Arctic National Wildlife Refuge drilling
+[edit]The Act contains provisions that would open 1.5 million acres (6,100 km2) in the Arctic National Wildlife Refuge to oil and gas drilling.[75][76] This major push to include this provision in the tax bill came from Republican Senator Lisa Murkowski.[77][78][79] The move is part of the long-running Arctic Refuge drilling controversy; Republicans had attempted to allow drilling in ANWR almost 50 times.[78] Opening the Arctic Refuge to drilling "unleashed a torrent of opposition from conservationists and scientists."[79] Democrats[77][78] and environmentalist groups such as the Wilderness Society criticized the Republican effort.[78]
+Legislative history
+[edit]The bill was introduced in the United States House of Representatives on November 2, 2017 by Congressman Kevin Brady, Republican representative from Texas. On November 9, 2017, the House Ways and Means Committee passed the bill on a party-line vote, advancing the bill to the House floor.[80] The House passed the bill on November 16, 2017, on a mostly-party line vote of 227–205. No Democrat voted for the bill, while 13 Republicans voted against it.[81][82] On the same day, companion legislation passed the Senate Finance Committee, again on a party-line vote, 14–12.[83] On November 28, the legislation passed the Senate Budget Committee, again on a party-line vote.[84] In the early morning hours of December 2, 2017, the Senate passed its version of the bill by a 51–49 vote. Bob Corker (R–TN) was the only Republican senator to vote against this version of the bill and it received no Democratic Party support.[85]
+Differences between the House and Senate bills were reconciled in a conference committee that signed the final version on December 15, 2017. The final version contained relatively minor changes from the Senate version.[86] The House passed the penultimate version of the bill on December 19, 2017.[87] In the December 19 vote, the same Republicans who voted against the original House bill still voted against it (with the exception of Tom McClintock, who voted in favor on December 19 after having voted against the original House bill).[88] However, several provisions of the bill violated the Senate's procedural rules, which meant that the House of Representatives needed to re-vote with the objectionable provisions removed.[89] The Senate passed the final bill, 51–48, on December 20, 2017; all Senate Republicans voted for the bill except Sen. John McCain, who was absent for health reasons.[90] On the same day, a re-vote was held in the House; the bill passed, 224–201.[91][92] President Trump then signed the bill into law on December 22, 2017.[93]
+Differences between the House and Senate bills
+[edit]There were important differences between the House and Senate versions of the bills, due in part to the Senate reconciliation rules, which required that the bill impact the deficit by less than $1.5 trillion over ten years and have minimal deficit impact thereafter. (The Byrd Rule allows senators to block legislation if it would increase the deficit significantly beyond a ten-year period.[94][95]) For example:
+- The House plan had four income tax brackets ranging from 12% to 39.6%, while the Senate bill kept seven brackets ranging from 10% to 38.5%.[96]
+- The House plan cut the corporate tax immediately, while the Senate plan delayed it until 2019.
+- The House plan made both individual and corporate taxes "permanent" (i.e., no set expiration) while the Senate bill had most of the individual tax cuts expiring (but not the business cuts).
+- The House plan did not repeal the health insurance individual mandate, while the Senate bill and final Act did.
+- The House plan eliminated deductions for state, local, and sales taxes paid, and capped property deductions at $10,000. The Senate bill initially would have eliminated the state and local property tax deduction, but in the later Act, this was later changed back to a $10,000 mirroring the House version.
+- The House plan allowed parents to put aside money for an unborn child's college education. The Senate bill did not include this provision.
+- The House plan capped the deduction for mortgage interest to the first $500,000 mortgage debt versus the current $1 million, while the Senate did not change it.[97]
+- The House plan repealed the Johnson Amendment. Neither the Senate version[98] nor the final Act included a repeal of the Johnson Amendment.[99]
+- The House plan forbade the use of tax-exempt municipal bonds to fund professional sports stadiums. The Senate version and the final Act did not.[100]
+In final changes prior to approval of the Senate bill on December 2, additional changes were made (among others) that were reconciled with the House bill in a conference committee, prior to providing a final bill to the President for signature.[101] The Conference Committee version was published on December 15, 2017. It had relatively minor differences compared to the Senate bill. Individual and pass-through tax cuts expire after ten years, while the corporate tax changes are permanent.[86]
+Pre-conference vote
+[edit]House of Representatives
+[edit]| Party | Votes for | Votes against | Not voting/Absent | |
+|---|---|---|---|---|
+| Republican (240) | 227 | – | ||
+| Democratic (194) | – | 192 | ||
+| Total (434)[nb 1] | 227 | 205 | 2 |
+Senate
+[edit]| Party | Votes for | Votes against | Not voting/Absent | |
+|---|---|---|---|---|
+| Republican (52) | 51 | – | ||
+| Democratic (46) | – | 46 | – | |
+| Independent (2) | – | – | ||
+| Total (100) | 51 | 49 | – |
+Post-conference vote
+[edit]House of Representatives
+[edit]| Party | Votes for | Votes against | Not voting/Absent | |
+|---|---|---|---|---|
+| Republican (239) | 227 | – | ||
+| Democratic (193) | – | 191 | ||
+| Total (432)[nb 2] | 227 | 203 | 2 |
+| Party | Votes for | Votes against | Not voting/Absent | |
+|---|---|---|---|---|
+| Republican (239) | 224 | |||
+| Democratic (193) | – | 189 | ||
+| Total (432) | 224 | 201 | 7 |
+Senate
+[edit]| Party | Votes for | Votes against | Not voting/Absent | |
+|---|---|---|---|---|
+| Republican (52) | 51 | – | ||
+| Democratic (46) | – | 46 | – | |
+| Independent (2) | – | – | ||
+| Total (100) | 51 | 48 | 1 |
+Impact
+[edit]A 2024 study on the impact of the TCJA found that "the TCJA clearly raised federal debt and increased after-tax incomes, disproportionately increasing incomes for the most affluent. Its effects on GDP and median wages seem modest at best, although clear counterfactuals are difficult to identify. The impact on investment is less certain."[4] Another 2024 study, which analyzed the corporate tax cut in the TCJA (which was the largest such cut in US history), found that the tax cut reduced corporate tax revenue by 40 percent and increased corporate investment by 11 percent. The study also found that the corporate tax cut "increased economic growth and wages by less than advertised by the Act's proponents."[5]
+A 2025 study found that the 20% deduction for pass-through business income resulted in a 3-4% increase in business incomes. However, aside from that, there was "little evidence of changes in real economic activity as measured by physical investment, wages to non-owners, or employment."[107]
+Estimated impact
+[edit]Taxpayer
+[edit]According to a 2017 report by the nonpartisan Tax Policy Center, the TCJA was expected to lower taxes by an average of $1,600 in 2018 and 2025. The top 20% of Americans by income were projected to receive roughly 65% of the tax savings.[108] The TPC estimated that the bottom 80% of taxpayers (income under $149,400) would receive 35% of the benefit in 2018, 34% in 2025 and none of the benefit in 2027, with some groups incurring costs.[109] TPC also estimated 72% of taxpayers would be adversely impacted in 2019 and beyond, if the tax cuts are paid for by spending cuts separate from the legislation, as most spending cuts would impact lower- to middle-income taxpayers and outweigh the benefits from the tax cuts.[110]
+Economic
+[edit]The tax cuts contained in the Tax Cuts and Jobs Act were expected to increase deficits thereby stimulating the economy, increasing GDP and employment, relative to a forecast without those tax cuts. CBO reported on December 21, 2017: "Overall, the combined effect of the change in net federal revenue and spending is to decrease deficits (primarily stemming from reductions in spending) allocated to lower-income tax filing units and to increase deficits (primarily stemming from reductions in taxes) allocated to higher-income tax filing units".[114]
+The Tax Policy Center (TPC) reported its macroeconomic analysis of the November 16 Senate version of the Act on December 1, 2017:
+- Gross domestic product would be 0.4% higher on average each year during the 2018–2027 period relative to the CBO baseline forecast, a cumulative total of $961 billion higher over ten years. TPC explained that since most tax reductions would benefit high-income households (who spend a smaller share of tax reductions than lower-income households) the effect on GDP would be modest. Further, TPC reported that: "Because the economy is currently near full employment, the impact of increased demand on output would be smaller and diminish more quickly than it would if the economy were in recession."[111]
+The Penn Wharton Budget Model (PWBM) estimated relative to a prior law baseline that by 2027:
+- The GDP level would be between 0.6% and 1.1% higher.
+- Debt would increase by between $1.9 trillion and $2.2 trillion, including macroeconomic feedback effects.[115] Analysis of first-year results released by the Congressional Research Service in May 2019 includes:[116][117]
+- "a relatively small (if any) first-year effect on the economy"
+- "a feedback effect of 0.3% of GDP or less,"
+- "pretax profits and economic depreciation (the price of capital) grew faster than wages"
+- inflation-adjusted wage growth "is smaller than overall growth in labor compensation and indicates that ordinary workers had very little growth in wage rates"
+- "the evidence does not suggest a surge in investment from abroad in 2018"
+- "While evidence does indicate significant repurchases of shares, either from tax cuts or repatriated revenues, relatively little was directed to paying worker bonuses"
+Budgetary
+[edit]CBO forecast in January 2017 (just prior to Trump's inauguration) that revenues in fiscal year 2018 would be $3.60 trillion if laws in place as of January 2017 continued.[118]
+CBO reported on December 21, 2017, that: "Overall, the combined effect of the change in net federal revenue and spending is to decrease deficits (primarily stemming from reductions in spending) allocated to lower-income tax filing units and to increase deficits (primarily stemming from reductions in taxes) allocated to higher-income tax filing units."[114]
+The Joint Committee on Taxation estimated the Act would add $1.456 trillion total to the annual deficits (debt) over ten years.[119]
+Distribution
+[edit]On December 21, 2017, the Congressional Budget Office (CBO) released its distribution estimate of the Act:
+- During 2019, income groups earning under $20,000 (about 23% of taxpayers) would contribute to deficit reduction (i.e., incur a cost), mainly by receiving fewer subsidies due to the zeroing out of the individual mandate of the Affordable Care Act. Other groups would contribute to deficit increases (i.e., receive a benefit), mainly due to tax cuts.
+- During 2021, 2023, and 2025, income groups earning under $40,000 (about 43% of taxpayers) would contribute to deficit reduction, while income groups above $40,000 would contribute to deficit increases.
+- During 2027, income groups earning under $75,000 (about 76% of taxpayers) would contribute to deficit reduction, while income groups above $75,000 would contribute to deficit increases.[114][121]
+The Tax Policy Center (TPC) reported its distributional estimates for the Act. This analysis excludes the impact of zeroing out the ACA individual mandate, which would apply significant costs primarily to income groups below $40,000. It also assumes the Act is deficit financed and thus excludes the impact of any spending cuts used to finance the Act, which also would fall disproportionally on lower income families as a percentage of their income.[109]
+Healthcare
+[edit]The TCJA affected healthcare by setting at $0 the ACA individual mandate, resulting in projections of up to 13 million fewer persons covered by health insurance as some younger, healthier persons will likely choose not to obtain coverage.[24][123] The CBO later revised this estimate in 2018 to 7 million fewer insured by 2026.[122]
+Actual impact
+[edit]According to Bloomberg, the TCJA has simplified the tax code for some, but not others; has lowered corporate debt; has led investment to temporarily increase before declining; and has brought money back from overseas without bringing back business activity.[124] The TCJA also cut taxes for most U.S. taxpayers.[125][126] In 2018, more than 90 Fortune 500 companies had "paid an effective federal tax rate of 0% or less" as a result of Donald Trump´s Tax Cuts and Jobs Act of 2017.[127]
+Taxpayer
+[edit]In the spring of 2019, both The New York Times[125] and the Washington Post[126] stated that most American taxpayers had received tax cuts under the TCJA.
+The Tax Policy Center stated in 2019 that the TCJA had lowered individual income taxes for approximately 65% of U.S. households, had raised individual income taxes for approximately 6% of American households, and had left taxes about the same for the remainder of U.S. households.[128]
+In October 2017, the Council of Economic Advisers estimated that the corporate tax cut contained within the TCJA would increase real median household income by $3,000 to $7,000 annually.[129] However, during the first year following enactment of the TCJA, real median household income increased by $553; the Census Bureau characterized this increase as statistically insignificant.[130]
+Economic
+[edit]In 2018, companies spent a record-setting $1.1 trillion to buy back their own stock, and a majority of major firms (84%, as polled by the National Association for Business Economics) did not alter their hiring practice or their investment in their business in response to the tax cuts they received. This pattern was evident even in early 2018, when Bloomberg reported (based on an analysis of 51 S&P 500 companies) that an estimated 60% of corporate tax savings was going to shareholders, while 15% was going to employees.[131] A Bloomberg Economics analysis found that, while business investment did increase in 2018, relatively little of that activity could be attributed to lower taxes.[132] A study by the Federal Reserve Bank similarly found that corporations bought-back stock and paid down debt, rather than undertake either new capital expenditure or investment in research & development.[133]
+Bloomberg News reported in January 2020 that the top six American banks saved more than $32 billion in taxes during the two years after enactment of the tax cut, while they reduced lending, cut jobs and increased distributions to shareholders.[134]
+A 2024 study by Patrick J. Kennedy and the Joint Committee on Taxation found that in response to the corporate tax provisions of the TCJA, the top 10 percent of income earners experienced wage increases while the bottom 90 percent did not.[135]
+Budgetary
+[edit]In the two years since the Act was passed, it failed to pay for itself through increased economic growth as initially claimed, according to Maya MacGuineas, president of the Committee for a Responsible Federal Budget.[136]
+Federal corporate tax receipts fell from an annualized level of $409 billion in Q1 2017 to $269 billion in Q1 2018, a direct result of the Trump tax cuts.[137][138] Corporate tax receipts for the full fiscal year ended September 2018 were down 31% from the prior fiscal year, the largest decline since records began in 1934, except for during the Great Recession when corporate profits, and hence corporate tax receipts, plummeted. Analysts attributed the fiscal 2018 decline to the tax cut.[139][140][141][142]
+The New York Times reported in August 2019 that: "The increasing levels of red ink stem from a steep falloff in federal revenue after Mr. Trump’s 2017 tax cuts, which lowered individual and corporate tax rates, resulting in far fewer tax dollars flowing to the Treasury Department. Tax revenues for 2018 and 2019 have fallen more than $430 billion short of what the budget office predicted they would be in June 2017, before the tax law was approved that December."[143]
+Distribution
+[edit]An Institute on Taxation and Economic Policy analysis indicated the Act has more of a tax increase impact on "upper-middle-class families in major metropolitan areas, particularly in Democratic-leaning states where taxes, and usually property values, are higher. While only about one-in-five families between the 80th and 95th income percentiles in most red states would face higher taxes by 2027 under the House GOP bill, that number rises to about one-third in Colorado and Illinois, around two-fifths or more in Oregon, Virginia, Massachusetts, New York and Connecticut, and half or more in New Jersey, California and Maryland..."[144]
+Reception
+[edit]Support
+[edit]Leading Republicans supported the bill, including President Donald Trump and Vice President Mike Pence, and Republicans in Congress, such as:[145]
+- Paul Ryan, Speaker of the United States House of Representatives (R-WI)
+- Mitch McConnell, Majority Leader of the United States Senate (R-KY)
+- Kevin McCarthy, House Majority Leader (R-CA)[146]
+In the Senate, Republicans "eager for a major legislative achievement after the Affordable Care Act debacle ... have generally been enthusiastic about the tax overhaul."[147]
+A number of Republican senators who initially expressed trepidation over the bill, including Ron Johnson of Wisconsin, Susan Collins of Maine, and Steve Daines of Montana, ultimately voted for the Senate bill.[148][149]
+The Trump Administration's Council of Economic Advisors supported the bill, claiming it would have significant economic benefits.[150][151] President Trump and Treasury Secretary Steve Mnuchin claimed that the law's tax cuts would pay for themselves.[152] Many Republican supporters of the tax bill characterized it as a simplification of the tax code.[153][124]
+Opposition
+[edit]Democrats opposed the legislation, viewing it as a giveaway to corporations and high earners at the expense of middle class communities.[154] Every House Democrat voted against the bill when it came to the House floor, and 13 Republicans joined them in doing so.[81]
+The top congressional Democrats—Senate Minority Leader Chuck Schumer of New York and House Minority Leader Nancy Pelosi—strongly oppose the bill. Schumer said of the bill that "The more it's in sunlight, the more it stinks."[155] Pelosi said the legislation was "designed to plunder the middle class to put into the pockets of the wealthiest 1 percent more money".[156]
+The 13 House Republicans who voted against the bill were mostly from New York, New Jersey, and California, and several were opposed to the $10,000 cap on the state and local income tax deduction.[157]
+Billionaire and former Mayor of New York Michael Bloomberg called this tax bill an "economically indefensible blunder", arguing that companies would not invest more because of the tax cuts.[158]
+Bill Gates and Warren Buffett also thought that Trump's tax cut would not help businesses.[159] In a CNBC interview, Buffett said: "I don't need a tax cut in a society with so much inequality".[160]
+In a letter made public on the November 12, 2017, more than 400 millionaires and billionaires (which include George Soros and Steven Rockefeller) asked Congress to reject the Republican tax plan. They stated that it would disproportionately benefit the wealthy while adding at least $1.5 trillion to the national debt.[161][162][163]
+The Economist was also critical of the tax cut: "The expiry of tax cuts for individuals is a ticking time-bomb in the tax code. It will explode just as America approaches a budget crisis, driven by rising spending on health care and pensions for the elderly. This gap will probably eventually be plugged by a combination of tax rises and spending cuts. But by cutting taxes now, Republicans have moved the starting point for any future negotiations".[164]
+The Financial Times argued that this bill was "built for plutocrats" as it would mainly benefit very high income households ("45 per cent of the tax reductions in 2027 would go to households with incomes above $500,000 – fewer than 1 per cent of filers").[165]
+The Editorial Board of The New York Times vigorously opposed the bill: "This bill is bad enough. No less revolting is the dishonest and sneaky way it was written."[166]
+Editorial Boards of major US newspapers including USA Today,[167] The Washington Post,[168] the Los Angeles Times,[169] the San Francisco Chronicle[170] and The Boston Globe[171] also opposed the bill.
+Minor impact on economic growth
+[edit]Paul Krugman disputed the Administration's primary argument that tax cuts for businesses will stimulate investment and higher wages:[172]
+- Foreigners own about 35% of U.S. equities, so as much as $700 billion of the tax cut will go overseas, as corporate after-tax income will flow to these investors as stock buybacks and dividends.[173]
+- CEOs indicate that tax cuts are not a big factor in investment decisions.[172]
+- Significantly increasing capital expenditures requires an inflow of foreign capital, strengthening the dollar, increasing trade deficits and potentially costing up to 2.5 million manufacturing and supporting jobs.[174]
+In November 2017, the University of Chicago asked over 40 economists if U.S. GDP would be substantially higher a decade from now, if either the House or Senate bills were enacted, with the following results: 52% either disagreed or strongly disagreed, while 36% were uncertain and only 2% agreed.[175]
+The Tax Policy Center estimated that GDP would be 0.3% higher in 2027 under the House bill versus current law, while the University of Pennsylvania Penn Wharton budget model estimates approximately 0.3–0.9% for both the House and Senate bills. The very limited effect estimated is due to the expectation of higher interest rates and trade deficits. These estimates are both contrary to the Administration's claims of 10% increase by 2027 (about 1% per year) and Senator Mitch McConnell's estimate of a 4.1% increase.[176]
+Federal Reserve Bank of NY President and CEO William C. Dudley stated in January 2018: "While this legislation will reduce federal revenues by about 1 percent of GDP in both 2018 and 2019, I anticipate the boost to economic growth will be less than that. Most importantly, most of the tax cuts accrue to the corporate sector and to higher-income households that have a relatively low marginal propensity to consume. This suggests that a significant portion of the tax cuts will be saved, not spent."[177]
+The Trump administration predicted the tax cut would spur corporate capital investment and hiring. One year after enactment of the tax cut, a National Association for Business Economics survey of corporate economists found that 84% reported their firms had not changed their investment or hiring plans due to the tax cut.[178] Later in 2019, the Economic Policy Institute analyzed the data on business investment from the federal Bureau of Economic Analysis and concluded that, "if the TCJA’s corporate rate cuts were working, we would be seeing a permanent rise in investment. Instead, investment growth is cratering."[179] Analysis conducted by The New York Times in November 2019 found that average business investment was lower after the tax cut than before, and that firms receiving larger tax relief increased investment less than firms receiving smaller tax relief. The analysis also found that since the tax cut firms increased dividends and stock buybacks by nearly three times as much as they increased capital investments.[180]
+Limited or no wage impact
+[edit]Corporate executives indicated that raising wages and investment were not priorities should they have additional funds due to a tax cut. A survey conducted by Bank of America-Merrill Lynch of 300 executives of major U.S. corporations asked what they would do with a corporate tax cut. The top three responses were that they would pay down debt, conduct stock buybacks, and conduct mergers. An informal survey of CEOs by Trump advisor Gary Cohn resulted in a similar response, with few hands raised in response to his request for them to do so if their company would invest more.[183]
+Former Clinton cabinet Treasury Secretary Larry Summers referred to the analysis provided by the Trump administration of its tax proposal as "...some combination of dishonest, incompetent, and absurd." Summers wrote that the Trump administration's "central claim that cutting the corporate tax rate from 35 percent to 20 percent would raise wages by $4,000 per worker" lacked peer-reviewed support and was "absurd on its face."[184]
+On December 20, 2017, the day the final bill was passed by the House, Wells Fargo, Fifth Third Bancorp and Western Alliance Bancorp announced they would raise the minimum wage of its workers to $15 an hour upon signing of the bill. A number of companies announced bonuses for workers, including AT&T which said it will give a $1,000 bonus to every single one of its 200,000 employees as a result of the Tax Cut bill. Democratic Senator Chuck Schumer stated that these were the exception to the rule and that AT&T was in litigation with the government over a pending merger. He stated: "There is a reason so few executives have said the tax bill will lead to more jobs, investments, and higher wages—because it will actually lead to share buybacks, corporate bonuses, and dividends."[185]
+In the immediate aftermath of the passage of the Act, a relatively small number of corporations—many of them involved in mergers disputed by the government or regulatory difficulties—announced pay raises or bonuses to employees, although it is not clear they would not have done so without the tax cut (many companies award raises and bonuses early each year in the normal course of business, after their prior year earnings are known and their new budgets are put in place). About 18 companies in the S&P did so; when companies paid awards to employees, these were usually a small percentage of corporate savings from the Act.[186] A January 2018 study from the firm Willis Towers Watson found that 80% of companies were not "considering giving raises at all."[187] Bloomberg reported in March 2018 that an estimated 60% of corporate tax savings were going to shareholders, while 15% was going to employees, based on analysis of 51 S&P 500 companies.[131] In July 2018, Bloomberg reported that real wages have actually fallen in the first quarter after the tax bill went into effect.[188]
+Increases income and wealth inequality
+[edit]Overall, the combined effect of the change in net federal revenue and spending is to decrease deficits (primarily stemming from reductions in spending) allocated to lower-income tax filing units and to increase deficits (primarily stemming from reductions in taxes) allocated to higher-income tax filing units.
+The New York Times editorial board explained the tax bill as both consequence and cause of income and wealth inequality: "Most Americans know that the Republican tax bill will widen economic inequality by lavishing breaks on corporations and the wealthy while taking benefits away from the poor and the middle class. What many may not realize is that growing inequality helped create the bill in the first place. As a smaller and smaller group of people cornered an ever-larger share of the nation's wealth, so too did they gain an ever-larger share of political power. They became, in effect, kingmakers; the tax bill is a natural consequence of their long effort to bend American politics to serve their interests." The corporate tax rate was 48% in the 1970s and is 21% under the Act. The top individual rate was 70% in the 1970s and is 37% under the Act. Despite these large cuts, incomes for the working class have stagnated and workers now pay a larger share of the pre-tax income in payroll taxes.[189]
+The share of income going to the top 1% has doubled, from 10% to 20%, since the pre-1980 period, while the share of wealth owned by the top 1% has risen from around 25% to 42%.[190][191] Despite President Trump promising to address those left behind, the House and Senate bills would increase economic inequality:
+- Sizable corporate tax cuts would flow mostly to wealthy executives and shareholders;
+- In 2019, a person in the bottom 10% would average a $50 tax cut, while a person in the top 1% gets a $34,000 tax cut;
+- Up to 13 million persons losing health insurance or subsidies are overwhelmingly in the bottom 30% of the income distribution;
+- The top 1% receives approximately 70% of the pass-through income, which will be subject to much lower taxes;
+- Rolling back the estate tax, which only impacted the top 0.2% of estates in 2016, is a $150 billion benefit [Note: $83 billion in final bill] to the ultra-rich over ten years.[192]
+- The top 1% of households by wealth own 40% of stocks; the bottom 80% just 7%, even when including indirect ownership through mutual funds.[193]
+- According to a Gallup survey, 52% of Americans owned some stock in 2016, down from 65% in 2007.[194]
+In 2027, if the tax cuts are paid for by spending cuts borne evenly by all families, after-tax income would be 3.0% higher for the top 0.1%, 1.5% higher for the top 10%, −0.6% for the middle 40% (30th to 70th percentile) and −2.0% for the bottom 50%.[195]
+International tax standards
+[edit]In November 2017, the OECD reported that the U.S. tax burden was lower in 2016 than the OECD country average, measured as a percentage of GDP:
+- Overall taxes, including many state and local taxes, were 26.0% GDP in 2016, versus the OECD average of 34.3%.
+- Income taxes were 8.5% GDP in 2016, versus the OECD average of 8.9%.[196]
+- Corporate taxes were 2.3% GDP in 2011, versus the OECD average of 3.0% GDP.[197] Despite this, the US corporate tax rate was 35% prior to the passage of the Tax Cuts and Jobs Act, ten percentage points higher than the OECD average of 25%; the TCJA reduced the American corporate tax rate to 21%, four percentage points lower than the OECD average at the time.[198]
+Journalist Justin Fox wrote in Bloomberg that Americans may feel financial pressure due to healthcare and college tuition costs, which are much higher than other OECD countries measured as a share of GDP, offsetting the benefit of the already lower tax structure.[199]
+International trade issues
+[edit]A potential consequence of the proposed tax reform, specifically lowering business taxes, is that (in theory) the U.S. would be a more attractive place for foreign capital (investment money). This inflow of foreign capital would help fund the surge in investment by corporations, one of the stated goals of the legislation. However, a large inflow of foreign capital would drive up the price of the dollar, making U.S. exports more expensive, thus increasing the trade deficit. Paul Krugman estimated this could adversely impact up to 2.5 million U.S. jobs.[174]
+According to The New York Times, "wide range of experts agree that cutting taxes is likely to increase the trade deficit" with other countries, which conflicts with the stated priority of the White House to reduce the trade deficit.[200] However, economists widely reject that reducing the trade deficit is necessarily good for the U.S. economy.[200]
+Foreign objections
+[edit]The finance ministers of the five largest European economies (France, Germany, Italy, Spain and the United Kingdom) wrote a letter to U.S. Treasury Secretary Steve Mnuchin, expressing concern that the tax reforms could trigger a trade war, as they would violate World Trade Organization rules and distort international trade.[201] Similar concerns were voiced by China.[202] In response to the Act, German economists called for the German government to enact tax reform and additional subsidies to prevent a loss of jobs and investments to the United States.[198]
+Conflict of interest
+[edit]Fact-checkers such as FactCheck.Org, PolitiFact and The Washington Post's fact-checker have found that Trump's claims that his economic proposal and tax plan would not benefit wealthy persons like himself were likely false.[203] An analysis by The New York Times found that if Trump's tax plan had been in place in 2005 (the one recent year in which his tax returns were leaked), he would have saved $11 million in taxes.[204] The analysis also found that Trump would save $4.4 million on his eventual estate tax bill.[204] Experts say that the financial windfall for the President and his family from this bill is "virtually unprecedented in American political history".[205]
+A number of Republican congressmen also stood to benefit personally from the pass-through deduction.[206][207][208] Most notably, retiring Tennessee Senator Bob Corker was for some time the sole Republican Senator to oppose the tax plan. Corker stated that he would not support a tax plan that would increase the deficit. However, after Arizona Senator John McCain, who was unable to vote while receiving treatment for brain cancer,[207] endorsed the bill,[209] Corker changed his vote to "yes" on the final version of the bill after it was confirmed that the pass-through deduction provision from which he stood to benefit was included in it.[206][207] Corker rejected the claim that he traded his vote for provisions that benefited him and said that he had no idea that there were provisions in the bill from which he stood to personally benefit.[210]
+Tax complication
+[edit]According to The New York Times, "economists and tax experts across the political spectrum warn that the proposed system would invite tax avoidance. The more the tax code distinguishes among types of earnings, personal characteristics or economic activities, the greater the incentive to label income artificially, restructure or switch categories in a hunt for lower rates."[211] According to The Wall Street Journal, the bill's changes to "business and individual taxation could lead to a new era of business reorganization and tax-code gamesmanship with unknown consequences for the economy and federal revenue collection."[212]
+Republicans justified the tax reform initially as an effort to simplify the tax code. Kevin Brady, the chairman of the House Ways and Means Committee, and Speaker Paul Ryan said in November 2017 that they would simplify the tax code so much that 9 in 10 Americans would be able to file their taxes on a postcard.[213] President Donald Trump said on December 13, 2017, that people would be able to file their taxes "on a single, little, beautiful sheet of paper".[213] However, when the final version of the tax legislation passed through houses of Congress, the legislation kept most loopholes intact and did not simplify the tax code.[213][214] The announcements by the House leaders hurt the stock prices of tax preparers, but upon the release of the actual bill, the stock prices of tax preparers sharply increased.[213]
+Procedural concerns
+[edit]The legislation was passed by Congress with little debate regarding the comprehensive reforming nature of the Act.[215][216] The 400-page House bill was passed two weeks after the legislation was first released, "without a single hearing" held.[217] In the Senate, the final version of the bill did not receive a public hearing, "was largely crafted behind closed doors, and was released just ahead of the final vote."[218] Republicans rewrote major portions of tax bill just hours before the floor vote, making major changes in order to win the votes of several Republican holdouts.[219] Many last-minute changes were handwritten on earlier drafts of the bill.[218][216] The revisions appeared "first in the lobbying shops of K Street, which sent back copies to some Senate Democrats, who were left to take to social media in protest regarding being asked to vote in a matter of hours on a massive bill that had yet to be shared with them directly."[216]
+The rushed approval of the legislation prompted an outcry from Democrats.[216][218][219][220] Senate Minority Leader Charles Schumer (D-NY) proposed giving senators more time to read the legislation, but this motion failed after every Republican voted no.[220] Requests to wait until incoming Democratic Senator Doug Jones of Alabama could vote on the bill were also denied. Some commentators also criticized the process. The New York Times editorial board wrote that the Senate's move to rapidly approve the bill "is not how lawmakers are supposed to pass enormous pieces of legislation" and contrasted the bill to the 1986 tax bill, in which "Congress and the Reagan administration worked across party lines, produced numerous drafts, held many hearings and struck countless compromises."[221] Bloomberg columnist Al Hunt classified the legislation as a "slipshod product, legislated with minimal transparency" that was "rushed so fast through a short-circuited lawmaking process" in which many members of Congress who voted in favor of the bill did not fully understand what they had done.[222]
+Name of the law
+[edit]The clause establishing the bill's short title was dropped after Senator Bernie Sanders (D-VT) filed an objection under the Byrd Rule to the Senate Parliamentarian, claiming the section was extraneous.[2][223] As a result, the name "Tax Cuts and Jobs Act", though widely used, is not contained in the bill, which is officially referred to by its long title, or as Public Law 115-97.
+Federal Reserve
+[edit]Federal Reserve officials had indicated earlier in 2017 that aggressive tax cuts could increase the pace of interest rate increases already planned. Higher interest rates make borrowing more expensive, slowing economic growth (GDP), other things equal. The Fed also raises interest rates to help offset the risk of inflation in a growing economy near full employment. However, as the tax plan became clearer and its impact on the economy was judged to be relatively minor, the Fed indicated that a plan to raise interest rates incrementally as many as three times in 2018 would not be changed.[224][225]
+Views of economists
+[edit]While there was no clear consensus among academic economists as to whether the tax plan would benefit the economy to the degree that first Trump administration predicted, there was a consensus that it would widen public deficits and economic inequality.[226][227][228]
+In a survey conducted by the University of Chicago's Initiative on Global Markets, 37 out of 38 economists interviewed stated that they thought the Act would cause a rapid increase in the national debt. The one dissenting economist later changed his mind.[229] Conversely, only one economist (Stanford's Darrell Duffie) out of the 38 agreed with the statement: "If the US enacts a tax bill similar to those currently moving through the House and Senate—and assuming no other changes in tax or spending policy—US GDP will be substantially higher a decade from now than under the status quo".[230]
+Four winners of the Nobel Prize in Economics have spoken out against the legislation: Joseph Stiglitz,[231] Paul Krugman,[172][232] Richard Thaler,[233] and Angus Deaton.[234]
+Princeton economist Alan Blinder, who served as Vice Chair of the Federal Reserve System from 1994 to 1996, argued, in an article published by The Wall Street Journal, that "almost everything was wrong" with the Trump Tax Cut and that "it blew a large hole in the federal deficit".[235]
+A group of 137 economists signed an open letter expressing support for the bill; the letter was touted by President Trump, House Speaker Paul Ryan and the Senate Finance Committee as support for the legislation among economists;[236] the letter was criticized by left-liberal publications that cited independent research which contradicted some of its claims and alleged that it contained signatories who did not exist.[237] A group of nine economists (largely from the Reagan and Bush administrations) wrote a letter which estimated 3 percent growth from the reduction in the corporate tax rate within a decade; the letter was challenged by Harvard economists Larry Summers and Jason Furman (both of whom served in the Obama administration), and the nine economists appeared to back off from their original claims.[238]
+According to The Guardian, thirteen tax law professors from around the US, in a 68-page study, called the law's process "rushed and secretive" that resulted "in deeply flawed legislation".[239][240]
+Political significance
+[edit]In November 2017, Senator Lindsey Graham (R-SC) said that "financial contributions will stop" flowing to the Republican Party if tax reform is unable to be enacted.[241] This echoed comments by Representative Chris Collins (R-NY), who said, "My donors are basically saying 'get it done or don't ever call me again.'"[242]
+Excluded provisions before passage
+[edit]Some provisions were initially proposed for inclusion in the bill, but were excluded before final passage.
+Tuition waiver exemption
+[edit]The bill that passed the House had been criticized for its significant negative impact on graduate students. Graduate students in private universities could have seen their effective tax rate go above 41.9%, a rate higher than what even the richest of Americans typically pay.[243] The change was due to a provision in the bill that would have repealed the deduction for qualified tuition and related expenses, meaning that graduate students' waived tuition would be viewed as taxable income. Given that their stipends are significantly less than the waived tuition, this would typically increase their taxes by 30–60% for public universities and hundreds of percent for private ones.[244][245] The Senate version of the bill did not contain these provisions.[246]
+The House bill's disadvantageous treatment of graduate students was criticized because of its projected negative effect on the training of U.S. scientists.[246] The bill's impact on U.S. science and innovation had been criticized by Stanford professor emeritus Burton Richter, a winner of the Nobel Prize in Physics and the National Medal of Science, who critiqued the bill's negative impact on Americans seeking advanced degrees and wrote that the budget impact of the tax cuts would force a dramatic reduction in federal funding for scientific research.[247]
+The final version of the Act reflected the Senate's language in this area, maintaining the prior law's tax exemption for tuition waivers.[248]
+Automatic spending cuts averted/PAYGO
+[edit]Under the Statutory Pay-as-You-Go Act of 2010 (PAYGO), laws that increase the federal deficit will trigger automatic spending cuts unless Congress votes to waive them. Because the Act adds $1.5 trillion to the deficit, automatic cuts of $150 billion per year over ten years would have applied, including a $25 billion annual cut to Medicare. Because the PAYGO waiver is not allowed in a reconciliation bill, it requires separate legislation which requires 60 votes in the Senate to end a filibuster.[249][250] If Congress had not passed the waiver, it would have been the first time that statutory PAYGO sequestration would have occurred.[251] However, the PAYGO waiver was included in the continuing resolution passed by Congress on December 22 and signed by President Trump.[252][253]
+Public opinion
+[edit]Analysis by FiveThirtyEight in November 2017 found the pending tax law to be the least-popular major tax bill in at least 36 years, including the tax increases of 1990 and 1993.[254] Apart from February 12, 2018, the RealClearPolitics composite of polls has indicated that at least a plurality of Americans has disliked the law from October 2017 through December 2018.[255]
+| Poll source | Fieldwork | Support/Approve | Oppose/Disapprove | Ref. | |||
+|---|---|---|---|---|---|---|---|
+| Start | End | ||||||
+| The New York Times/SurveyMonkey | February 5, 2018 | February 11, 2018 | 51% | 46% | [256] | ||
+| Monmouth University | January 28, 2018 | January 30, 2018 | 44% | 44% | [257] | ||
+| Harvard/Harris Poll | January 17, 2018 | January 19, 2018 | 47% | 53% | [258] | ||
+| Politico/Morning Consult | January 11, 2018 | January 16, 2018 | 45% | 34% | [259] | ||
+| GQR Research | January 6, 2018 | January 11, 2018 | 43% | 46% | [260] | ||
+| The New York Times/SurveyMonkey | January 1, 2018 | January 5, 2018 | 46% | 49% | [261] | ||
+| The Economist/YouGov | December 31, 2017 | January 2, 2018 | 37% | 39% | [262] | ||
+| McLaughlin & Associates | December 14, 2017 | December 18, 2017 | 49% | 41% | [263] | ||
+| Politico/Morning Consult | December 14, 2017 | December 18, 2017 | 42% | 39% | [264] | ||
+| CNN/SSRS | December 14, 2017 | December 17, 2017 | 33% | 55% | [265] | ||
+| NBC News/The Wall Street Journal | December 13, 2017 | December 15, 2017 | 24% | 41% | [266] | ||
+| Public Opinion Strategies (R) | December 12, 2017 | December 16, 2017 | 40% | 49% | [267] | ||
+| Monmouth University | December 10, 2017 | December 12, 2017 | 26% | 47% | [268] | ||
+| Quinnipiac University | December 6, 2017 | December 11, 2017 | 26% | 55% | [269] | ||
+| USA Today/Suffolk University | December 5, 2017 | December 9, 2017 | 32% | 48% | [270] | ||
+| Vice News/SurveyMonkey | December 5, 2017 | December 6, 2017 | 39% | 56% | [271] | ||
+| Reuters/Ipsos | December 3, 2017 | December 7, 2017 | 31% | 49% | [272] | ||
+| CBS News | December 3, 2017 | December 5, 2017 | 35% | 53% | [273] | ||
+| Gallup | December 1, 2017 | December 2, 2017 | 29% | 56% | [274] | ||
+| Quinnipiac University | November 29, 2017 | December 4, 2017 | 29% | 53% | [275] | ||
+| Reuters/Ipsos | November 23, 2017 | November 27, 2017 | 29% | 49% | [276] | ||
+| Harvard/Harris Poll | November 11, 2017 | November 14, 2017 | 46% | 54% | [277] | ||
+| Politico/Morning Consult | November 9, 2017 | November 11, 2017 | 47% | 40% | [278] | ||
+| Quinnipiac University | November 7, 2017 | November 13, 2017 | 25% | 52% | [279] | ||
+| The Economist/YouGov | November 5, 2017 | November 7, 2017 | 30% | 40% | [280] | ||
+| Politico/Morning Consult | November 2, 2017 | November 6, 2017 | 45% | 36% | [281] | ||
+| CNN/SSRS | November 2, 2017 | November 5, 2017 | 31% | 45% | [282] | ||
+| ABC/The Washington Post | October 26, 2017 | November 1, 2017 | 33% | 50% | [283] | ||
+| Politico/Morning Consult | October 26, 2017 | October 30, 2017 | 48% | 37% | [284] | ||
+| Reuters/Ipsos | October 20, 2017 | October 23, 2017 | 28% | 41% | [285] | ||
+| CNN/SSRS | October 12, 2017 | October 15, 2017 | 34% | 52% | [286] | ||
+| Politico/Morning Consult | September 29, 2017 | October 1, 2017 | 48% | 37% | [287] | ||
+| ABC/The Washington Post | September 18, 2017 | September 21, 2017 | 28% | 44% | [288] |
+Follow-on bills
+[edit]House Republicans have written follow-on bills that would extend the individual tax cuts beyond their current expiration date, simplify the rules for Individual Retirement Accounts, and add new tax deductions for small businesses.[289]
+The follow-on bills were written as three separate bills, named the Protecting Family and Small Business Tax Cuts Act of 2018 (H.R. 6760), the Family Savings Act (H.R. 6757), and the American Innovation Act of 2018 (H.R. 6756).[290]
+On September 27, the House of Representatives passed the Family Savings Act by a vote of a 240–177, and then it passed the American Innovation Act by a vote of 260–156.[291][292][293]
+On September 28, the House of Representatives passed the Protecting Family and Small Business Tax Cuts Act by a vote of 220–191.[293][294] Several Republicans in the House voted against the bill to make permanent the $10,000 annual limit on federal tax deductions for state and local taxes because they represent states where residents tend to pay higher state and local taxes.[293]
+The Build Back Better Act, in the version passed by the House in November 2021 (to be reconciled with the Senate),[295] repeals or partially reverses various provisions of the 2017 act, according to the summary given by House speaker Nancy Pelosi in her speech on the morning of passage.[296]
+Subsequent legal challenges of the Affordable Care Act
+[edit]The zeroing out of the individual mandate through this Act resulted in several states filing legal challenges to the constitutionality of the entire ACA based on the Supreme Court's prior decision in National Federation of Independent Business v. Sebelius (2012), which justified the individual mandate as an allowable tax; these legal challenges were led by the state of Texas. In December 2018, Judge Reed O'Connor of the District Court of Northern Texas issued his opinion in agreement with the states that without the individual mandate, the whole of the ACA had no standing. California and several other states led the appeal of the case to the Fifth Circuit Court. The Fifth Circuit affirmed in part with O'Connor's opinion on the unconstitutionality of the ACA without the individual mandate in December 2019. The case was raised to the Supreme Court to be heard as California v. Texas during the court's 2020–21 term; in a 7–2 decision issued on June 17, 2021, the Court ruled that Texas and other states that initially challenged the individual mandate did not have standing, as they had not shown past or future injury related to the provision. The Supreme Court otherwise did not rule on the constitutionality of the individual mandate in this case.[297][298][299]
+Permanent extension
+[edit]In May 2024, the Congressional Budget Office estimated that extending the provisions expiring in 2025 would add $4.6 trillion in deficits over 10 years.[15]
+In July 2024, the Associated Press cited leading economists who estimated it would add over $5 trillion to the debt.[300]
+Economists across the political spectrum have expressed concern that an extension would boost inflationary pressures.[12][13]
+The Economist said extending the 2017 tax cuts would worsen America's dire fiscal trajectory, which would see growing inflation without significant tax increases or cuts to spending.[14]
+The Urban-Brookings Tax Policy Center estimated that the top 5% of earners would get 45% of the benefits if extended.[301]
+During his 2024 campaign, Trump advocated for extending all of the tax cuts and adding additional cuts including on corporations, tips, and social security payments.[302] In May 2025, during his presidency, the House Budget Committee approved a bill (the One Big Beautiful Bill Act) to do this.[303] The legislation passed both houses of Congress, with Vice President JD Vance casting a tie-breaking vote in the Senate. On July 4, 2025, Trump signed the bill into law,[304] extending the personal tax cuts indefinitely.[305]
+See also
+[edit]Explanatory notes
+[edit]- ^ There was one vacant seat in the House of Representatives after Tim Murphy's resignation on October 21, 2017.
+- ^ There were three vacant seats in the House of Representatives after Tim Murphy's resignation on October 21, 2017; John Conyers' resignation on December 5, 2017; and Trent Franks' resignation on December 8, 2017.
+References
+[edit]- ^ Graham, David A. (November 1, 2017). "The 'Cut Cut Cut Act' Is Effective Branding". The Atlantic.
+- ^ a b Watkins, Eli. "Senate rules force Republicans to go with lengthy name for tax plan". CNN. Retrieved December 20, 2017.
+- ^ Kaplan, Thomas (December 20, 2017). "House Gives Final Approval to Sweeping Tax Overhaul". The New York Times.
+- ^ a b Gale, William G.; Hoopes, Jeffrey L.; Pomerleau, Kyle (2024). "Sweeping Changes and an Uncertain Legacy: The Tax Cuts and Jobs Act of 2017". Journal of Economic Perspectives. 38 (3): 3–32. doi:10.1257/jep.38.3.3. ISSN 0895-3309.
+- ^ a b Chodorow-Reich, Gabriel; Zidar, Owen; Zwick, Eric (2024). "Lessons from the Biggest Business Tax Cut in US History". Journal of Economic Perspectives. 38 (3): 61–88. doi:10.1257/jep.38.3.61. ISSN 0895-3309.
+- ^ "Reconciliation Recommendations of the Senate Committee on Finance". Congressional Budget Office. November 26, 2017. Retrieved July 9, 2018.
+- ^ United States. Congress. Joint Committee on Taxation (2018). General Explanation of Public Law 115-97. Washington, D.C.: U.S. Government Publishing Office. Retrieved December 19, 2018.
+- ^ Pullen, John Patrick (December 20, 2017). "Here's When the GOP Tax Reform Bill Will Take Effect". Fortune. Retrieved December 23, 2017.
+- ^ Luhby, Tami (June 13, 2024). "$3.4 trillion in individual tax cuts are expiring next year. Biden and Trump would handle it very differently". CNN. Retrieved August 26, 2024.
+- ^ Wire, Sarah D. (August 25, 2024). "Harris or Trump will be busy in 2025: Next president will face these issues in office". USA TODAY. Retrieved August 26, 2024.
+- ^ Sangal, Deva Lee, Leinz Vales, Maureen Chowdhury, Shania Shelton, Aditi (July 3, 2025). "Live updates: House votes on Trump's 'big, beautiful bill' | CNN Politics". CNN. Retrieved July 3, 2025.
+{{cite web}}
+: CS1 maint: multiple names: authors list (link) - ^ a b Jacobson, Louis (November 7, 2022). "GOP leaders are proposing tax cuts. Could that drive inflation?". PolitiFact. Retrieved July 23, 2024.
+However, key Republican leaders have said that if they regain power in Congress, one of their favored policy solutions will be to cut taxes, by permanently extending tax cuts signed by former President Donald Trump. Economists across the ideological spectrum have warned that would boost inflationary pressures.
+- ^ a b Levitz, Eric (April 24, 2024). "Trump's team keeps promising to increase inflation". Vox. Retrieved July 23, 2024.
+- ^ a b "America's reckless borrowing is a danger to its economy—and the world's". The Economist. May 2, 2024. ISSN 0013-0613. Retrieved July 23, 2024.
+The biggest economic decision facing the next president is how generously to renew Donald Trump's tax cuts of 2017, a step that will only worsen America's dire fiscal trajectory.
+- ^ a b Bogage, Jacob (June 24, 2024). "The national debt is ballooning. The next president probably won't stop it". Washington Post.
+- ^ a b c Mercado, Darla (December 15, 2017). "Find your new tax brackets under the final GOP tax plan". CNBC.
+- ^ "Office of Tax Analysis". www.treasury.gov. Retrieved July 9, 2018.
+- ^ a b "2017 IRS Tax" (PDF).
+- ^ a b "H.R.1 — 115th Congress (2017–2018)" (PDF).
+- ^ "H.R.1 — 115th Congress (2017–2018) – Sec. 11041, subsection (b)" (PDF).
+- ^ "New Child Tax Credit: Changes for 2018". August 9, 2021.
+- ^ Reilly, Peter J. (January 8, 2018). "Laws Of Tax Planning Updated For Tax Cuts And Jobs Act". Forbes.
+- ^ Eibner, Christine; Nowak, Sarah (2018). "The Effect of Eliminating the Individual Mandate Penalty and the Role of Behavioral Factors | Commonwealth Fund". www.commonwealthfund.org. doi:10.26099/SWQZ-5G92.
+- ^ a b "The Senate's tax bill is a sweeping change to every part of federal health care". November 29, 2017. Retrieved July 9, 2018.
+- ^ "Tax Cuts and Jobs Act lowers medical expense deduction threshold". Capata Certified Public Accountants. 2018.
+- ^ Egger, Andrew (December 19, 2017). "House Passes Tax Reform, But Will Have to Revote". The Weekly Standard. Retrieved December 20, 2017.
+- ^ McRuer, Scott (February 9, 2018). "New Tax Law Cuts Personal Casualty Loss Deduction". McRuer CPAs.
+- ^ Rickert, Kelly Chang (January 4, 2018). "Tax Cuts and Jobs Act and Alimony After 2018". Law and Mediation Offices of Kelly Change, PLC.
+- ^ Swavely, Lauren (February 7, 2018). "Tax Cuts and Jobs Act – Significant Changes to Moving Expense Deductions". Herbein + Company, Inc.
+- ^ Kocher, Chris (January 19, 2018). "Tax Cuts and Jobs Act ... Miscellaneous Itemized Deductions". LCI Taxes, LLC.
+- ^ Sahadi, Jeanne (December 22, 2017). "What's in the GOP's final tax plan". CNN.
+- ^ "Final GOP Tax Plan Summary: Tax Strategies Under TCJA 2017". Nerd's Eye View. December 18, 2017. Retrieved December 29, 2017.
+- ^ "The Tax Cuts and Jobs Act of 2017". Lexology. December 22, 2017. Retrieved December 29, 2017.
+- ^ "Discharged Student Loan Debt No Longer Taxable Under New Tax Law". Special Needs Answers. January 4, 2018. Retrieved April 17, 2018.
+- ^ "King, Portman, Coons Urge Administration to Immediately Discharge Outstanding Loans for Families Suffering from Child's Death or Permanent Disability" (Press release). Office of Senator Angus King. February 28, 2018. Retrieved April 18, 2018.
+- ^ Clark, James (April 23, 2019). "Trump's tax cut was a disaster for some Gold Star families, but it's a symptom of a larger problem Archived April 23, 2019, at the Wayback Machine". Task & Purpose.
+- ^ Borchers, Tim (January 14, 2018). "Estate and Gift Taxes Under the New 2018 Tax Law". Borchers Trust Law Group, PC.
+- ^ "IRS 2017 Instructions for Form 1120" (PDF).
+- ^ Levine, Matt (August 25, 2014). "Burger King May Move to Canada for the Donuts Archived April 17, 2016, at the Wayback Machine". Bloomberg.
+- ^ a b Korving, Stephen (January 2, 2018). "How tax cuts and job act will affect you and your business Archived May 9, 2018, at the Wayback Machine". Inside Business. The Hampton Roads Business Journal.
+- ^ Drucker, Jesse; Rappeport, Alan (December 16, 2017). "The Tax Bill's Winners and Losers". The New York Times. Retrieved July 15, 2019.
+- ^ Andrews, Wilson; Parlapiano, Alicia (December 15, 2017). "What's in the Final Republican Tax Bill". The New York Times. Retrieved July 15, 2019.
+- ^ Faler, Brian (March 16, 2020). "How Republicans' tax overhaul could make a recession worse". Politico. Retrieved March 16, 2020.
+- ^ Perez, William (February 8, 2022). "An Overview of the Domestic Production Activities Deduction". The Balance. Retrieved August 10, 2022.
+- ^ Davis, Kelly (April 19, 2019). "IRS Guidance Clarifies New Excise Tax on Nonprofit Executive Compensation". CliftonLarsonAllen LLP.
+- ^ a b "Notice 2019-09". Internal Revenue Service. December 31, 2018.
+- ^ "26 U.S. Code § 4960 – Tax on excess tax-exempt organization executive compensation". Internal Revenue Service. Legal Information Institute. Cornell University. 2017. Retrieved July 11, 2018.
+- ^ a b c d e f g h i "Update on Tax Reform and the Impact on Tax-Exempt Organizations". Gelman, Rosenberg & Freedman CPAs. July 10, 2018.
+- ^ "TCJA's Excise Tax: Remuneration in Excess of $1,000,000 and Excess Parachute Payments". Cherry Bekaert LLP. January 10, 2019.
+- ^ a b Moran, Christopher N.; Lewin, Cynthia M.; Constantine, George E. (April 24, 2019). "New Excise Tax on Nonprofit Compensation Casts Wide Net". Venable LLP
+- ^ "Notice 2018–55: Guidance on the Calculation of Net Investment Income for Purposes of the Section 4968 Excise Tax Applicable to Certain Private Colleges and Universities". Internal Revenue Service. 2018.
+- ^ Kreighbaum, Andrew (December 18, 2017). "Large endowments would be taxed under final GOP tax plan". Inside Higher Ed. Retrieved December 19, 2017.
+- ^ Bryan, Bob (December 19, 2017). "The House will be forced to revote on the massive tax bill because of provisions that break Senate rules". Business Insider. Retrieved December 19, 2017.
+- ^ Stratford, Michael; Wermund, Benjamin (December 22, 2017). "The new tax on Harvard". Politico. Retrieved December 25, 2017.
+- ^ a b c d e f g "Notice 2018–99". Internal Revenue Service. December 10, 2018.
+- ^ "IRS issues guidance for determining nondeductible amount of parking fringe expenses and unrelated business taxable income; provides penalty relief to tax-exempt organizations". Internal Revenue Service. December 10, 2018.
+- ^ "26 CFR 1.513-1 – Definition of unrelated trade or business". Internal Revenue Service. Legal Information Institute. Cornell University. 2017. Retrieved July 11, 2018.
+- ^ a b c "Not-For-Profit Tax Update". Cherry Bekaert LLP. August 29, 2018.
+- ^ "IRS Releases Notice 2018–67 Guidance on Separating UBI Activities Archived August 30, 2018, at the Wayback Machine". Maloney + Novotny, LLC. August 27, 2018.
+- ^ "IRS Notice 2018–67". Internal Revenue Service. August 21, 2018.
+- ^ "Note 2018–38: 2018 Fiscal-year Blended Tax Rates for Corporations". Internal Revenue Service. 2018.
+- ^ Burgess, Patti Brandt (July 15, 2018). "Donation decisions: To give or not to give in new tax era". The Tribune-Democrat (Johnstown, Pennsylvania).
+- ^ Harding, Hayley (July 1, 2018). "Report: Charitable Donations On Rise In State But Number Of People Giving Falls". The Hartford Courant (Hartford, Connecticut). p. 4B.
+- ^ Pender, Kathleen (May 20, 2018). "State lags on foiling tax deductions cap". 'San Francisco Chronicle. p. D1.
+- ^ "Notice 2018–71". Internal Revenue Service. September 24, 2018.
+- ^ a b c Sam Petulla & Jennifer Hansler, Sparkling wine, jets, the unborn and other special-interest wins in the tax bill, CNN (November 16, 2017).
+- ^ Tankersley, Jim (March 19, 2018). "A Curveball From the New Tax Law: It Makes Baseball Trades Harder". The New York Times. Retrieved March 20, 2018.
+- ^ a b c d Vinik, Danny (November 16, 2017). "The Easter eggs hidden in the new Senate tax bill". Politico.
+- ^ a b Aaron Smith, Cheers! Senators propose lowering alcohol tax, CNN (November 16, 2017).
+- ^ Matthews-King, Alex (December 2, 2017). "Private jet owners handed tax break in major Senate victory for Republicans". The Independent. Archived from the original on May 26, 2022.
+- ^ Hsu, Tiffany (November 17, 2017). "Senate Tax Plan Includes Exemption for Private Jet Management". The New York Times.
+- ^ a b Tankersley, Jim; Rappeport, Alan (March 11, 2018). "G.O.P. Rushed to Pass Tax Overhaul. Now It May Need to Be Altered". The New York Times. Retrieved March 20, 2018.
+- ^ Werner, Erica; DeBonis, Mike (March 22, 2018). "House approves jam-packed $1.3 trillion spending bill". The Washington Post. ISSN 0190-8286. Retrieved March 23, 2018.
+- ^ Tankersley, Jim (January 29, 2018). "Tucked Into the Tax Bill, a Plan to Help Distressed America". The New York Times. Retrieved December 3, 2018.
+- ^ Shankman, Sabrina (December 2, 2017). "12 House Republicans Urge Congress to Cut ANWR Oil Drilling from Tax Bill". InsideClimate News.
+- ^ Natter, Ari; Dlouhy, Jennifer A. (December 19, 2017). "Tax Bill Opens Arctic Refuge for Oil, But Years of Delay May Follow". Bloomberg L.P. Retrieved December 20, 2017.
+- ^ a b Scott Detrow, Senate May Approve Drilling In Alaskan Wilderness With Tax Bill, NPR (November 18, 2017).
+- ^ a b c d Solomon, Christopher (November 16, 2017). "The ANWR Drilling Rights in the Tax-Reform Bill". Outside.
+- ^ a b Shankman, Sabrina (November 16, 2017). "At Stake in Arctic Refuge Drilling Vote: Money, Wilderness and a Way of Life". InsideClimate News.
+- ^ Hughes, Siobhan (November 9, 2017). "House Ways and Means Committee Approves GOP Tax Bill". The Wall Street Journal.
+- ^ a b "$1.5 Trillion Tax Cut Passed by House in Mostly Party-Line Vote". The New York Times. November 16, 2017.
+- ^ House Passes Historic Debt Increase (press release), House Passes Historic Debt Increase (November 16, 2017).
+- ^ Faler, Brian (November 16, 2017). "Senate Finance Committee approves GOP tax reform plan". Politico.
+- ^ Seung Min Kim, Colin Wilhelm and Bernie Becker, Senate GOP gets breathing room as tax plan advances, Politico (November 28, 2017).
+- ^ "Senate passes huge tax cuts after last-minute changes; conference with House next". USA TODAY. Retrieved December 2, 2017.
+- ^ a b Weaver, Dustin (December 15, 2017). "Republicans unveil final version of tax bill". Retrieved July 9, 2018.
+- ^ Rappeport, Alan; Kaplan, Thomas (December 19, 2017). "Republican Tax Bill Passes Senate in 51-48 Vote". The New York Times. Retrieved December 20, 2017.
+- ^ Tatum, Sophie (December 19, 2017). "These are the Republicans who voted 'no' on the tax bill". CNN. Retrieved December 19, 2017.
+- ^ Faler, Brian (December 19, 2017). "House passes tax overhaul, teeing up final Senate vote". Politico. Retrieved December 19, 2017.
+- ^ Lee, Jasmine C.; Simon, Sara (December 19, 2017). "How Every Senator Voted on the Tax Bill". The New York Times.
+- ^ Kaplan, Thomas (December 20, 2017). "House Gives Final Approval to Sweeping Tax Overhaul". The New York Times.
+- ^ Seipel, Arnie; Kurtzleben, Danielle (December 20, 2017). "Congress Passes $1.5 Trillion Tax Cut Bill, a Legislative Win for Trump". NPR. Retrieved December 20, 2017.
+- ^ Wagner, John (December 22, 2017). "Trump signs sweeping tax bill into law". The Washington Post.
+- ^ "Preliminary Distributional Analysis of the 'Tax Cuts and Jobs Act'". November 8, 2017. Retrieved July 9, 2018.
+- ^ Levitz, Eric (November 10, 2017). "The GOP Tax Plan Is Dead – Unless the Filibuster Dies First". New York.
+- ^ Horsley, Scott (December 4, 2017). "9 Sticking Points The House And Senate Have To Work Out In Their Tax Bills". NPR. Retrieved July 9, 2018.
+- ^ Rappeport, Alan (November 16, 2017). "The House and Senate Still Have Very Different Tax Bills. Here's How They Compare". The New York Times.
+- ^ Vogel, Kenneth P.; Goodstein, Laurie (November 26, 2017). "In Tax Debate, Gift to Religious Right Could Be Bargaining Chip". The New York Times.
+- ^ Heather Long, In a small win for Democrats, the final tax bill will not include a provision allowing churches to endorse political candidates, The Washington Post (December 14, 2017).
+- ^ Ted Gayer and Austin J. Drukker, A small difference between the House and Senate tax plans could mean big benefits for private sports stadiums, Brookings Up Front (December 4, 2017).
+- ^ "JCX-62-17". www.jct.gov. Retrieved July 9, 2018.
+- ^ Lai, K.K. Rebecca; Andrews, Wilson; Parlapiano, Alicia (November 16, 2017). "How Every Member Voted on the House Tax Bill". The New York Times. Retrieved December 19, 2017.
+- ^ Lee, Jasmine C.; Storey, Rachel; Simon, Sara (December 1, 2017). "See How Every Senator Voted on the Republican Tax Bill". The New York Times. Retrieved December 19, 2017.
+- ^ Almukhtar, Sarah; Carlsen, Audrey; Lai, K.K. Rebecca; Migliozzi, Blacki; Parlapiano, Alicia; Patel, Jugal K.; Shorey, Rachel (December 19, 2017). "How Each House Member Voted on the Tax Bill". The New York Times. Retrieved December 19, 2017.
+- ^ "Final Vote Results for Roll Call 699". Clerk of the United States House of Representatives. December 20, 2017. Retrieved December 21, 2017.
+- ^ Lee, Jasmine C.; Simon, Sara (December 19, 2017). "How Every Senator Voted on the Tax Bill". The New York Times. Retrieved December 19, 2017.
+- ^ Goodman, Lucas; Lim, Katherine; Sacerdote, Bruce; Whitten, Andrew (2025). "How do business owners respond to a tax cut? Examining the 199A deduction for pass-through firms". Journal of Public Economics. 242 105293. doi:10.1016/j.jpubeco.2024.105293. ISSN 0047-2727.
+- ^ "Distributional Analysis of the Conference Agreement for the Tax Cuts and Jobs Act". Tax Policy Center. December 18, 2017. Retrieved August 9, 2022.
+- ^ a b c "Distributional Analysis of the Conference Agreement for the Tax Cuts and Jobs Act". December 18, 2017. Retrieved July 9, 2018.
+- ^ Matthews, Dylan (December 8, 2017). "The Republican tax plan leaves a $1.5 trillion bill for the middle class to pay". Vox. Retrieved July 9, 2018.
+- ^ a b "Macroeconomic Analysis of the Tax Cuts and Jobs Act as Passed by the Senate Finance Committee". December 1, 2017. Retrieved July 9, 2018.
+- ^ "The Budget and Economic Outlook: 2017 to 2027". Congressional Budget Office. January 24, 2017. Retrieved July 9, 2018.
+- ^ a b "CBO-Appendix B: The Effects of the 2017 Tax Act on CBO's Economic and Budget Projections, page 129" (PDF).
+- ^ a b c d e "Distributional Effects of Changes in Taxes and Spending Under the Conference Agreement for H.R. 1 – Congressional Budget Office". www.cbo.gov. December 21, 2017. Retrieved July 9, 2018.
+- ^ "The Tax Cuts and Jobs Act, as Reported by Conference Committee (12/15/17): Static and Dynamic Effects on the Budget and the Economy". December 18, 2017. Retrieved July 9, 2018.
+- ^ "Analysis | A new report further undermines Trump's claim that the tax cuts were economic 'rocket fuel'". The Washington Post.
+- ^ The Economic Effects of the 2017 Tax Revision: Preliminary Observations, Congressional Research Service, May 22, 2019: https://fas.org/sgp/crs/misc/R45736.pdf
+- ^ "Budget and Economic Data – Congressional Budget Office". www.cbo.gov.
+- ^ "JCX-67-17". www.jct.gov. Retrieved July 9, 2018.
+- ^ "JCX-68-17". www.jct.gov. Retrieved July 9, 2018.
+- ^ a b "JCX-58-17". www.jct.gov. Retrieved July 9, 2018.
+- ^ a b "Federal Subsidies for Health Insurance Coverage for People Under Age 65: 2018 to 2028 – Congressional Budget Office". www.cbo.gov. May 23, 2018. Retrieved July 9, 2018.
+- ^ "Repealing the Individual Health Insurance Mandate: An Updated Estimate – Congressional Budget Office". www.cbo.gov. November 8, 2017. Retrieved July 9, 2018.
+- ^ a b O'Neal, Lydia (January 26, 2021). "The Trump Tax Cuts: Promises Made, Promises Kept?". news.bloombergtax.com. Retrieved September 20, 2022.
+- ^ a b "Face It: You (Probably) Got a Tax Cut". The New York Times. April 14, 2019.
+- ^ a b Kessler, Glenn (May 1, 2019). "Biden's false claim that no one but the rich got Trump's tax cuts". Washington Post.
+- ^ Pound, Jesse (December 16, 2019). "These 91 companies paid no federal taxes in 2018". CNBC. Retrieved March 1, 2025.
+- ^ Gleckman, Howard (April 18, 2019). "The Three Numbers To Know About The TCJA In 2018". Tax Policy Center.
+- ^ "White House" (PDF).
+- ^ Jones, Paul Davidson and Charisse. "More Americans go without health insurance for the first time in a decade". USA TODAY.
+- ^ a b "Five Charts That Show How Companies Are Spending Their Tax Savings". Bloomberg News. March 5, 2018. Retrieved July 9, 2018.
+- ^ Mahedy, Tim (March 6, 2019). "Trump's Big Tax Cuts Did Little to Boost Economic Growth". www.bloomberg.com. Retrieved May 5, 2020.
+- ^ Smolyansky, Michael; Suarez, Gustavo; Tabova, Alexandra (August 6, 2019). "U.S. Corporations' Repatriation of Offshore Profits: Evidence from 2018" – via www.federalreserve.gov.
+{{cite journal}}
+: Cite journal requires|journal=
+(help) - ^ Onaran, Yalman (January 16, 2020). "Trump Tax Cut Hands $32 Billion Windfall to America's Top Banks". Bloomberg. Retrieved April 5, 2022.
+- ^ "The Efficiency-Equity Tradeoff of the Corporate Income Tax: Evidence from the Tax Cuts and Jobs Act". oxfordtax.sbs.ox.ac.uk. Retrieved February 27, 2025.
+- ^ Horsley, Scott (December 20, 2019). "After 2 Years, Trump Tax Cuts Have Failed To Deliver On GOP's Promises". NPR.
+- ^ "Federal government current tax receipts: Taxes on corporate income". Federal Reserve Bank of St. Louis. June 28, 2018. Retrieved July 1, 2018.
+- ^ Krugman, Paul (June 30, 2018). "Opinion – Trump's Potemkin Economy". The New York Times. Retrieved July 1, 2018.
+- ^ "Analysis: With corporate tax receipts sagging, the federal deficit hits a monthly high". The Washington Post.
+- ^ "Corporate Tax Receipts Took an Unprecedented Drop This Year". www.pgpf.org.
+- ^ "Corporate Profits 🠉, Corporate Federal Tax Collections 🠋". ITEP.
+- ^ Davidson, Kate (February 14, 2019). "U.S. Tax Revenues Fall, Deficit Widens in Wake of New Tax Law". Wall Street Journal – via www.wsj.com.
+- ^ Tankersley, Jim; Cochrane, Emily (August 21, 2019). "Deficit Will Reach $1 Trillion Next Year, Budget Office Predicts". The New York Times.
+- ^ Brownstein, Ronald (November 14, 2017). "GOP tax plans could fuel the suburban revolt against Trump". CNN. Retrieved July 9, 2018.
+- ^ "Republicans roll out their long-awaited tax reform plan". cleveland.com. Retrieved November 3, 2017.
+- ^ "Kevin McCarthy guarantees middle class tax cut under House GOP plan". Washington Examiner. November 5, 2017.
+- ^ Rappeport, Alan; Kaplan, Thomas (November 15, 2017). "Tax Bill Thrown Into Uncertainty as First G.O.P. Senator Comes Out Against It". The New York Times.
+- ^ Shepherd, Michael (December 2, 2017). "Susan Collins says she supports Senate GOP's tax bill". Bangor Daily News.
+- ^ Jacob Pramuk, Ron Johnson and Steve Daines, two of the last Senate GOP holdouts, will back tax bill after pass-through tweak, CNBC (December 1, 2017).
+- ^ "CEA Report: The Growth Effects of Corporate Tax Reform and Implications for Wages". whitehouse.gov. Retrieved June 4, 2019 – via National Archives.
+- ^ "CEA Report-The Growth Effects of Corporate Tax Reform and Implications for Wages-October 27, 2017". Archived from the original on December 10, 2017.
+- ^ Kruzel, John (April 28, 2017). "No evidence Trump's tax cut could pay for itself". PolitiFact. Retrieved July 9, 2018.
+- ^ Vinik, Danny (November 2, 2017). "Simpler taxes under the GOP plan? Don't count on it". Politico.
+- ^ Tankersley, Jim (October 29, 2017). "Democrats Attack Tax Bill as a 'Middle-Class Con Job'". The New York Times.
+- ^ DeBonis, Mike; Paletta, Damian (November 2, 2017). "Public will turn against GOP tax bill, Schumer predicts: 'The more it's in sunlight, the more it stinks'". The Washington Post. ISSN 0190-8286. Retrieved November 3, 2017.
+- ^ "Transcript". At This Hour. CNN. November 2, 2017.
+- ^ Sam Petulla, Sean O'Key and Hannah Lang, The House Republicans who voted 'no' on tax reform, CNN (November 16, 2017).
+- ^ "Billionaire Michael Bloomberg: 'The Tax Bill Is an Economically Indefensible Blunder'". Money. Archived from the original on August 9, 2020. Retrieved April 2, 2018.
+- ^ Bryan, Bob (May 8, 2017). "Warren Buffett and Bill Gates don't think Trump's tax cut will help business". Business Insider. Retrieved April 2, 2018.
+- ^ Clifford, Catherine (October 4, 2017). "Billionaire Warren Buffett: 'I don't need a tax cut'". CNBC. Retrieved April 2, 2018.
+- ^ "Read the Letter". Responsible Wealth Project. Retrieved April 2, 2018.
+- ^ "More than 400 millionaires and billionaires have called on Republicans not to cut their taxes". The Independent. November 13, 2017. Archived from the original on May 26, 2022. Retrieved April 2, 2018.
+- ^ Long, Heather (November 12, 2017). "More than 400 millionaires tell Congress: Don't cut our taxes". The Washington Post. ISSN 0190-8286. Retrieved April 2, 2018.
+- ^ "Tax reform has passed. What now?". The Economist. December 20, 2017. ISSN 0013-0613. Retrieved January 23, 2019.
+- ^ Wolf, Martin (November 21, 2017). "A Republican tax plan built for plutocrats". Financial Times.
+- ^ The Editorial Board (December 18, 2017). "Opinion | Tax Bill Lets Trump and Republicans Feather Their Own Nests". The New York Times. ISSN 0362-4331. Retrieved January 23, 2019.
+- ^ "Tax cuts the GOP will regret". USA TODAY. Retrieved January 23, 2019.
+- ^ The Editorial Board (December 20, 2017). "Opinion | A win for the wealthy, the entitled and the irresponsible". The Washington Post. Retrieved January 23, 2019.
+- ^ Board, The Times Editorial (December 2, 2017). "Editorial Board: The GOP's big tax win is a loss for the rest of us". Los Angeles Times. Retrieved January 23, 2019.
+- ^ "Editorial: Headed for a cliff, GOP steps on the gas on tax cuts - SFChronicle.com". www.sfchronicle.com. December 15, 2017. Retrieved January 23, 2019.
+- ^ "One last chance for Collins to reject bad GOP tax bill". The Boston Globe. Retrieved January 23, 2019.
+- ^ a b c Krugman, Paul (November 16, 2017). "Opinion: Everybody Hates the Trump Tax Plan". The New York Times.
+- ^ Krugman, Paul (October 26, 2017). "Trump's $700 Billion Gift to Wealthy Foreigners". The New York Times.
+- ^ a b Krugman, Paul (November 14, 2017). "Tax Cuts And the Trade Deficit". The New York Times.
+- ^ "Tax Reform".
+- ^ "The Republican Tax on the Future". Editorial. The New York Times. November 25, 2017.
+- ^ "The Outlook for the U.S. Economy in 2018 and Beyond – FEDERAL RESERVE BANK of NEW YORK". www.newyorkfed.org. Retrieved July 9, 2018.
+- ^ "$1.5 trillion U.S. tax cut has no major impact on business capex..." Reuters. January 28, 2019 – via www.reuters.com.
+- ^ Blair, Hunter (October 31, 2019). "The Tax Cuts and Jobs Act isn't working and there's no reason to think that will change". epi.org. Economic Policy Institute. Retrieved November 30, 2019.
+- ^ Tankersley, Jim; Eavis, Peter; Casselman, Ben (November 17, 2019). "How FedEx Cut Its Tax Bill to $0". The New York Times.
+- ^ Konczal, Mike (November 16, 2017). "Republicans are Weaponizing the Tax Code". Vox.
+- ^ "An Update to the Budget and Economic Outlook: 2017 to 2027 – Congressional Budget Office". www.cbo.gov. June 29, 2017. Retrieved July 9, 2018.
+- ^ Long, Heather (November 14, 2017). "'Why aren't the other hands up?' A top Trump adviser's startling response to CEOs not doing what he'd expect". The Washington Post.
+- ^ Summers, Lawrence (October 17, 2017). "Perspective: Trump's Top Economist's Analysis Isn't Just Wrong, It's Dishonest". The Washington Post.
+- ^ "Wells Fargo, AT&T Try to Show Unpopular Tax Cut Helps Workers". Bloomberg News. December 20, 2017. Retrieved July 9, 2018.
+- ^ Egan, Matt (January 2, 2018). "Only a small slice of corporate America has shared tax savings with workers so far". Retrieved July 9, 2018.
+- ^ "What Companies Are Really Doing With Their Tax Windfall (So Far)". Bloomberg News. January 26, 2018. Retrieved July 9, 2018.
+- ^ Smith, Noah (July 18, 2018). "Trump's Tax Cut Hasn't Done Anything for Workers". Bloomberg. Retrieved July 27, 2018.
+- ^ "The Tax Bill that Inequality Created". Editorial. The New York Times. December 16, 2017.
+- ^ "Emmanuel Saez-Striking it Richer-June 30, 2016" (PDF). Retrieved July 9, 2018.
+- ^ "Saez&Zucman-Quarterly Journal of Economics-Wealth Inequality in the United States Since 1913 – May 2016" (PDF). Retrieved July 9, 2018.
+- ^ "The Republican tax bill will exacerbate income inequality in America". December 2, 2017. Retrieved July 9, 2018.
+- ^ Krugman, Paul (December 22, 2017). "Opinion – Tax-Cut Santa Is Coming to Town". The New York Times. Retrieved July 9, 2018.
+- ^ Kurtzleben, Danielle (March 2017). "While Trump Touts Stock Market, Many Americans Are Left Out Of The Conversation". NPR. Retrieved July 9, 2018.
+- ^ Leonhardt, David (December 17, 2017). "A Plan to Turbocharge Inequality in Three Charts". The New York Times.
+- ^ "Revenue Statistics: 1965–2016 – en – OECD". www.oecd.org. Retrieved July 9, 2018.
+- ^ "U.S. Tax Rates: The Big Picture". April 15, 2014. Retrieved July 9, 2018.
+- ^ a b Yurou. "U.S. tax reform poses threat to German jobs, investment, say leading economists". Xinhua. Archived from the original on December 24, 2017. Retrieved December 23, 2017.
+- ^ Fox, Justin (November 27, 2017). "Taxes are Low in the U.S., but other stuff is expensive". Bloomberg.
+- ^ a b Appelbaum, Binyamin (November 17, 2017). "Trump's Tax Cuts Are Likely to Increase Trade Deficit". The New York Times. ISSN 0362-4331. Retrieved November 19, 2017.
+- ^ Rayner, Gordon. "Philip Hammond sides with EU to demand Donald Trump drops tax reforms that risk trade war". The Telegraph. Archived from the original on January 12, 2022. Retrieved December 23, 2017.
+- ^ Deen, Mark. "Europeans Tell Mnuchin the GOP Tax Plan May Break Treaties, Hurt Trade". Bloomberg.com. Retrieved December 23, 2017.
+- ^ Kessler, Glenn; Ye Hee Lee, Michelle (September 28, 2017). "Fact-Checking President Trump's tax speech in Indianapolis". The Washington Post.
+"Trump Likely Benefits from Tax Bills - FactCheck.org". FactCheck.org. November 30, 2017. Retrieved December 2, 2017.
+"Will the GOP tax bill cost Donald Trump 'a fortune'? No". @politifact. Retrieved December 2, 2017. - ^ a b Drucker, Jesse (December 22, 2017). "Trump Could Save More Than $11 Million Under the New Tax Plan". The New York Times. ISSN 0362-4331. Retrieved December 22, 2017.
+- ^ Harwell, Drew (December 20, 2017). "Trump stands to save millions under new tax measure, experts say". The Washington Post. ISSN 0190-8286. Retrieved December 21, 2017.
+- ^ a b Hirsch, Lauren (December 17, 2017). "GOP tax bill includes a provision that could enrich Trump and Republican senators". CNBC. Retrieved December 22, 2017.
+- ^ a b c Mattingly, Phil. "Tax voting starts Tuesday, why is Corker voting yes?". CNN. Retrieved December 22, 2017.
+- ^ Iannelli, Jerry (December 22, 2017). "Miami Rep. Curbelo's Wife Owns Assets That Benefit From GOP Tax Bill's Last-Minute Provision". Miami New Times. Retrieved December 23, 2017.
+- ^ Fox, Lauren; Mattingly, Phil (November 30, 2017). "Sen. John McCain says he'll vote for Senate GOP tax plan". CNN. Retrieved May 29, 2018.
+- ^ Salisbury, Ian. "People Are Outraged About the GOP Tax Bill's 'Corker Kickback.' This Is Why". Money. Archived from the original on September 25, 2020. Retrieved December 22, 2017.
+- ^ Cohen, Patricia (December 9, 2017). "Tax Plans May Give Your Co-Worker a Better Deal Than You". The New York Times. ISSN 0362-4331. Retrieved December 10, 2017.
+- ^ Rubin, Richard; Simon, Ruth (December 13, 2017). "For Pass-Through Businesses, Let the (Tax) Games Begin". The Wall Street Journal. ISSN 0099-9660. Retrieved December 13, 2017.
+- ^ a b c d Carmichael, Kevin (December 20, 2017). "The Republican Tax Bill Doesn't Actually Simplify The Tax Code". FiveThirtyEight. Retrieved December 20, 2017.
+- ^ Sahadi, Jeanne. "New tax code will still be complicated despite GOP promise to simplify". CNNMoney. Retrieved December 20, 2017.
+- ^ Goodman, Peter S.; Cohen, Patricia (November 29, 2017). "It Started as a Tax Cut. Now It Could Change American Life". The New York Times.
+- ^ a b c d Jim Tankersley & Alan Rappeport, "A Hasty, Hand-Scribbled Tax Bill Sets Off an Outcry", The New York Times (December 1, 2017).]
+- ^ Kaplan, Thomas; Rappeport, Alan (November 16, 2017). "House Passes Tax Bill, as Does Senate Panel". The New York Times.
+- ^ a b c Golshan, Tara (December 1, 2017). "Republicans are handwriting their tax bill at the last minute". Vox.
+- ^ a b Seung Min Kim & Colin Wilhelm, Republicans rewriting tax bill hours before possible vote: Senate GOP leaders are still making major changes to the plan in order to win over several hold-outs, Politico (December 1, 2017).
+- ^ a b B. Wang, Amy (December 2, 2017). "Democrats fume over 'absurd' GOP tax bill full of last-minute handwritten edits". The Washington Post.
+- ^ "The Senate Is Rushing to Pass Its Tax Bill Because It Stinks". Editorial. The New York Times. November 29, 2017.
+- ^ Albert R. Hunt, Republican Haste Warps Tax Bills, Bloomberg View (November 29, 2017).
+- ^ Wessel, David (February 5, 2021). "What is reconciliation in Congress?". Brookings. Retrieved February 12, 2021.
+- ^ Appelbaum, Binyamin (December 13, 2017). "Fed Predicts Modest Economic Growth From Tax Cut". The New York Times. Retrieved July 9, 2018.
+- ^ Binyamin Appelbaum, "A Trump Economic Boom? The Fed May Stand in the Way", The New York Times (December 13, 2016).
+- ^ Mankiw, N. Gregory (November 3, 2017). "How to Improve the Trump Tax Plan". The New York Times. ISSN 0362-4331. Retrieved November 17, 2017.
+- ^ "Most Economists Agree: Trump Tax Plan Will Widen Budget Deficit". Bloomberg.com. September 28, 2017. Retrieved November 17, 2017.
+- ^ Soergel, Andrew (September 29, 2017). "Would a Trump Tax Cut Boost Economic Growth?". U.S. News & World Report.
+- ^ Stein, Jeff (November 22, 2017). "37 of 38 economists said the GOP tax plans would grow the debt. The 38th misread the question". The Washington Post. ISSN 0190-8286. Retrieved April 2, 2018.
+- ^ "Tax Reform". www.igmchicago.org. November 2017. Retrieved April 2, 2018.
+- ^ Stiglitz, Joseph E. (October 4, 2017). "Déjà Voodoo by Joseph E. Stiglitz – Project Syndicate". Project Syndicate. Retrieved November 17, 2017.
+- ^ Krugman, Paul (January 1, 2019). "Opinion | The Trump Tax Cut: Even Worse Than You've Heard". The New York Times. ISSN 0362-4331. Retrieved January 23, 2019.
+- ^ "Nobel Winner Thaler Takes a Jab at Trump". Bloomberg.com. October 10, 2017. Retrieved November 17, 2017.
+- ^ "Nobel winning economist says Trump's plans aggravate income inequality". Newsweek. May 13, 2017. Retrieved November 17, 2017.
+- ^ Blinder, Alan S. (December 27, 2017). "Almost Everything Is Wrong With the New Tax Law". Wall Street Journal. ISSN 0099-9660. Retrieved January 23, 2019.
+- ^ reform, The RATE Coalition, a group of businesses calling for tax (November 29, 2017). "137 economists sign open letter to Congress supporting GOP tax reform bill". CNBC. Retrieved December 2, 2017.
+{{cite news}}
+:|first=
+has generic name (help)CS1 maint: multiple names: authors list (link) - ^ Fang, Lee (December 1, 2017). "GOP's List of Economists Backing Tax Cut Includes Ghosts, Office Assistants, Ex-Felons, and a Sprinkling of Real Economists". The Intercept. Retrieved December 2, 2017.
+- ^ "Economists Seem to Back Off Growth Claim for Tax Cuts". Bloomberg Quint. Retrieved December 10, 2017.
+- ^ Cary, Peter; Holmes, Alan (April 30, 2019). "Workers barely benefited from Trump's sweeping tax cut, investigation shows". The Guardian. Retrieved August 30, 2020.
+- ^ "The secret saga of Trump's tax cuts". Center for Public Integrity. April 30, 2019. Retrieved August 30, 2020.
+- ^ Savransky, Rebecca (November 9, 2017). "Graham: 'Financial contributions will stop' if GOP doesn't pass tax reform". The Hill. Retrieved November 10, 2017.
+- ^ Gordon, Marcy; Werner, Erica. "Changes to House tax bill on child care benefits, credits". Associated Press. Retrieved November 10, 2017.
+- ^ "The GOP Tax Plan Will Destroy Graduate Education". Forbes. Retrieved November 9, 2017.
+- ^ "The Republican tax plan could financially devastate graduate students". The Verge. Retrieved November 8, 2017.
+- ^ "Taxing a Coupon". Inside Higher Ed. Retrieved November 8, 2017.
+- ^ a b Timmer, John (November 17, 2017). "Tax bill that passed the House would cripple training of scientists". Ars Technica.
+- ^ S. Lubell, Michael; Richter, Burton (November 16, 2017). "Why the tax bill Is bad for science, innovation and America". The Hill.
+- ^ "An update on the Tax Cuts and Jobs Act and CU Boulder". CU Boulder Today. Strategic Relations and Communications, University of Colorado Boulder. December 20, 2017. Retrieved April 18, 2018.
+- ^ Long, Heather (November 14, 2017). "Democrats have leverage in one part of the GOP tax cut process". The Washington Post. ISSN 0190-8286. Retrieved December 21, 2017.
+- ^ Sanger-Katz, Margot (November 29, 2017). "The Tax Bill's Automatic Spending Cuts". The New York Times. ISSN 0362-4331. Retrieved December 21, 2017.
+- ^ Cancryn, Adam; Ferris, Sarah (November 30, 2017). "Tax bill could trigger historic spending cuts". Politico. Retrieved December 21, 2017.
+- ^ Edgerton, Anna; Wasson, Erik (December 21, 2017). "House GOP Pushes Funding Gambit Day Ahead of Shutdown Deadline". Bloomberg L.P. Retrieved December 22, 2017.
+- ^ Wilkie, Christina (December 22, 2017). "Trump signs GOP tax plan and short-term government funding bill on his way out of town". CNBC. Retrieved July 9, 2018.
+- ^ "The GOP Tax Cuts Are Even More Unpopular Than Past Tax Hikes". November 29, 2017. Retrieved July 9, 2018.
+- ^ "Trump Republicans Tax Reform Law". RealClearPolitics. Polls. February 5, 2019. Retrieved February 11, 2019.
+- ^ Casselman, Ben; Tankersley, Jim (February 19, 2018). "Tax Overhaul Gains Public Support, Buoying Republicans". The New York Times.
+- ^ "Trump Rating Ticks Up; Support for Tax Plan Increases". Monmouth University. January 31, 2018.
+- ^ "Monthly Harvard-Harris Poll: January 2018 Re-Field" (PDF). Harvard–Harris Poll. January 20, 2018.
+- ^ Eckert, Toby (January 17, 2018). "GOP tax plan fails to crack a majority in new poll". Morning Consult. Politico.
+- ^ "Democracy Corps" (PDF). GQR Research. Archived from the original (PDF) on March 29, 2018. Retrieved January 26, 2018.
+- ^ Casselman, Ben; Tankersley, Jim (January 16, 2018). "Poll Finds Upturn in Sentiment on Tax Overhaul and Economy". The New York Times.
+- ^ "The Economist/YouGov Poll" (PDF). YouGov. January 2, 2018. Retrieved January 4, 2018.
+- ^ "December National Survey Results". December 19, 2017.
+- ^ Shepard, Steven (December 19, 2017). "Poll: Voters split on GOP tax bill". Politico.
+- ^ "CNN December 2017" (PDF). CNN. December 19, 2017. Retrieved December 19, 2017.
+- ^ "Study #17505" (PDF). NBC News. Archived from the original (PDF) on December 19, 2017. Retrieved December 20, 2017.
+- ^ Drucker, David M. (December 18, 2017). "Republican poll shows political challenges, possible benefits, of passing tax bill". Washington Examiner. Retrieved December 19, 2017.
+- ^ "Half The Public Say Their Taxes Will Go Up Under GOP Plan". West Long Branch: Monmouth University. December 18, 2017. Retrieved December 19, 2017.
+- ^ "Support for GOP Tax Plan Could Hurt Candidates, Quinnipiac University National Poll Finds; U.S. Voters Say 7-1 DACA Immigrants Should Stay" (PDF). Quinnipiac University. December 13, 2017. Retrieved December 14, 2017.
+- ^ Page, Susan (December 10, 2017). "Poll: Most Americans doubt GOP bill will cut their taxes or boost the economy". USA Today. Retrieved December 12, 2017.
+- ^ Thomas, Shawna (December 13, 2017). "Why the GOP tax bill is so unpopular". Vice News. Retrieved December 14, 2017.
+- ^ Becker, Amanda; Kahn, Chris (December 11, 2017). "Nearly half of Americans still oppose Republican tax bill: Reuters/Ipsos poll". Reuters. Retrieved December 12, 2017.
+- ^ De Pinto, Jennifer; Backus, Fred; Khanna, Kabir; Salvanto, Anthony (December 7, 2017). "CBS News poll: Americans say tax plan helps wealthy, not middle class". CBS News. Retrieved December 8, 2017.
+- ^ Saad, Lydia (December 5, 2017). "Independents, Democrats Not on Board With GOP Tax Plan". Gallup. Retrieved December 8, 2017.
+- ^ "GOP Tax Plan Benefits Rich, U.S. Voters Say Almost 3-1, Quinnipiac University National Poll Finds; Trump Job Approval Stuck at 35 Percent" (PDF). Quinnipiac University. December 5, 2017. Retrieved December 8, 2017.
+- ^ Becker, Amanda; Kahn, Chris (November 29, 2017). "Nearly half of Americans oppose Republican tax bill: Reuters/Ipsos poll". Reuters. Retrieved December 8, 2017.
+- ^ "Monthly Harvard CAPS-Harris Poll: November 2017" (PDF). Harvard–Harris Poll. November 15, 2017. Retrieved December 13, 2017.
+- ^ Shepard, Steven (November 15, 2017). "Poll: Voters think Trump will benefit from tax plan". Politico. Retrieved December 8, 2017.
+- ^ "Latest Massacre Drives Gun Control Support to New High, Quinnipiac University National Poll Finds; Voters Reject GOP Tax Plan 2-1" (PDF). Quinnipiac University. November 15, 2017. Retrieved December 8, 2017.
+- ^ "The Economist/YouGov Poll" (PDF). YouGov. November 8, 2017. Retrieved December 8, 2017.
+- ^ Shepard, Steven (November 9, 2017). "Poll: Support for GOP tax plan ticks down but remains positive". Politico. Retrieved December 8, 2017.
+- ^ "CNN November 2017" (PDF). CNN. November 7, 2017. Retrieved December 19, 2017.
+- ^ Clement, Scott; Guskin, Emily (November 3, 2017). "Republicans' tax overhaul pitch faces skeptical public, Post-ABC poll finds". The Washington Post. Retrieved December 8, 2017.
+- ^ Eckert, Toby (November 1, 2017). "Poll: Voters like tax reform overall but cool to corporate cut". Politico. Retrieved December 8, 2017.
+- ^ Becker, Amanda; Kahn, Chris (October 24, 2017). "Fewer than a third of Americans back Trump tax plan: Reuters/Ipsos poll". Reuters. Retrieved December 8, 2017.
+- ^ "CNN October 2017" (PDF). CNN. October 18, 2017. Retrieved December 8, 2017.
+- ^ Shepard, Steven (October 4, 2017). "Poll: 48 percent approve of Trump's tax proposal". Politico. Retrieved December 8, 2017.
+- ^ Filer, Christine (September 26, 2017). "Two-thirds say large corporations pay too little in federal taxes (POLL)". ABC News. Retrieved December 8, 2017.
+- ^ Kaeding, Nicole; York, Erica (July 24, 2018). "Tax Reform 2.0 Framework a Good Start". Tax Foundation.
+- ^ York, Erica (September 14, 2018). "The Ways and Means Committee Passes Tax Reform 2.0". Tax Foundation.
+- ^ "H.R.6757: Family Savings Act". 115th Congress. Retrieved November 26, 2018.
+- ^ "H.R.6756: American Innovation Act of 2018". 115th Congress. Retrieved November 26, 2018.
+- ^ a b c Lorenzo, Aaron (September 28, 2018). "House votes to make individual tax cuts permanent". Politico.
+- ^ "H.R.6760: Protecting Family and Small Business Tax Cuts Act of 2018". 115th Congress. Retrieved November 26, 2018.
+- ^ "House Democrats pass Biden's expansive Build Back Better policy plan". the Guardian. November 19, 2021. Retrieved November 21, 2021.
+- ^ Erik Wasson; Billy House (November 19, 2021). "Pelosi Hails 'Historic' Bill as House Poised to Pass Biden Plan". Bloomberg News. Retrieved November 21, 2021.
+- ^ Liptak, Adam (March 2, 2020). "Supreme Court to Hear Obamacare Appeal". The New York Times. Retrieved March 2, 2020.
+- ^ Sherman, Mark (June 17, 2021). "Supreme Court dismisses challenge to Obama health law". Associated Press. Retrieved June 17, 2021.
+- ^ Benen, Steve (June 17, 2021). "Affordable Care Act survives Supreme Court challenge (again)". MSNBC. Retrieved June 17, 2021.
+- ^ Boak, Josh (July 15, 2024). "Trump's economic plans include proposed tariffs, tax cuts and no taxes on tips. Details are scarce". AP News. Retrieved August 26, 2024.
+- ^ Luhby, Tami (July 8, 2024). "Top 5% of taxpayers would get nearly half the benefit if Trump tax cuts are extended | CNN Politics". CNN. Retrieved August 26, 2024.
+- ^ Guggenheim, Benjamin; Becker, Bernie (August 27, 2024). "Trump and Harris confront a trillion-dollar question over expiring tax cuts". Politico. Retrieved May 21, 2025.
+- ^ Kapur, Sahil; Wong, Scott; Stewart, Kyle; Asghar, Syedah (May 18, 2025). "Key House committee advances Trump agenda bill after appeasing conservatives". NBC News. Retrieved May 21, 2025.
+- ^ "Trump to sign bill on Friday at 5 p.m., White House says". Reuters. July 3, 2025. Retrieved July 4, 2025.
+- ^ Freking, Kevin; Mascaro, Lisa (July 5, 2025). "What's in the tax and spending bill that Trump has signed into law". AP News. Retrieved July 5, 2025.
+External links
+[edit]- Tax Cuts and Jobs Act of 2017 (PDF) as enacted in the US Statutes at Large
+- H.R. 1 via Congress.gov
+- Tax Foundation's calculator to see effect of the law on you
+- Taxpayer Advocate Service Tax Reform Changes Website (Archived December 3, 2020, at the Wayback Machine)

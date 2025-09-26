@@ -1,0 +1,1001 @@
+https://www.ceicdata.com/en/nigeria/government-revenue-and-expenditure/gross-federation-account-revenue-oil
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Claims on Nonresidents (NGN mn)
+|
+17,513,730.68
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Foreign Assets: Net (NGN mn)
+|
+11,999,548.69
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Domestic Claims (NGN mn)
+|
+26,753,591.13
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Claims on Central Governm... (NGN mn)
+|
+9,677,633.63
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Claims on Central Governm... (NGN mn)
+|
+3,413,205.31
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Claims on State and Local... (NGN mn)
+|
+1,488,741.82
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Claims on Nonfinancial Pu... (NGN mn)
+|
+185,400.87
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Claims on Private Sector (NGN mn)
+|
+16,325,859.21
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Claims on Other Financial... (NGN mn)
+|
+5,340,383.93
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Claims on Other Sectors (NGN mn)
+|
+23,340,385.83
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Transferable Deposits (NGN mn)
+|
+7,258,177.52
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Currency Outside Deposito... (NGN mn)
+|
+1,785,054.22
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Other Deposits (NGN mn)
+|
+12,566,618.77
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Broad Money Liabilities (NGN mn)
+|
+21,610,822.98
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Broad Money Liabilities: ... (NGN mn)
+|
+21,224,789.89
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Securities Other Than Sha... (NGN mn)
+|
+972.47
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: Liabilities of Central Bank: Securit... (NGN bn)
+|
+0.00
+2008
+|
+yearly
+|
+2001 - 2008
+|
+|
+Nigeria NG: Depository Corporations Survey: Restricted Deposits (NGN bn)
+|
+478.66
+2008
+|
+yearly
+|
+1959 - 2008
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Deposits excluded from Br... (NGN mn)
+|
+2,353,921.53
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Liabilities to Nonresiden... (NGN mn)
+|
+5,514,181.98
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Liabilities to Central Go... (NGN mn)
+|
+6,264,428.32
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: Liabilities to Nonbank Financial Ins... (NGN bn)
+|
+480.36
+2008
+|
+yearly
+|
+2001 - 2008
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Loans (NGN mn)
+|
+1,333,586.11
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Financial Derivatives (NGN mn)
+|
+0.00
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Insurance Technical Reser... (NGN mn)
+|
+0.00
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Securities Other Than Sha... (NGN mn)
+|
+147,071.03
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Shares and Other Equity (NGN mn)
+|
+4,347,930.85
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: MFSM 2000: Other Items: Net (NGN mn)
+|
+8,959,807.33
+2017
+|
+yearly
+|
+2001 - 2017
+|
+|
+Nigeria NG: Money Supply: Broad Money (NGN mn)
+|
+20,908,816.11
+2016
+|
+yearly
+|
+2001 - 2016
+|
+|
+Nigeria NG: Money Supply: Currency Issued by Central Government (NGN mn)
+|
+0.00
+2016
+|
+yearly
+|
+2001 - 2016
+|
+|
+Nigeria NG: Money Supply: Deposits in Nonfinancial Corporation (NGN mn)
+|
+0.00
+2016
+|
+yearly
+|
+2001 - 2016
+|
+|
+Nigeria NG: Money Supply: Securities Issued by Central Government (NGN mn)
+|
+853.17
+2016
+|
+yearly
+|
+2001 - 2016
+|
+|
+Nigeria NG: Money Supply: M1 (NGN mn)
+|
+9,157,003.20
+2016
+|
+yearly
+|
+2000 - 2016
+|
+|
+Nigeria NG: Money Supply: Quasi Money (NGN mn)
+|
+11,750,959.73
+2016
+|
+yearly
+|
+2001 - 2016
+|
+|
+Nigeria NG: Money Supply: M2 (NGN mn)
+|
+20,907,962.94
+2016
+|
+yearly
+|
+2000 - 2016
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Federal Government: Monetary Authoritie... (NGN mn)
+|
+293,601.04
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Federal Government: Banks (NGN mn)
+|
+3,216,243.25
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Others: ow Central Bank (NGN mn)
+|
+6,408,823.75
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Others: ow Banks (NGN mn)
+|
+15,797,920.16
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Others: Other Private Sector (NGN mn)
+|
+20,501,446.35
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Others: Other Private Sector: Monetary ... (NGN mn)
+|
+5,650,007.93
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Others: Other Private Sector: Banks (NGN mn)
+|
+14,851,438.42
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Others: State and Local Government (NGN mn)
+|
+1,552,996.75
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Others: State and Local Government: Mon... (NGN mn)
+|
+606,515.00
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: NC: Others: State and Local Government: Ban... (NGN mn)
+|
+946,481.76
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: Net Foreign Assets: Monetary Authorities (NGN mn)
+|
+17,931,720.49
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: Net Foreign Assets: Banks (NGN mn)
+|
+365,417.23
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Monetary Survey: Assets: NA: Net Other Assets (NGN mn)
+|
+-18,844,711.73
+May 2018
+|
+monthly
+|
+Nov 1992 - May 2018
+|
+|
+Nigeria Commercial Banks: Liquidity Ratio: Actual (%)
+|
+45.95
+2016
+|
+yearly
+|
+1962 - 2016
+|
+|
+Nigeria Commercial Banks: Liquidity Ratio: Prescribed (%)
+|
+30.00
+2017
+|
+yearly
+|
+2007 - 2017
+|
+|
+Nigeria Commercial Banks: Cash Reserve Ratio: Prescribed (%)
+|
+22.50
+2017
+|
+yearly
+|
+2005 - 2017
+|
+|
+Nigeria Commercial Banks: Loan to Deposit Ratio: Actual (%)
+|
+79.95
+2016
+|
+yearly
+|
+1960 - 2016
+|
+|
+Nigeria Commercial Banks: Loan to Deposit Ratio: Prescribed (%)
+|
+80.00
+2017
+|
+yearly
+|
+2007 - 2017
+|
+|
+Nigeria Government Debt: Domestic: Federal Government Bonds (NGN bn)
+|
+8,969.49
+Mar 2018
+|
+quarterly
+|
+Dec 2005 - Mar 2018
+|
+|
+Nigeria Government Debt: Domestic: Treasury Bonds (NGN bn)
+|
+175.99
+Mar 2018
+|
+quarterly
+|
+Dec 2005 - Mar 2018
+|
+|
+Nigeria Government Debt: Domestic: Development Stocks (NGN bn)
+|
+0.00
+Mar 2018
+|
+quarterly
+|
+Dec 2005 - Mar 2018
+|
+|
+Nigeria Government Debt: Domestic: Promissory Notes (NGN bn)
+|
+0.00
+Mar 2018
+|
+quarterly
+|
+Dec 2005 - Mar 2018
+|
+|
+Nigeria External Debt: Government: Multilateral: IBRD (USD mn)
+|
+124.18
+Mar 2018
+|
+quarterly
+|
+Dec 2006 - Mar 2018
+|
+|
+Nigeria External Debt: Government: Multilateral: IFAD (USD mn)
+|
+160.38
+Mar 2018
+|
+quarterly
+|
+Dec 2006 - Mar 2018
+|
+|
+Nigeria External Debt: Government: Multilateral: ADB (USD mn)
+|
+1,319.93
+Mar 2018
+|
+quarterly
+|
+Dec 2006 - Mar 2018
+|
+|
+Nigeria External Debt: Government: Multilateral: EIB (USD mn)
+|
+0.00
+Mar 2018
+|
+quarterly
+|
+Dec 2006 - Mar 2018
+|
+|
+Nigeria External Debt: Government: Multilateral: EDF (USD mn)
+|
+70.28
+Mar 2018
+|
+quarterly
+|
+Dec 2006 - Mar 2018
+|
+|
+Nigeria External Debt: Government: Multilateral: IDB (USD mn)
+|
+17.50
+Mar 2018
+|
+quarterly
+|
+Dec 2006 - Mar 2018
+|
+|
+Nigeria External Debt: Government: Non Paris (USD mn)
+|
+2,342.46
+Mar 2018
+|
+quarterly
+|
+Dec 2006 - Mar 2018
+|
+|
+Nigeria External Debt: Government: Non Paris: Commercial (USD mn)
+|
+0.00
+Mar 2018
+|
+quarterly
+|
+Dec 2006 - Mar 2018
+|
+|
+Nigeria External Debt: Government: Promissory Notes (USD mn)
+|
+0.00
+Mar 2018
+|
+quarterly
+|
+Dec 2006 - Mar 2018
+|
+|
+Nigeria NG: Exports: fob: Emerging and Developing Economies: Export Earnings: Fu... (USD mn)
+|
+60.89
+2017
+|
+yearly
+|
+1962 - 2017
+|
+|
+Nigeria NG: Exports: fob: Emerging and Developing Economies: Export Earnings: No... (USD mn)
+|
+49,155.19
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Exports: fob: Advanced Economies (USD mn)
+|
+21,177.13
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Exports: fob: Emerging and Developing Economies (USD mn)
+|
+27,498.81
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Exports: fob: Emerging and Developing Economies: Western Hemisphere (USD mn)
+|
+1,551.83
+2017
+|
+yearly
+|
+1957 - 2017
+|
+|
+Nigeria NG: Exports: fob: Emerging and Developing Economies: Middle East (USD mn)
+|
+261.47
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Exports: fob: Emerging and Developing Economies: Emerging and Develo... (USD mn)
+|
+20,133.01
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Exports: fob: Emerging and Developing Economies: Africa (USD mn)
+|
+5,542.23
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Exports: fob: Emerging and Developing Economies: Europe: CIS (USD mn)
+|
+6.85
+2017
+|
+yearly
+|
+1962 - 2017
+|
+|
+Nigeria NG: Imports: cif: Emerging and Developing Economies: Export Earnings: Fu... (USD mn)
+|
+1,373.00
+2017
+|
+yearly
+|
+1950 - 2017
+|
+|
+Nigeria NG: Imports: cif: Emerging and Developing Economies: Export Earnings: No... (USD mn)
+|
+34,702.96
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Imports: cif: Advanced Economies (USD mn)
+|
+16,848.43
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Imports: cif: Emerging and Developing Economies (USD mn)
+|
+13,629.88
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Imports: cif: Emerging and Developing Economies: Western Hemisphere (USD mn)
+|
+696.68
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Imports: cif: Emerging and Developing Economies: Middle East (USD mn)
+|
+739.64
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Imports: cif: Emerging and Developing Economies: Emerging and Develo... (USD mn)
+|
+9,644.17
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Imports: cif: Emerging and Developing Economies: Africa (USD mn)
+|
+1,450.00
+2017
+|
+yearly
+|
+1948 - 2017
+|
+|
+Nigeria NG: Imports: cif: Emerging and Developing Economies: Europe: CIS (USD mn)
+|
+755.63
+2017
+|
+yearly
+|
+1954 - 2017
+|
+|
+Nigeria NG: Depository Corporations Survey: Broad Money: % Change over Previous ... (%)
+|
+11.56
+2016
+|
+yearly
+|
+1952 - 2016
+|
+|
+Nigeria BoP: CA: Goods: Exports: Crude Oil & Gas (USD mn)
+|
+13,426.531
+Mar 2018
+|
+quarterly
+|
+Mar 2008 - Mar 2018
+|
+|
+Nigeria BoP: CA: Goods: Exports: Non Oil & Electricity (USD mn)
+|
+967.077
+Mar 2018
+|
+quarterly
+|
+Mar 2008 - Mar 2018
+|
+|
+Nigeria BoP: CA: Goods: Imports: Crude Oil & Gas (USD mn)
+|
+-2,576.682
+Mar 2018
+|
+quarterly
+|
+Mar 2008 - Mar 2018
+|
+|
+Nigeria BoP: CA: Goods: Imports: Non Oil (USD mn)
+|
+-6,064.915
+Mar 2018
+|
+quarterly
+|
+Mar 2008 - Mar 2018
+|
+|
+Nigeria NG: Fertilizer Consumption: % of Fertilizer Production (%)
+|
+366.03
+2014
+|
+yearly
+|
+2009 - 2014
+|
+|
+Nigeria NG: Fertilizer Consumption: per Hectare of Arable Land (kg/ha)
+|
+8.29
+2015
+|
+yearly
+|
+2002 - 2015
+|
+|
+Nigeria NG: Agricultural Land (sq km)
+|
+708,000.00
+2015
+|
+yearly
+|
+1961 - 2015
+|
+|
+Nigeria NG: Agricultural Land: % of Land Area (%)
+|
+77.74
+2015
+|
+yearly
+|
+1961 - 2015
+|
+|
+Nigeria NG: Arable Land (ha)
+|
+34,000,000.00
+2015
+|
+yearly
+|
+1961 - 2015
+|
+|
+Nigeria NG: Arable Land: Hectares per Person (ha)
+|
+0.19
+2015
+|
+yearly
+|
+1961 - 2015
+|
+|
+Nigeria NG: Arable Land: % of Land Area (%)
+|
+37.33
+2015
+|
+yearly
+|
+1961 - 2015
+|
+|
+Nigeria NG: Land under Cereal Production (ha)
+|
+17,342,468.00
+2016
+|
+yearly
+|
+1961 - 2016
+|
+|
+Nigeria NG: Permanent Cropland: % of Land Area (%)
+|
+7.14
+2015
+|
+yearly
+|
+1961 - 2015
+|
+|
+Nigeria NG: Forest Area (sq km)
+|
+69,930.00
+2015
+|
+yearly
+|
+1990 - 2015
+|
+|
+Nigeria NG: Forest Area: % of Land Area (%)
+|
+7.68
+2015
+|
+yearly
+|
+1990 - 2015
+|

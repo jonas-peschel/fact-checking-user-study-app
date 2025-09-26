@@ -1,0 +1,43 @@
+https://www.legallyindia.com/lawschools/as-nlus-finally-managed-to-crack-clat-so-far-hold-out-nlu-delhi-s-ailet-encounters-controversy-20190528-10434
+The All India Entrance Test (AILET), conducted by NLU Delhi outside of the Common Law Admission Test (CLAT) group of national law schools since its inception, has released its results today, but not without controversy.
+The CLAT was conducted by the national law schools consortium this year for the first time (rather than a single law school), and seems to have given little cause for complaints to candidates according to our open thread.
+AILET had a more bumpy ride this year. CLAT is much bigger of course - around 60,000 applicants this year, according to TOI.
+By contrast, NLU Delhi’s AILET has escaped much serious scrutiny so far - although it does have 20,000-odd applicants every year, nearly triple the number of 7,814 in 2011. The Rajasthan high court had rejected a plea in 2014 to force NLU Delhi to be part of CLAT, despite a Supreme Court judgment in a PIL in 2006 mandating all NLUs to follow the same admissions test, to save applicants costs and effort.
+This has made the AILET one of the most competitive (and profitable) admissions tests in India, with only 73 seats out of 20,000 meaning that 0.375% of candidates making the cut for an NLU Delhi seat (if considering roughly 500 or more seats across the top-ranked national law schools, it’s more than twice as hard to see some success after the AILET than after the CLAT).
+First off, therefore, congratulations are due to the AILET topper this year, Saumya Singh, who scored 93.25 marks out of 150 questions. The cut-off for the general list was 72.75 marks.
+Out of the 50 top general list candidates (provisionally for the 50 general list seats at NLU Delhi), 21 were women.
+The controversial
+However, Ailet has faced some harsh criticism, in an article by Allahabad high court advocate Rajiv Gupta, published on Lawctopus last week.
+The article pointed out several issues with this year’s AILET, notably:
+1. AILET is possibly the only offline national level MCQ based entrance with a single ‘set’ of the question paper. Most entrance exams of such huge proportions have 3-4 ‘sets’ of question papers to avoid cheating, etc.
+3. In AILET 2019, around 45 out of 55 questions of GK & Legal GK questions were based on two months only. The syllabus includes GK of the year and static GK.
+4. Also, in AILET 2019, 28 questions of English and Critical reasoning copied sequentially from two open sources. 23 questions were from one source.
+We had put these questions to NLU Delhi registrar Prof GS Bajpai over the weekend, and he responded with the following.
+1. “AILET never had a single set of paper for exam. It always has more than one set of question papers. However, at a time only one set is used,” he said.
+We have reached out to him again today on whether this year’s AILET had only one question paper, because it certainly appears that way: the question paper contains no special markings to signify a series of diverse answer keys, and there was only a single answer key published on the AILET website.
+Multiple question papers are par for the course for most admissions test, since they make copying within exam halls and cheating more difficult.
+3. In respect of assertion 3, that 45 out of 55 general knowledge and legal GK questions came from a two month-period, Bajpai said this was “incorrect”. We have reached out to him for further clarification.
+4. In respect of the fourth claim, that 28 English and critical reasoning questions were “copied sequentially” from two sources, he said: “We will have to check this. However, the questions are collected from various sources and there is nothing wrong in it. In view of the above, the contents of the article published by lawctopus are not based on facts and are deserved to be rejected.”
+However, from the materials uploaded on Lawctopus, it certainly appears that a good chunk of AILET questions have been taken from the official GMAT guide, leading to a greater risk of an unfair exam (or even more sinister allegations).
+One question withdrawn so far
+Wrong questions and answer keys are not unusual for the CLAT or the AILET, with post-exam corrections being common also for the latter.
+According to the answer key, one question (question 132), has been withdrawn so far (probably due to a missing word “fast” or “slow” after “3 minutes”):
+So far so good. But there are possibly more dodgy questions.
+For question 95, the AILET answer key has accepted two possible answers as correct for the current NALSA executive chairperson: (a - Justice AK Sikri, and b Justice Madan B Lokur). Justice AK Sikri was appointed to NALSA in December 2018 after Justice Madan B Lokur’s retirement.
+However, Justice SA Bobde was nominated as Nalsa head on 5 March 2019, after Lokur’s retirement.
+Bobde was not an option in that question (despite the exam date being 5 May 2019). Cancel
+Question 80 in the answer key was also amended to allow two correct answers - a) and d).
+Although d) somewhat precludes a) as an answer (since option I. presupposes that II. is not correct), this is perhaps a rather confusing question, blending several legal principles together.
+If there are any other questions that look doubtful, we will update them here.
+2018 Ailet: Many candidates from two test centres or not?
+Finally, potentially a much more serious charge about the historical conduct of the exam was also raised in the article:
+2. This is a shocker. In AILET 2018, 23 students of the 52 selected students were from 2 test centres only. The exam was taken in 50+ centers by nearly 18000 students!
+We have cross-checked this claim with the public data of successful AILET 2018 candidates, and the claim appears to stack up prima facie, providing that the 5-digit candidate roll numbers are prefaced with the 2 digit-code of their exam centre.
+We have compiled a histogram of this year’s top 50 AILET takers and last year’s and the results are quite stark (although this year too, only 20 out of 50-odd exam centres produced candidates who made the general list cut, this could very easily be accounted for by the small sample size, or differences in performance between urban and rural centres).
+Nevertheless, the 2019 histogram graph is much more balanced than last year’s, which appeared to have massive spikes in (potential) exam centre 37 (9 successful candidates) and (potential) exam centre 47 (14 successful candidates), which would mean 23 candidates out of the top 50 possibly sat their exam in those two centres.
+However, we couldn’t authoritatively confirm that this is actually the case: it is theoretically possible that candidates in different test centres were allocated the same first-two-digits in their roll numbers.
+While for several candidates’ roll numbers we have seen, there is a correlation between the first two digits and the test centre, it is not easy to prove that this was the case for every single roll number.
+We had reached out to Bajpai about this point also several days ago, but due to a possible miscommunication, Bajpai addressed such distribution about the 2019 AILET (and not the 2018 exam), stating:
+The AILET Results are not yet out and therefore the answer to Q. No. [2] is not possible at this stage.
+We have reached out to Bajpai again for clarification on this, although he was not immediately reachable due to travel.
+While it’s not possible to authoritatively conclude from this data that the AILET 2018 was rotten, some more clarification of this would definitely be welcome.

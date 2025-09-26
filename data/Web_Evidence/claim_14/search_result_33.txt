@@ -1,0 +1,55 @@
+https://apps.legislature.ky.gov/record/25rs/sb181.html
+| Last Action | 04/01/25: signed by Governor (Acts Ch. 149) |
+|---|---|
+| Title | AN ACT relating to children. |
+| Bill Documents |
+Acts Chapter 149
+Current/Final Introduced |
+| Fiscal Impact Statement | Fiscal Note |
+| Bill Request Number | 1477 |
+| Sponsor | L. Tichenor |
+| Summary of Enacted Version | Creates a new section of KRS Chapter 160 to define terms; directs each local board of education to designate one or more programs or applications as a traceable communication system that shall be the exclusive means for school district employees and volunteers to communicate electronically with students; requires each principal to provide parents written or electronic notification within the first 10 days of the school year of each electronic school notification and communication program designated within the traceable communication system; provides that a parent may submit written consent for a designated school district employee or volunteer to communicate electronically with a student outside of the traceable communication system; excludes communications between a school district employee or volunteer and a family member that is a student; establishes a mandatory duty to report violations for school employees and volunteers; requires principals, superintendents, and the commissioner of education to notify parents of allegations of unauthorized electronic communication involving their children; requires principals, superintendents, and the commissioner of education to report alleged violations to the Educational Professional Standards Board (EPSB); requires principals, superintendents, the commissioner of education, and EPSB to investigate designated allegations of unauthorized electronic communication; establishes the methods of disciplinary action for a violation; amends KRS 161.120 to provide that the identity of complainants alleging unauthorized electronic communication, sexual contact, or other sexual misconduct and minors involved in the complaint shall remain confidential; provides that EPSB will have 120 days to conduct the initial review of complaints alleging unauthorized electronic communication, sexual contact, or other sexual misconduct; amends KRS 158.1415 to exclude age-appropriate child sexual abuse instruction from the prohibition of human sexuality instruction for students in the fifth grade or lower; amends KRS 620.040 to establish a timeline to require the Cabinet for Health and Family Services to physically locate a child who has been reported to be at risk of harm or an immediate safety concern; amends KRS 605.120 to require that the report by the Cabinet for Health and Family Services that tracks and analyzes data on relative and fictive kin caregiver placement be conducted annually and posted to the cabinet website for public access; and amends various statutes to conform. |
+| Summary of Original Version | Create a new section of KRS Chapter 160 to define terms; direct each local board of education to designate one or more programs or applications as a traceable communication system that shall be the exclusive means for school district employees and volunteers to communicate electronically with students; provide that a parent may submit written consent for a designated school district employee or volunteer to communicate electronically with a student outside of the traceable communication system; exclude communications between a parent that is a school district employee or volunteer and his or her own children; establish a mandatory duty to report violations for school employees and volunteers; require principals, superintendents, and the commissioner of education to notify parents of allegations of unauthorized electronic communication involving their children; require principals, superintendents, and the commissioner of education to report alleged violations to the Educational Professional Standards Board (EPSB); require principals, superintendents, the commissioner of education, and EPSB to investigate designated allegations of unauthorized electronic communication; establish the methods of disciplinary action for a violation; amend KRS 161.120 to provide that the identity of complainants alleging unauthorized electronic communication, sexual contact, or other sexual misconduct that are dismissed and minors invovled in the complaint to remain confidential; provide that EPSB will have 120 days to conduct the initial review of complaints alleging unauthorized electronic communication, sexual contact, or other sexual misconduct. |
+| Index Headings of Original Version |
+Fiscal Note - Electronic communication with students, restrictions Education, Elementary and Secondary - Electronic communication with students, restrictions State Agencies - Education Professional Standards Board, disciplinary actions, sexual misconduct procedures State Employees - School district personnel, electronic communication with students, restrictions Teachers - Complaint review, sexual misconduct and unauthorized electronic communication, 120 day period Teachers - School district personnel, electronic communication with students, restrictions Children and Minors - Electronic communication by school district personnel with students, restrictions Boards and Commissions - Local boards of education, electronic communication policy, traceable communication system |
+| Jump to Proposed Amendments |
+Senate Floor Amendment 1 House Committee Substitute 1 House Committee Amendment 1 |
+| Votes | Vote History |
+| 02/14/25 |
+|
+|---|---|
+| 02/19/25 |
+|
+| 03/04/25 |
+|
+| 03/05/25 |
+|
+| 03/06/25 |
+|
+| 03/13/25 |
+|
+| 03/14/25 |
+|
+| 03/27/25 |
+|
+| 03/28/25 |
+|
+| 04/01/25 |
+|
+| Amendment | Senate Floor Amendment 1 |
+|---|---|
+| Sponsor | L. Tichenor |
+| Summary | Retain original provisions and require each principal to provide parents written or electronic notification within the first 10 days of the school year of each electronic school notification and communication program designated within the traceable communication system. |
+| Index Headings |
+Children and Minors - Tracible communication system, notice and instructions to parents within 10 days of school year Education, Elementary and Secondary - Tracible communication system, notice and instructions to parents within 10 days of school year Parental Rights - School communication, traceable communication system, notice and instructions to parents Boards and Commissions - Local boards of education, traceable communication systems, notification to parents |
+| Amendment | House Committee Substitute 1 |
+|---|---|
+| Summary | Retain original provisions, except define "family member"; require an investigation if a report alleges a school or district volunteer participated in unauthorized electronic communication; exclude family members from the requirement for consent by a parent for electronic communication; amend KRS 158.1415 to exclude age-appropriate child sexual abuse instruction from the prohibition of human sexuality instruction for students in the fifth grade or lower; amend KRS 620.040 to establish a timeline to require the Cabinet for Health and Family Services to physically locate a child who has been reported to be at risk of harm or an immediate safety concern; amend KRS 605.120 to require that the report by the Cabinet for Health and Family Services that tracks and analyzes data on relative and fictive kin caregiver placement be done annually and posted to the cabinet website for public access. |
+| Index Headings |
+Courts - Relative and fictive kin care program, program reporting requirements Education, Elementary and Secondary - Age-appropriate child sexual abuse instruction, fifth grade and below, authorization Education, Elementary and Secondary - School and district employees and volunteers, electronic communication with students, restrictions Education, Elementary and Secondary - School and district volunteers, electronic communication with students, restrictions Guardians - Relative and fictive kin care program, program reporting requirements Parental Rights - Relative and fictive kin care program, program reporting requirements Courts, Family - Relative and fictive kin care program, program reporting requirements Children and Minors - Age-appropriate child sexual abuse instruction, fifth grade and below, authorization Children and Minors - Relative and fictive kin care program, program reporting requirements Children and Minors - School and district volunteers, electronic communication, restrictions |
+| Amendment | House Committee Amendment 1 |
+|---|---|
+| Sponsor | S. Heavrin |
+| Summary | Make title amendment. |
+| Index Headings | Title Amendments - SB 181/GA |
+Last updated: 7/24/2025 3:26 PM (EDT)

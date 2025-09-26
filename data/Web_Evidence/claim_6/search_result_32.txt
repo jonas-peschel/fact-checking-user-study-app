@@ -1,0 +1,77 @@
+https://www.opm.gov/policy-data-oversight/data-analysis-documentation/federal-employment-reports/reports-publications/federal-civilian-employment/
+Federal Civilian Employment
+Federal Civilian Employment
+by Major Geographic Area, State, and Selected Agency Executive Branch and Selected Other Agencies* , Non-Postal, Non-Seasonal, Full-time, Permanent Employees and All Annuitants
+September 2017
+| Geographic Area | All Agencies* | Percent of Total | Department of Defense | Annuitants | Annuitants + Employees |
+|---|---|---|---|---|---|
+| Total, All Areas** | 1,869,986 | 100.00% | 676,840 | 2,579,861 | 4,449,847 |
+| Unspecified | 1,124 | 0.06% | 270 | 10 | 1,134 |
+| Outside of the United States and US Territories | 21,393 | 1.14% | 17,338 | 22,551 | 43,944 |
+| United States*** | 1,847,469 | 98.80% | 659,232 | 2,557,300 | 4,404,769 |
+| District of Columbia | 141,367 | 7.56% | 11,693 | 36,575 | 177,942 |
+| Fifty States | 1,693,382 | 90.56% | 644,218 | 2,511,207 | 4,204,589 |
+| US Territories | 12,720 | 0.68% | 3,321 | 9,518 | 22,238 |
+| Washington, DC-MD-VA-WV, CBSA | 282,666 | 15.12% | 61,002 | 306,760 | 589,426 |
+| District of Columbia | 141,367 | 7.56% | 11,693 | 36,575 | 177,942 |
+| Maryland counties | 67,583 | 3.61% | 13,903 | 136,077 | 203,660 |
+| Virginia counties and independent cities | 72,549 | 3.88% | 35,403 | 118,508 | 191,057 |
+| West Virginia counties | 1,167 | 0.06% | 3 | 15,600 | 16,767 |
+| Alabama | 37,386 | 2.00% | 22,056 | 57,897 | 95,283 |
+| Alaska | 10,398 | 0.56% | 4,483 | 8,192 | 18,590 |
+| Arizona | 38,087 | 2.04% | 8,212 | 57,006 | 95,093 |
+| Arkansas | 12,557 | 0.67% | 3,124 | 24,432 | 36,989 |
+| California | 152,466 | 8.15% | 57,795 | 209,915 | 362,381 |
+| Colorado | 36,848 | 1.97% | 10,596 | 50,869 | 87,717 |
+| Connecticut | 7,998 | 0.43% | 2,298 | 14,667 | 22,665 |
+| Delaware | 3,039 | 0.16% | 1,250 | 10,823 | 13,862 |
+| Florida | 89,504 | 4.79% | 29,793 | 178,212 | 267,716 |
+| Georgia | 71,739 | 3.84% | 31,203 | 87,281 | 159,020 |
+| Hawaii | 23,453 | 1.25% | 18,135 | 21,975 | 45,428 |
+| Idaho | 7,731 | 0.41% | 1,253 | 15,704 | 23,435 |
+| Illinois | 44,760 | 2.39% | 11,961 | 68,828 | 113,588 |
+| Indiana | 22,610 | 1.21% | 10,397 | 37,010 | 59,620 |
+| Iowa | 8,042 | 0.43% | 1,313 | 21,002 | 29,044 |
+| Kansas | 15,672 | 0.84% | 6,237 | 24,486 | 40,158 |
+| Kentucky | 22,181 | 1.19% | 8,870 | 33,381 | 55,562 |
+| Louisiana | 19,537 | 1.04% | 5,579 | 27,615 | 47,152 |
+| Maine | 11,285 | 0.60% | 7,726 | 13,957 | 25,242 |
+| Maryland | 120,705 | 6.45% | 42,469 | 162,053 | 282,758 |
+| Massachusettes | 25,063 | 1.34% | 5,896 | 41,292 | 66,355 |
+| Michigan | 27,405 | 1.47% | 8,565 | 45,727 | 73,132 |
+| Minnesota | 16,795 | 0.90% | 2,021 | 30,007 | 46,802 |
+| Mississippi | 17,295 | 0.92% | 8,122 | 25,533 | 42,828 |
+| Missouri | 33,377 | 1.78% | 6,741 | 53,717 | 87,094 |
+| Montana | 8,589 | 0.46% | 1,184 | 13,670 | 22,259 |
+| Nebraska | 10,468 | 0.56% | 3,835 | 13,399 | 23,867 |
+| Nevada | 12,186 | 0.65% | 2,250 | 24,828 | 37,014 |
+| New Hampshire | 4,331 | 0.23% | 854 | 12,820 | 17,151 |
+| New Jersey | 24,758 | 1.32% | 9,718 | 51,992 | 76,750 |
+| New Mexico | 21,954 | 1.17% | 6,094 | 27,835 | 49,789 |
+| New York | 60,727 | 3.25% | 9,714 | 90,647 | 151,374 |
+| North Carolina | 42,772 | 2.29% | 19,312 | 78,061 | 120,833 |
+| North Dakota | 5,460 | 0.29% | 1,505 | 6,538 | 11,998 |
+| Ohio | 49,450 | 2.64% | 24,423 | 74,556 | 124,006 |
+| Oklahoma | 37,486 | 2.00% | 22,886 | 46,560 | 84,046 |
+| Oregon | 17,252 | 0.92% | 2,596 | 34,293 | 51,545 |
+| Pennsylvania | 62,366 | 3.34% | 22,734 | 107,546 | 169,912 |
+| Rhode Island | 6,864 | 0.37% | 4,311 | 7,590 | 14,454 |
+| South Carolina | 21,050 | 1.13% | 9,335 | 45,875 | 66,925 |
+| South Dakota | 7,547 | 0.40% | 1,193 | 10,570 | 18,117 |
+| Tennesse | 25,099 | 1.34% | 5,228 | 47,883 | 72,982 |
+| Texas | 132,952 | 7.11% | 44,404 | 172,744 | 305,696 |
+| Utah | 26,109 | 1.40% | 14,611 | 34,155 | 60,264 |
+| Vermont | 4,845 | 0.26% | 506 | 4,588 | 9,433 |
+| Virginia | 144,295 | 7.72% | 88,915 | 162,892 | 307,187 |
+| Washington | 53,211 | 2.85% | 27,918 | 68,707 | 121,918 |
+| West Virginia | 18,656 | 1.00% | 1,488 | 18,373 | 37,029 |
+| Wisconsin | 14,045 | 0.75% | 2,155 | 27,516 | 41,561 |
+| Wyoming | 4,977 | 0.27% | 954 | 5,988 | 10,965 |
+* Includes all Non-Postal Executive Branch Agencies as well as the Government Printing Office (LP), the U.S. Tax Court (LT), the Medicare Payment Advisory Commission (ZL), the U.S. Commision on International Religious Freedom (ZP), the U.S. China Economic & Security Review Comision (ZS), the Dwight D. Eisenhower Memorial Commission (ZU), and the Federal Bureau of Investigation (DJ02).
+** Includes unspecified geographic location
+*** Includes U. S. territories
+NA = Not Applicable
+SOURCE: U.S. OFFICE OF PERSONNEL MANAGEMENT
+Policy and Planning Analysis, Data Analysis Group
+Enterprise Human Resource Integration (EHRI)-Statistical Data Mart (SDM)
+Questions/Comments to: fedstats@opm.gov

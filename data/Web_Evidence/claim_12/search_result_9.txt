@@ -1,0 +1,165 @@
+https://global-macro-monitor.com/2018/05/15/deconstructing-the-u-s-jobs-market/
+Summary
+- We compare the first 15 payroll reports of the Trump administration to the last 15 of the Obama administration
+- As of the end of April 2018, the Trump economy has generated 2.7 million jobs versus 3.1 million in Obama’s economy, or 373k fewer workers added to payrolls
+- The private sector has also added 124k fewer jobs in the Trump economy
+- Net job creation in the government sector under President Trump is relatively flat with the federal and state government losing a combined 74k jobs and local governments adding 79k to the employment payrolls
+- There is relatively little difference in the growth of average hourly earnings in the Trump and Obama employment reports
+- Job creation in President Trump’s economy outperforms the Obama economy in 5 of the 13 private sector industry groups, most significantly in manufacturing and mining
+- Most of the Trump job creation outperformance took place in industries experiencing labor market slack, which is consistent with tepid wage growth and a 3.9 percent unemployment rate
+- Almost all of the relative outperformance in mining is the result of the reversal in oil prices
+- Coal mining and auto manufacturing employment has not recovered
+- The results are surprising as GDP growth was significantly higher during the Trump payroll reports, averaging of 2.53 percent on an annual basis, versus 1.56 percent during the last five quarters of the previous administration
+- The birth of each administration took place in polar opposite economic conditions
+- The payrolls data may distort the true U.S. employment situation as it excludes proprietors, the unincorporated self-employed, farm workers, the military, C.I.A, N.S.A, and other intelligence agencies
+- The economy continues to reward capital over labor disproportionately
+- An economy is a trending machine; and presidents do not create jobs, though their policies do matter on the margin
+- Much of the information about the dynamics of the U.S. jobs market is lost in aggregation and averaging
+Present At [Job] Creation
+President Trump likes to compare the results of his administration with prior ones, especially President Obama’s, particularly when it concerns the economy, job creation, and wage increases. Given that the political season is heating up and midterm elections are fast approaching, we thought it is time to go to the data.
+We compare the first 15 employment reports – February 2017 to April 2018 – of the Trump administration with a similar sample from the Obama administration. Though partisans on both sides will interpret the results selectively with a self serving bias, we try and keep this analysis an exercise in positive economics. That is objective, and fact and data-based.
+Measurement Problem
+Two fundamental measurement issues had to be resolved before we began crunching the data: 1) which 15 of the 95 employment reports released during the Obama administration should be used to compare to President Trump’s first full 15 employment reports, and 2) should January 2017 be included in Trump or Obama sample.
+The Tale of Two Labor Markets
+The economic conditions at the birth of each administration could not have been different.
+President Obama inherited a collapsing economy, fast approaching, or already in, a depression and global financial collapse. Conversely, the Trump administration was born into a relatively decent trending economy, slugging along at about 85 percent capacity.
+The table and charts illustrate the above points.
+Obama’s Inheritance
+The labor market was losing over 700 thousand jobs per month when President Obama took office and had shed over 3.5 million jobs during 2008, the calendar year before his inauguration.
+Trump’s Inheritance
+President Trump was inaugurated during a period of relative job strength with the nonfarm payrolls increasing on average over 200 thousand jobs per month with over 2.3 million added to the payrolls in 2016.
+Current Labor Market
+The current 3-month moving average of the monthly change in total payrolls is 208 jobs created. The recent slowing of job creation may reflect the economy is starting to bump up against labor market constraints, as the economy has absorbed most of the excess capacity in the national labor market.
+“I Inherited A Mess”
+President Trump often states, “I inherited a mess.”
+As we illustrate, compared to the economic mess President Obama inherited, his ventilation rings hollow, and the data confirm it.
+Unemployment Rate
+The following unemployment rate chart also confirms the vastly different labor market conditions at the beginning of the two presidencies.
+President Obama, taking office with unemployment at 7.8 percent, spent his first year in office desperately trying to reverse the ugly trend. Thankfully, the economic death spiral was arrested (some say only delayed) and a trend reversal took place about 10 months into the administration’s first term. The unemployment rate peaked in October 2009 at 10 percent.
+The jobs market did not fully regain its footing until October 2010, and has since created 88 straight months of positive payroll growth, averaging 196 thousand per month, producing a total of 17.3 million jobs over the period (see chart above).
+The Trump administration inherited a lower trending unemployment rate at 4.8 percent in January 2017 and heading south, and has surfed it to the current level of 3.9 percent.
+Last 15 Employment Reports Of The Obama Administration
+Any rational economist would never consider using the first 15 months of payroll reports of the Obama administration given the comparative economic conditions in the data we have laid out above. It is obvious, the last 15 Obama payroll reports is the correct data sample.
+Should January Be Included In The Trump Sample?
+President Trump took office on January 20, 2017, and with 65 percent of the month over, the most rational choice would be to exclude the January employment report from his sample. Some argue, however. animal spirits now have an outsize impact on the economy, and the data should include January, as expectations during the month were formed based on the future policies of the incoming administration.
+We analyzed both samples and present both. 1) The 15-month sample, excluding January: Trump payrolls sample = February 2017 – April 2018; Obama payrolls sample = November 2015 – January 2016, and 2) The 16-month sample, including January: Trump payrolls sample, including January = January 2017 – April 2018; Obama payrolls sample = October 2015 – December 2016.
+Since there are only relatively minor differences in the results, the rest of the narrative will mainly reflect and refer to the 15 month sample, though we do present the data on both.
+Job Market Profile
+Before presenting the results, let us first take a brief look at the profile of the U.S. jobs market and how it has changed over the past 20 years.
+As of the April 2018 employment report, there are 148.4 million people employed in the U.S. based on Current Employment Survey (CES), of which, 85 percent are in the private sector.
+The most significant industry groups are education and health, government, professional and business services, leisure and hospitality, and manufacturing. These groups account for over 75 percent of the jobs included in the CES sample.
+The payrolls data may distort the true U.S. employment situation as it excludes proprietors, the unincorporated self-employed, farm workers, the military, C.I.A, N.S.A, and other intelligence agencies
+Decline In Manufacturing Replaced By Education And Health Services
+The data show that manufacturing, which was the most significant industry of employment in the private sector in 1998, 14 percent of total nonfarm payrolls, has fallen by 5.53 percent as a proportion of total payroll jobs to now less than 10 percent. The U.S. experienced the political blowback of the relative decline in manufacturing employment during the 2016 presidential election.
+The proportional fall of manufacturing has been almost entirely offset by the rise of education and health services, up 4.31 percent as a percentage of total nonfarm payrolls, to the top private sector employer. Demographics truly are destiny.
+Professional and business services, and leisure and hospitality also had a notable move up in their respective rankings from 1998 to 2018.
+Sub-industry Groups
+We have also broken down the U.S. job market profile in more detail by the BLS sub-industry group. This is one level below the industry group listed in the table above.
+Not surprising, health care and social assistance remain the top sub-industry group employer. Second, is accommodation and food services at close to 10 percent of payrolls jobs. That is a lot of waiters and bartenders.
+The top five sub-industry groups at this level make up 40 percent of total employment and the top ten over 60 percent.
+Average Hourly Earnings (AHE) Profile
+Before moving on to the results, let’s look at the average hourly earnings (AHE) profile of the various industry groups.
+Utilities have the highest average hourly earnings of the private sector as of the latest employment report. The sector consists of three main groups: 1) electric power generation, transportation, and distribution; 2) natural gas distribution; and 3) water, sewage, and other systems.
+Not surprising, retail trade and leisure and hospitality have, on average, and by a significant margin, the lowest average hourly earnings.
+Should one then conclude that a lineman for, say, the local utility company earns more than a doctor, lawyer, or software engineer at Google? Absolutely not. There is always a significant loss of information when averaging and aggregating data.
+Contrary to what most academics believe, markets rarely “look underneath the hood.” and we will not go further in this post. We have already burdened the reader with too much data and to go deeper requires even more.
+If you would like more in-depth analysis, contact us: macromonitor33@gmail.com
+Government AHE
+Average hourly earnings (AHE) in the employment report includes only private sector compensation.
+Our estimate in the above table of the AHE for the government sector assumes that the public sector employee wages are around 30 percent higher than the average private sector wage. We base this on various studies and other measurements.
+Total employer compensation costs for private industry workers averaged $33.72 per hour worked in December 2017. Total employer compensation costs for state and local government workers averaged $49.19 per hour worked in December 2017. – BLS, Employer Costs for Employee Compensation, December 2017
+…the federal government paid 17 percent more in total compensation than it would have if average compensation had been comparable with that in the private sector, after accounting for certain observable characteristics of workers. – CBO
+Several of the studies cite the much higher proportion of college-educated workers in the public sector than the private sector as the main the reason for differential.
+Of course, the range and standard deviation of compensation in the public sector is much tighter than the private sector, as few, or any, public sector workers earn the annual salary of, say, the Dodger pitcher, Clayton Kershaw’s $30 million. At least, not that we know of, or legally.
+There is no doubt many career government employees can earn a much higher salary in the private sector. Their sacrifices are much appreciated. They, also, are lost in aggregation and averaging.
+Fastest Growing Group of Millionaires?
+One last point before moving on.
+The defined benefit pensions of public sector employees relative to most private sector employees defined contribution pensions (401Ks, IRAs, etc), leads us to conclude that in our low-interest rate, low-return environment, the fastest growing group of millionaires, on a present-value basis, are retiring public sector workers.
+We suspect it will be very challenging to earn $70,000 per annum on a consistent basis in a 401k/IRA over the next 20 years unless the account is initially highly capitalized at retirement, a level of around $2-3 million. Also, keep it mind retirement accounts do not generate a compounded return when they are being drawn down.
+The chart illustrates that the average worker approaching retirement is not even close to the zip code needed to earn a $50-100K annual return.
+The disparity between the return on public and private sector pension accounts raises equity issues (normative economics) and will only inflame the political and intergenerational conflict which will undoubtedly escalate in the coming years. Magnify this by the fact that most public sector pensions are significantly underfunded and will require bailouts and large sacrifices by the younger generation.
+We expect more political blowback, anti-government rage, and anger at the politicians when voters internalize this. Especially when they are asked to reduce public services, pay higher taxes, and, ultimately suffer higher inflation to fund the pension deficits.
+Only Civilian Employees
+Finally, also keep in context the payroll data only includes civilian government employees,
+… Government employment covers only civilian employees; military personnel are excluded. Employees of the Central Intelligence Agency, the National Security Agency, the National Imagery and Mapping Agency, and the Defense Intelligence Agency also are excluded. – BLS
+Job Creation And Average Hourly Earnings Under Trump and Obama
+The data comps are a bit surprising given the current administration’s rhetoric on job creation and wage increases, and in the GDP growth differentials, which was significantly higher in the Trump sample.
+Job Growth
+During the first 15 payroll reports under the Trump administration, the economy has created 2.78 million jobs relative to the 3.10 million payrolls added to payrolls in the last 15 of the Obama administration. Though almost 67 percent of the comparable job performance over the two periods is accounted for by government payrolls; the Trump administration still falls short in private sector job creation by 124k.
+Under Trump, total government jobs have increased by only a net 5k versus 254k during Obama’s last 15 payroll reports. Almost 70 percent of the government job differential is accounted for by state and local governments.
+Average Hourly Earnings
+Average hourly earnings (AHE) growth under both administrations was roughly equivalent with Trump slightly outperforming by 14 bps. This number is distorted for the economy as a whole because it excludes the AHE for the government sector, which is more than 15 percent of payroll employment.
+Our estimate of $35.23 for AHE for the government sector would raise the combined average for the Obama sample and lower it for Trump given the significant disparity in the relative growth in government payrolls.
+Nevertheless, lower job creation and a somewhat higher AHE in the private sector most likely reflect the economy, as a whole, is approaching capacity constraints in the labor market.
+Note the inflation and real wage differences in the 15 versus 16 payroll sample tables. It’s clear the inflation calculation is sensitive to the base month. The real change in average hourly earnings flip in favor of Obama in the16 report sample, indicative of the sensitivity to the base month used in the inflation calculation.
+Private Sector Job Creation
+Manufacturing
+Job creation in the Trump private sector outperformed the prior administration in 5 of the 13 individual industries, most notably manufacturing, and mining.
+Under the Trump administration, the manufacturing sector has added a net 286K manufacturing jobs versus a net increase of only 11K under President Obama.
+Almost 60 percent of Trump’s manufacturing payroll creation are in three industries: 1) fabricated metal products; 2) machinery and 3) food manufacturing.
+The poster child of manufacturing, motor vehicles & parts, added only 4K net jobs and motor vehicle assembly lost a net 2k. Note the decline in employment in the motor vehicle and parts bottomed during the financial crisis, most likely the result the auto bailouts.
+Average hourly earnings in the manufacturing sector significantly underperformed in the Trump sample even though a net 275k new jobs were created. This likely reflects excess labor capacity and the unemployed re-entering the labor market.
+Mining & Logging
+The Trump economy also thumped the Obama economy regarding relative job creation in the mining sector. Not so much with the absolute numbers but by arresting the 125k decline in mining jobs in last 15 payroll reports of the Obama administration. The Trump job machine (reluctant to use this name as presidents do not create jobs) added 84k new mining jobs, of which almost the entire amount was in support services, such oil derrick operators, and oil extraction workers.
+Though President Trump’s deregulation has helped the oil sector, the recent oil bull market is the primary reason for the rise in employment in this industry. Oil prices rose 30 percent from the January 2017 to the end of April 2018. Rising prices and deregulation seem oxymoronic and contradicts the doctrine of supply-side economics, but oil prices are determined by the global market.
+Conversely, the last few years of the Obama administration experienced an ugly oil bear market with the prices bottoming around $26 per bbl in February 2016. Not surprising, over 90 percent of the 125k mining jobs lost during the Obama sample were in oil & gas, and support services.
+Logging employment growth was flat under both Trump and Obama.
+Coal Mining
+Coal mining, the other political poster child for all that ills the rust belt, has recovered very few net jobs under the Trump administration, only 2.3k, after losing 10k during the Obama payroll sample.
+Employment in the coal mining sector has been devastated over the past 30 years.
+After peaking in April 1985, the economy has lost over 70 percent of coal mining jobs. Those who wonder why Appalachia suffers from an opioid epidemic, or why the government shouldn’t help rebuild these local economies, should suck on those numbers for a few days. Then thank the Lucky Sperm Club for their blessings. We know, got sidetracked into normative economics.
+Coal prices have been extremely volatile over the past ten years. The price of central Appalachia coal plummeted 67 percent during the financial crisis; recovered 73 percent by Q3 2011; fell another 51 percent into October 2016, and has recovered another 55 percent since the 2016 bottom.
+Coal mining employment bottomed in September 2016 but declined over 40 percent during the Obama administration. Ironically, average hourly earnings increased by 27.3 percent in the sector during President Obama. Wage stickiness is the classic explanation for rising unemployment. That is when wages do not adjust down with prices.
+Mining & Logging Average Hourly Earnings
+Average hourly earnings in the mining and logging sector also significantly underperformed during the Trump sample even though job creation outperformed Obama by 209k payrolls. Again, this likely reflects excess labor capacity and the unemployed re-entering the labor market. Technology is also a factor affecting wages as robots are beginning to take over oil platforms.
+Rigs have gotten so much more efficient that the shale industry can use about half as many as it did at the height of the boom in 2014 to suck the same amount of oil out of the ground, says Angie Sedita, an analyst at UBS Corp. Nabors Industries, the world’s largest onshore driller, says it expects to cut the number of workers at each well site eventually to about five from 20 by deploying more automated drilling rigs. – nextBIGFuture
+Stagnant Wage Anomaly
+We won’t present all 13 private sector industry groups (contact us if you want deeper analysis), but will next focus on the relatively soft wage anomaly in the data as the unemployment rate keeps moving lower. Keep in perspective; we are referring to the relative performance of the Trump and Obama time series data samples, and not the absolute numbers. AHE are rising in all industries but some more rapidly or slower when comparing the two data samples.
+In 10 of the 13 private sector industry sectors, the data contradict intuition. Average hourly earnings move in the opposite direction as the employment data. That is intuition, and even theory would suggest that relative compensation in the form of the AHE should move higher as comparable employment moves higher — a positive relationship.
+However, the above data tables comparing the two presidents’ jobs market illustrate that in the top five sectors where President Trump’s payroll jobs outperformed President Obama, the AHE underperformed on a relative basis in four of the five industry groups. Only professional and business services moved with what theory and intuition suggest.
+The same holds where employment underperformed. Only in leisure and hospitality, and information, did, on a relative basis, AHE decline as expected when jobs creation underperformed.
+Why The Anomaly?
+Economists are scrambling trying to explain why wages remain relatively subdued given the 3.9 percent unemployment rate. We have a few ideas, and suspect a significant portion of the anomaly is the result of information lost in aggregation and averaging.
+The comparative data illustrating the relationship between earnings and employment differ across the industry groups. We suspect where payrolls have increased over the past 15-months relative to the prior administration coupled with an AHE underperformance, that industry is experiencing excess labor capacity.
+The depressed wages make intuitive sense as the top two industries where job creation — manufacturing, and mining and logging — in the Trump economy was either negative or flat under Obama. Since many of these jobs require a level of specialization, labor mobility is constrained within and without the industry.
+Many workers leave the labor force or move into the lower skilled industries, such as leisure and hospitality and retail trade. For example, an oil roughneck who lost his/her job during the oil price collapse of 2016 may have become, say, a bartender.
+As oil prices recovered, the labor supply curve shifts right as the roughnecks quit their bartending jobs and move back to the oil patch. Others, who left the workforce all together re-enter. Moreover, as mentioned above, labor-saving technology in the oil patch depresses labor demand in the sector given a certain increase in oil prices.
+Hypothetical Market For Oil Roughnecks
+The supply and demand graph illustrates the comparative statics of our hypothetical market for oil roughnecks. This particular example, may, or may not, reflect the actual data as we have not gone that deep into the labor classification. Though it is for illustration, the data confirms the model at the aggregated mining industry level.
+In our hypothetical market, assume the initial market equilibrium (if you believe that equilibria do exist) for oil roughnecks is Eo and AHEo at end-January 2017. Oil prices enter a new bull market and rise 30 percent (fact) increasing the demand for labor in the oil patch (fact).
+The demand curve for roughnecks shifts up, but not as much (see green demand curve) as it would have before 2014 when labor-saving technology was not as ubiquitous in the oil sector.
+The roughnecks who left the industry, either becoming bartenders and/or leaving the workforce altogether, re-enter the market, shifting the labor supply curve to the right (red curve). Employment in the sector increases to E 1, and AHE moves higher to AHE 1, but not as much as would have been the case (AHE h) before 2014 and the introduction of labor-saving technology.
+The result is higher job creation for oil roughnecks but with lower relative wage growth than would have been in the previous administration.
+We will leave exploring wage elasticities, labor market barriers of entry into certain industries, and other factors to future posts and new Ph.D. dissertations.
+The takeaway here is that the manufacturing and mining sector are not yet experiencing labor supply constraints. That cannot last forever, however, as labor supply in the U.S. is not infinite.
+Other Industries
+The industries where relative job creation is slowing but AHE is outperforming, most likely, but not in all cases, is indicative of tightness in that particular labor market. These include retail trade, education and health services, construction, transportation and warehousing, and financial activities (not confirmed by our observations).
+We do not understand what is going on in leisure and hospitality as all the anecdotal evidence in our experience points to accelerating wages. Lost in translation.
+Barriers To Entry
+Barriers to entry for workers moving from industry to industry also creates friction and affects job creation and average hourly earnings. For example, it is much easier for the unemployed in the mining sector to find work in the unskilled labor markets, such as retail and leisure and hospitality. In keeping with our above example,
+“it’s easier for an unemployed oil roughneck to find work as a bartender than an unemployed bartender to find work as an oil roughneck.”
+Ditto for unemployed coal miners becoming python coders.
+It is important for policymakers to reduce the friction of moving up into higher skilled industries through retraining and investments in human capital.
+Impact Of Tax Cut On Labor Market
+Finally, we take a look at the impact of the tax cut on jobs and average hourly earnings.
+The tax cuts have been in place for more than five months, and the impact on the jobs market is mixed. Let us preface this by saying the analysis is based on the correlation between the labor market and the tax cuts as we can’t speak with any level of certainty as to the causation without engaging some serious econometrics.
+We compare data from Jan-April 2018 to the similar periods over the prior three years.
+So far this year, job creation is 13 percent higher than the change in total nonfarm payrolls at this point in 2017 and 16 percent higher in the private sector. The growth in average hourly earnings is surprisingly lower, however, increasing 0.75 percent in the first four months of 2018 versus 0.85 percent in 2017, and significantly lower than the last two years of President Obama’s economy.
+When compared to the average over the prior three years, job creation in the first four months is lagging behind. Two factors may explain this: 1) it is too early to measure the impact of the tax cuts, and 2) the economy is running out of workers.
+If the latter is correct and it will be, eventually, then wages should begin to really accelerate and move higher as the economy absorbs the excess labor capacity in the specific industries we mentioned above.
+Upshot
+The payroll data illustrate that job creation in the first 15 months of the Trump administration has underperformed the last 15 months of the Obama administration. There is little difference in the growth of average hourly earnings. The results are valid for the economy as a whole as well with the private sector.
+The results of our analysis are somewhat surprising given the Trump administration’s rhetoric on jobs and wages. Even more bewildering is that job, and wage growth has lagged during a period of stronger economic growth. GDP has grown at a CAGR of 2.53 percent in the last five quarters relative to 1.56 percent in the previous five quarters of the Obama administration.
+President Trump is correct in that his economy is outperforming in producing manufacturing jobs. Almost 60 percent of these new jobs have are in three industries: 1) fabricated metal products; 2) machinery and 3) food manufacturing.
+The Trump economy has also significantly outperformed in the mining sector, which is almost entirely the result of the reversal in oil prices. Virtually all the mining jobs created in the Trump economy were in support services, such as, we suspect, oil derrick operators, and oil extraction workers.
+Conversely, over 90 percent of the 125k mining jobs lost during the Obama sample were in oil & gas, and support services.
+Employment in the coal mining industry has not recovered, in spite of the administration rhetoric, with only 2.3k net mining jobs added during the Trump economy.
+Six Additional Conclusions
+Other than that the Trump economy is lagging the Obama economy regarding job creation, and there is little difference in the growth of average hourly earning between the two, we highlight an additional six conclusions from our analysis:
+1) Much of the information about the dynamics of the U.S. jobs market is lost through aggregation and averaging;
+2) The payrolls data may distort the true U.S. employment situation as it excludes proprietors, the unincorporated self-employed, farm workers, the military, C.I.A,, N.S.A., and other intelligence agencies
+3) The industries where the Trump sample job creation outperforms relative to President Obama’s last 15 payroll reports are in those with labor market slack;
+4) The weaker relative performance of job creation and non-accelerating wage growth during a period of significantly stronger GDP growth are indicative the economy continues to reward capital over labor disproportionately, in spite of a 3.9 percent unemployment rate.
+5) The majority of the 13 private sector industry groups have tight labor markets, and wages should soon begin to show a significant acceleration,
+6) An economy is a trending machine; presidents do not create jobs and their influence on employment and wages is mostly exaggerated. Moreover, the economic records of presidents are often the result of luck and the initial conditions they inherit. We are not saying policies do not matter, but, they do so on the margin, and extreme policies, and lack of action during economic crises, matter more.
+If you would like more in-depth analysis, contact us: macromonitor33@gmail.com

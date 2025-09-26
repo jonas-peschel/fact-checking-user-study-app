@@ -1,0 +1,129 @@
+https://www.mdpi.com/2071-1050/14/21/14343
+Value-Added Tax Revenue Transfers and Regional Social Development: Evidence from Nigeria
+Abstract
+1. Introduction
+2. Literature Review
+2.1. Conceptual Review
+2.1.1. Conceptual Framework
+2.1.2. Concept of Fiscal Decentralization
+2.1.3. Concept of VAT and Its Devolution Bases in Nigeria
+2.2. Theoretical Framework
+2.3. Empirical Review
+3. Methodology
+3.1. Model Specification
+3.2. Model for Granger Causality Testing
+4. Data Assessment and Elucidation
+- Source of data: Central Bank of Nigeria
+5. Conclusions
+6. Limitations and Further Research
+Funding
+Institutional Review Board Statement
+Informed Consent Statement
+Data Availability Statement
+Conflicts of Interest
+References
+- Akinyemi, A. VAT Controversy: The Need to Avoid Fiscal Anarchy. Premium Times. 2021. Available online: https://www.premiumtimesng.com/opinion/485019-vat-controversy-the-need-to-avoid-fiscal-anarchy-by-akinyemiashade.html (accessed on 12 August 2022).
+- Ogunmupe, B. Why States Should Collect VAT in Nigeria. Guardian. 2021. Available online: https://guardian.ng/opinion/why-states-should-collect-vat-in-nigeria/ (accessed on 10 June 2022).
+- Omojoye, S. Staying in the Lane: VAT Dispute Is Constitutional, Not About States’ Capacity to Collect VAT. The Cable. 2021. Available online: https://www.thecable.ng/staying-on-the-lane-vat-dispute-is-constitutional-not-about-states-capacity-to-collect-vat (accessed on 12 December 2021).
+- Wong, M.C.S.; Yap, R.C.Y. Social impact investing for marginalized communities in Hong Kong: Cases and Issues. Sustainability 2019, 11, 2831. [Google Scholar] [CrossRef]
+- Omodero, C.O. Effect of apportioned federal revenue on economic growth: The Nigerian Experience. Int. J. Financ. Res. 2019, 10, 172–180. [Google Scholar] [CrossRef]
+- Omodero, C.O.; Alege, P.O. Crude oil resources, tax revenue and sustainable social Development in Nigeria. Int. J. Energy Econ. Policy 2021, 11, 22–27. [Google Scholar] [CrossRef]
+- Vatavu, S.; Lobont, O.-R.; Stefea, P.; Brindescu-Olariu, D. How taxes relate to Potential welfare gain and appreciable economic growth. Sustainability 2019, 11, 4094. [Google Scholar] [CrossRef]
+- Bui, M.-T.; Le, T.-H.; Park, D. Impacts of fiscal decentralization on local development In Vietnam: A disaggregated analysis. Econ. Trans. Inst. L Chang. 2022. [Google Scholar] [CrossRef]
+- Nguyen, T.H.; Thanh, S.D. Fiscal decentralization, economic growth, and human Development: Empirical evidence. Cogent Econ. Financ. 2022, 10, 1–17. [Google Scholar] [CrossRef]
+- Setiawan, F.; Aritenang, A.F. The impact of fiscal decentralization on economic Performance in Indonesia. IOP Conf. Ser. Earth Environ. Sci. 2019, 340, 012021. [Google Scholar] [CrossRef]
+- Subroto, W.T.; Baidlowi, I. Does funding decentralization can influence the local Economic growth? Iran. Econ. Rev. 2022, 26, 311–323. [Google Scholar] [CrossRef]
+- Olaide, K.; Simo-Kengne, B.D.; Uwilingiye, J. Sustainable Development–Fiscal Federalism Nexus: A “Beyond GDP” Approach. Sustainability 2022, 14, 6267. [Google Scholar] [CrossRef]
+- Ji, L.; Zhang, W. Fiscal incentives and sustainable urbanization: Evidence from China. Sustainability 2020, 12, 103. [Google Scholar] [CrossRef]
+- Devkota, K.L. Impact of Fiscal Decentralization on Economic Growth in the Districts of Nepal. Int. Cent. Public Policy (ICEPP) Work. Pap. 2014, 12. Available online: https://scholarworks.gsu.edu/icepp/12 (accessed on 20 June 2022).
+- Firman, T. Inter-local-government partnership for urban management in decentralizing Indonesia: From below or above? Karmantul (Greater Yogyakarta) and Jabodetabek (Greater Jakarta) compared. Space Polity 2014, 18, 215–232. [Google Scholar] [CrossRef]
+- Hammond, G.W.; Tosun, M.S. The Impact of Local Decentralization on Economic Growth: Evidence from U.S Countries. IZA DP No. 4574. 2009. Available online: https://repec.iza.org/dp4574.pdf (accessed on 12 June 2022).
+- Baskaran, T.; Feld, L.P. Fiscal Decentralization and Economic Growth in OECD Countries: Is there a Relationship? Public Financ. Rev. 2012, 41. [Google Scholar] [CrossRef]
+- Olena, C.; Yuriy, P.; Alina, V.; Anna, V. Assessment of Fiscal Decentralization Influence on Social and Economic Development. Mont. J. Econ. 2018, 14, 69–84. [Google Scholar]
+- Zhang, T.; Zou, H.-F. Fiscal decentralization, public spending, and economic Growth in China. J. Public Econ. 1998, 67, 221–240. [Google Scholar] [CrossRef]
+- Schneider, A. Who gets what from whom? The impact of decentralization on tax Capacity and pro-poor policy. IDS Work. Pap. 2003, 179. Available online: https://www.ids.ac.uk/download.php?file=files/Wp179.pdf (accessed on 12 June 2022).
+- Yushkov, A. Fiscal decentralization and regional economic growth: Theory, empirics, and The Russian experience. Russ. J. Econ. 2015, 1, 404–418. [Google Scholar] [CrossRef]
+- Oates, W.E. On the Theory and Practice of Fiscal Decentralization. In IFIR Working Papers; University of Maryland: College Park, MD, USA, 2006. [Google Scholar]
+- Agyemang-Duah, W.; Gbedoho, E.K.; Peprah, P.; Arthur, F.; Sobeng, A.K.; Okyere, J.; Dokbila, J.M. Reducing poverty through fiscal decentralization in Ghana and beyond: A review. Cogent Econ. Financ. 2018, 6, 1–14. [Google Scholar] [CrossRef]
+- Lessmann, C. Fiscal decentralization and regional disparity: A panel data approach for OECD countries. Ifo Work. Pap. 2006. Available online: https://www.ifo.de/DocDL/IfoWorkingPaper-25.pdf (accessed on 30 August 2022).
+- Rubolino, E. The efficiency and distributive effects of local taxes: Evidence from Italian Municipalities. Institute for social and economic research. ISER Work. Pap. Ser. 2019. Available online: http://www.ecineq.org/ecineq_paris19/papers_EcineqPSE/paper_202.pdf (accessed on 20 July 2022).
+- Wong, H.K. Induction Programs that Keep New Teachers Teaching and Improving. NASSP Bull. 2004, 88, 41–58. [Google Scholar] [CrossRef]
+- Kyriacou, A.P.; Muinelo-Gallo, L.; Roca-Sagales, O. Fiscal decentralization and Regional disparities: The importance of good governance. Reg. Sci. 2015, 94, 89–107. [Google Scholar] [CrossRef]
+- Bartolini, D.; Stossberg, S.; Blöchliger, H. Fiscal Decentralization and Regional Disparities. In OECD Economics Department Working Papers; OECD Publishing: Paris, France, 2016. [Google Scholar] [CrossRef]
+- Lessmann, C. Regional Inequality and Decentralization: An Empirical Analysis. Environ. Plan. A Econ. Space 2012, 44, 1363–1388. [Google Scholar] [CrossRef]
+- Rondinelli, D.A.; Cheema, G.S. Policy implementation in developing countries. In Decentralization and Development; Shabbir, G., Dennis, C., Rondinelli, A., Eds.; Sage: Beverly Hills, CA, USA, 1983. [Google Scholar]
+- Gałecka, M.; Patrzalek, L.; Kuropka, I.; Ewa, S.-P. The fiscal capacity of local government versus government expenditure, and its impact on eliminating inter-regional social inequalities in Poland. J. ERSA 2021, 9, 51–67. [Google Scholar] [CrossRef]
+- Blöchliger, H.; Bartolini, D.; Stossberg, S. Does Fiscal Decentralization Foster Regional Convergence? In OECD Economic Policy Papers; OECD Publishing: Paris, France, 2016. [Google Scholar] [CrossRef]
+- Oates, W.E. Fiscal Federalism; Harcourt Brace Jovanovich: New York, NY, USA, 1972. [Google Scholar]
+- Iqbal, N.; Musleh, U.D.; Ghani, E. Fiscal decentralization and economic growth: Role of democratic institutions. PIDE Work. Pap. 2013, 89, 1–26. Available online: https://www.scopus.com/record/display.uri?origin=recordpage&zone=relatedDocuments&eid=2-s2.0-84878869960&noHighlight=false&relpos=0 (accessed on 30 June 2022).
+- Tiebout, C.M. A Pure Theory of Local Expenditures. J. Political Econ. 1956, 64, 416–424. [Google Scholar] [CrossRef]
+- Oates, W.E. Fiscal Decentralization and Economic Development. Nat. Tax J. 1993, 46, 237–243. [Google Scholar] [CrossRef]
+- Brennan, G.; Buchanan, J.M. The Power to Tax—Analytical Foundation of a Fiscal Constitutions; Cambridge University Press: Cambridge, UK, 1980. [Google Scholar]
+- Weingast, B.R. The Economic Role of Political Institutions: Market-Preserving Federalism and Economic Development. J. Law Econ. Orgn. 1995, 11, 1–31. [Google Scholar]
+- Tanzi, V. Fiscal Federalism and Decentralization: A Review of Some Efficiency and Macroeconomic Aspects. In Annual World Bank Conference on Development Economics; Bruno, M., Pleskovic, B., Eds.; World Bank: Washington, DC, USA, 1996; pp. 295–316. [Google Scholar]
+- Prud’homme, R. The Dangers of Decentralization. World Bank Res. Obs. 1995, 10, 201–220. Available online: http://www.jstor.org/stable/3986582 (accessed on 24 December 2021). [CrossRef]
+- Rodden, J.; Eskeland, G.S.; Litvack, J. Fiscal Decentralization and the Challenges of Hard Budget Constraints; MIT Press: Cambridge, UK; London, UK, 2003. [Google Scholar]
+- Gainsborough, J.F. To devolve or not to devolve? Welfare reform in the States. Political Stud. J. 2003, 31, 603–623. [Google Scholar] [CrossRef]
+- Joan, C.-F. Devolution, diversity and welfare reform: Long-term care in the ‘Latin Rim’. Soc. Political Admn. 2010, 44, 481–494. [Google Scholar] [CrossRef]
+- Busemeyer, M.R. The impact of fiscal decentralization on education and other types of Spending. Swiss Political Sci. Rev. 2011, 14, 451–481. [Google Scholar] [CrossRef]
+- Chu, J.; Zheng, X.-P. China’s fiscal decentralization and regional economic growth. Jpn. Econ. Rev. 2013, 64, 537–549. [Google Scholar] [CrossRef]
+- Soejoto, A.; Subroto, W.T.; Suyanto, Y. Fiscal decentralization policy in promoting Indonesia human development. Int. J. Econ. Financ. Iss. 2015, 5, 763–771. Available online: https://dergipark.org.tr/tr/download/article-file/363060 (accessed on 20 September 2022).
+- Mutiarani, N.D.; Siswantoro, D. The impact of local government characteristics on the accomplishment of Sustainable Development Goals (SDGs). Cogent Bus. Manag. 2020, 7, 1–11. [Google Scholar] [CrossRef]
+- Gemmell, N.; Kneller, R.; Sanz, I. Fiscal decentralization and economic growth: Spending versus revenue decentralization. Econ. Inq. 2021, 51, 1915–1931. [Google Scholar] [CrossRef]
+- Flaška, F.; Rigová, Z.; Kološta, S.; Liptáková, K. Regional Differences in Revenues from Local Taxes in Comparison to the Socio-Economic Level of the Regions of the Slovak Republic. DANUBE 2021, 12, 197–211. [Google Scholar] [CrossRef]
+- Xu, W.; Lin, J. Fiscal decentralization, public health expenditure and public health evidence from China. Front. Public Health 2022, 10, 1–12. [Google Scholar] [CrossRef]
+- Ma, G.; Mao, I. Fiscal decentralization and local economic growth: Evidence from a fiscal reform in China. Fisc. Stud. 2018, 39, 159–187. [Google Scholar] [CrossRef]
+- Ahmad, F.; Xu, H.; Draz, M.U.; Ozturk, I.; Chandio, A.A.; Wang, Y.; Zhang, D. The Case of China’s fiscal decentralization and eco-efficiency: Is it worthwhile or just a Bootless errand? Sustain. Prod. Consum. 2020, 26, 89–100. [Google Scholar] [CrossRef]
+- Blane, D.L.; Smoke, P. Intergovernmental fiscal transfers and local incentives and responses: The case of Indonesia. Fisc. Stud. 2015, 38, 111–139. [Google Scholar] [CrossRef]
+- Hang, N.P.T.; Nguyen, M.-L.T.; Ho, H.T.; Bui, T.N. The impact of tax policy on social development in Vietnam. Manag. Sci. Lett. 2020, 10, 995–1000. [Google Scholar] [CrossRef]
+- Yang, Z. Tax reform, fiscal decentralization, and regional economic growth: New evidence From China. Econ. Modl. 2016, 59, 520–528. [Google Scholar] [CrossRef]
+- Zhou, M.; Wang, T.; Yan, L.; Xie, X.-B. Has economic competition improved China’s Provincial energy ecological efficiency under fiscal decentralization? Sustainability 2018, 10, 2483. [Google Scholar] [CrossRef]
+- Gujarati, D.N.; Porter, D.C. Basic Econometrics, 5th ed.; McGraw-Hill Irwin: Boston, MA, USA, 2009. [Google Scholar]
+- Oates, W.E. Toward a Second-Generation Theory of Fiscal Federalism. J. Int. Tax Public Financ. 2005, 12, 349–373. [Google Scholar] [CrossRef]
+| VARIABLE CODE | VARIABLE MEANING | VARIABLE MEASUREMENT | SOURCE OF DATA |
+|---|---|---|---|
+| DEPENDENT VARAIABLE | |||
+| SCSV | Social and Community Service Cost | Collected in billions of national currency. | CBN Statistical Bulletin. |
+| INDEPENDENT VARIABLES | |||
+| SVAT | VAT revenue transfer to the 36 States in Nigeria including the Federal Capital Territory (FCT), Abuja. | Obtained in billions of Naira. | CBN Statistical Bulletin. |
+| LVAT | VAT receipts transfer to the 774 local governments in Nigeria. | Gathered in billions of local currency. | CBN Statistical Bulletin. |
+| Series: SCSV, SVAT, LVAT | ||||
+| Sample: 1995–2021 | ||||
+| Cross- | ||||
+| Method | Statistic | Prob. | sections | Obs |
+| Null: Unit root (assumes common unit root process) | ||||
+| Levin, Lin & Chu t | −4.92 | 0.00 | 3 | 66 |
+| Null: Unit root (assumes individual unit root process) | ||||
+| ADF-Fisher Chi-square | 27.42 | 0.00 | 3 | 66 |
+| PP-Fisher Chi-square | 35.64 | 0.00 | 3 | 72 |
+| Sample: 1995–2021 | |||
+| Included observations: 27 | |||
+| Correlation | SCSV | SVAT | LVAT |
+| SCSV | 1.000000 | ||
+| SVAT | 0.967693 | ** 1.000000 | |
+| LVAT | 0.969154 | ** 0.999526 | 1.000000 |
+| Sample: 1995–2021 | |||
+| Lags: 2 | |||
+| Null Hypothesis: | Obs | F-Statistic | Prob. |
+| SVAT does not Granger Cause SCSV | 25 | 9.94 | 0.00 *** |
+| LVAT does not Granger Cause SCSV | 25 | 8.97 | 0.00 *** |
+| LVAT does not Granger Cause SVAT | 25 | 0.88 | 0.43 |
+| SVAT does not Granger Cause LVAT | 0.31 | 0.74 |
+| Variables Considered | SVAT | LVAT | Other Results |
+|---|---|---|---|
+| T—Statistic | 5.01 *** | −1.43 | |
+| p-value | (0.00) | (0.17) | |
+| Multicollinearity test—VIF | 2.12 | 2.05 | |
+| CV | (0.01) | (0.02) | |
+| Standard Error of the Estimate | 0.22 | ||
+| Durbin-Watson | 1.71 | ||
+| F—Statistic | 569.82 *** | ||
+| (0.00) | |||
+| Constant | 0.20 |
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. |
+© 2022 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+Share and Cite
+Omodero, C.O. Value-Added Tax Revenue Transfers and Regional Social Development: Evidence from Nigeria. Sustainability 2022, 14, 14343. https://doi.org/10.3390/su142114343
+Omodero CO. Value-Added Tax Revenue Transfers and Regional Social Development: Evidence from Nigeria. Sustainability. 2022; 14(21):14343. https://doi.org/10.3390/su142114343
+Chicago/Turabian StyleOmodero, Cordelia Onyinyechi. 2022. "Value-Added Tax Revenue Transfers and Regional Social Development: Evidence from Nigeria" Sustainability 14, no. 21: 14343. https://doi.org/10.3390/su142114343
+APA StyleOmodero, C. O. (2022). Value-Added Tax Revenue Transfers and Regional Social Development: Evidence from Nigeria. Sustainability, 14(21), 14343. https://doi.org/10.3390/su142114343

@@ -1,0 +1,184 @@
+https://cof.org/country-notes/nonprofit-law-nigeria
+Current as of May 2024 | Download print version (in PDF)
+This section describes the legal framework governing nonprofit organizations (also known as non-governmental organizations or NGOs) in Nigeria, and includes translations of legislative provisions relevant for a foundation or advisor undertaking an equivalency determination of a foreign grantee under IRS Revenue Procedure 92-94.
+These reports have been prepared by the International Center for Not-for-Profit Law (ICNL). Please direct corrections and comments to Lily Liu.
+We include hyperlinks to the following information, to the extent available:
+- Longer country reports analyzing various aspects of local legislation; and
+- Texts of local laws that affect the decision whether or not to qualify a grantee (generally in translation, although ICNL and the Council cannot warrant the accuracy of any translation; in addition, legislative excerpts were selected by in-country contacts, and ICNL and the Council cannot warrant that all relevant provisions have been translated).
+Table of Contents
+- Summary
+- Types of Organizations
+- Tax Laws
+- Applicable Laws
+- Relevant Legal Forms
+- General Legal Forms
+- Public Benefit Status
+- Specific Questions Regarding Local Law
+- Inurement
+- Proprietary Interest
+- Dissolution
+- Activities
+- Discrimination
+- Control of Organization
+- Tax Laws
+- Approved List of Taxes
+- Tax Exemptions
+- Deductibility of Donations to Nigerian NGOs by Individuals and Corporations Based in Nigeria
+- Value Added Tax
+- Double Tax Treaties
+- Personal Income Tax
+- Money Laundering
+I. Summary
+A. Types of Organizations
+Nigeria is a Federal Republic. The country’s legal system is based on the English legal tradition, and the law governing voluntary not-for-profit organizations is a product of English common law. Statutory law governs the creation of not-for-profit companies, including associations with incorporated trustees and companies limited by guarantee. Other not-for-profit organizations, such as unincorporated associations, charitable trusts, cooperatives, friendly societies, political parties, and trade unions also exist in Nigeria. Because cooperatives, friendly societies, and trade unions are mutual benefit organizations, they will not be discussed further in this Note, nor will the Note address political parties. Rather, the Note will focus on associations with incorporated trustees and companies limited by guarantee.
+B. Tax Laws
+Nigerian companies are taxed under the Companies Income Tax Act (CITA). CITA exempts from tax the profits of companies engaged in certain public benefit activities, so long as the profits are not derived from trade or a business undertaking. Profits of companies established to promote sporting activities are also exempt. Nigerian companies may make tax-deductible donations to certain public benefit organizations that are listed in the Fifth Schedule to CITA. Donations made by individuals, on the other hand, are not tax-deductible. Nigerian not-for-profit companies are subject to a value added tax (VAT).
+II. Applicable Laws
+III. Relevant Legal Forms
+A. General Legal Forms
+Association with Incorporated Trustees
+An association of persons, which appoints one or more trustees and registers under Part F of the Companies and Allied Matters Act (CAMA) 2020, is called an association with incorporated trustees. Upon registration, the trustees become a body corporate and have perpetual succession as well as the power to sue and be sued on behalf of the association. There are two forms of associations with incorporated trustees. For the first form, the trustees are appointed by any community of persons bound together by customs, religion, kinship or nationality. For the second form, the trustees are appointed by any person or association of persons established for any religious, educational, literary, scientific, social, development, cultural, sporting, or charitable purpose (CAMA Section 823).
+Individuals not qualified to be appointed as trustees include infants, persons of unsound mind, those who have undischarged bankruptcies and persons convicted of any offence involving dishonesty within a period of five years of the proposed appointment (CAMA Section 826).
+Company Limited by Guarantee
+A company limited by guarantee is formed for the promotion of commerce, art, science, religion, sports, culture, education, research, charity, or other similar objects. The income and property of the company is applied solely towards the promotion of its objects. No portion of the company’s income or property may be paid or transferred directly or indirectly to the members of the company except as permitted by the CAMA (CAMA Section 26(1)).
+Common Law Charitable Trust
+The unincorporated charitable trust formed under traditional common law rules also exists in Nigeria. A trust may be formed by the settlor inter vivos or by testamentary will.
+Because the charitable trust is a generic creature of the common law, rather than of specific Nigerian statutory law, it will not be discussed further in this Note.
+Unincorporated Association
+The Constitution of the Federal Republic of Nigeria states that “Every person shall be entitled to assemble freely and associate with other persons, and in particular he may form or belong to ... any association for the protection of his interests" (Constitution of the Federal Republic of Nigeria Section 40). Thus, with certain limitations (i.e., those contained in Section 45 of the Constitution of the Federal Republic of Nigeria), people may come together to form unincorporated associations. Such unincorporated associations are not eligible for tax benefits. Because the information relevant to making an equivalency determination will necessarily be contained in the governing documents of each unincorporated association, these types of associations will not be discussed further in this Note.
+B. Public Benefit Status
+Nigeria does not grant a special public benefit status to organizations that engage in public benefit activities. However, the public benefit character of certain organizations that engage in public benefit activities is recognized through the grant of tax preferences (please refer to Section V(B)).
+IV. Specific Questions Regarding Local Law
+A. Inurement
+Association with Incorporated Trustees
+No portion of the income and property of a body or an association with incorporated trustees may be paid or transferred directly or indirectly, by way of dividend, bonus, or otherwise to the members of the association (CAMA Section 838(1)). Associations with incorporated trustees may pay their employees reasonable remuneration for services rendered (CAMA Section 832(2)).
+Active members of the managing council or governing board of an association with incorporated trustees may not take within the organization a salaried position or any other position that is paid by fees (CAMA Section 832(2)(a)). Members of the managing/governing bodies may, however, be reimbursed for expenses incurred in connection with the work of the association and be paid a reasonable rent for properties leased to the organization (CAMA Section 832(2)(b)).
+Company Limited by Guarantee
+No portion of the income and property of a company limited by guarantee may be paid or distributed, directly or indirectly, to its members except as permitted under the CAMA (CAMA Section 26(1)). A company limited by guarantee may not have as its object carrying on business for the purpose of making profits for distribution to its members (CAMA Section 26(3)). The CAMA makes the carrying on of business for the purpose of distributing profits an offense punishable by a fine (CAMA Section 26(11)). Any provision in the memorandum or articles or any resolution of the company purporting to give any person a right to participate in the divisible profits of the company other than as a member is void (CAMA Section 26(2)).
+B. Proprietary Interest
+Association with Incorporated Trustees
+Upon incorporation, the property of the association vests in the trustees (CAMA Section 830(2)). The trustees of the association acquire, hold, and dispose of the property of the association for the purposes of the association (CAMA Section 830(1)). The powers vested in the trustees are exercised subject to the directions of the association or its governing council (CAMA Section 837).
+Company Limited by Guarantee
+A company limited by guarantee does not issue shares (CAMA Section 26(1)), and so does not create ownership rights in any persons, legal or natural. A company in which persons may be granted a proprietary interest will be designated as a ‘company limited by shares’ or an ‘unlimited company’ (CAMA Section 21(1)). Any provision in the memorandum, articles, or any resolution of the company that purports to divide the company’s undertaking into shares or interests is void (CAMA Section 26(2)).
+C. Dissolution
+Association with Incorporated Trustees
+Upon dissolution, an association with incorporated trustees must transfer any property remaining after the satisfaction of all debts and liabilities to other institutions having similar objects. These institutions will be determined by the members of the association at or before the time of dissolution. No property may be paid to or distributed among the members of the association (CAMA Section 850(4)). If, for some reason, the remaining property cannot be transferred to institutions with similar objects, the remaining property will be transferred to “some charitable object” (CAMA Section 850(5)).
+Company Limited by Guarantee
+Upon dissolution, a company limited by guarantee must transfer any property remaining after the discharge of all its debts and liabilities to another company limited by guarantee with similar objects, or must apply the remaining property to some charitable object. The company or charity receiving the property must be determined by the members prior to dissolution. None of the property remaining after a company limited by guarantee discharges its debts and liabilities may be distributed among its members (CAMA Section 26(15)).
+D. Activities
+1. General Activities
+Association with Incorporated Trustees
+The application for the registration of an association of incorporated trustees must state the aims and objectives of the association, which must be for the advancement of any purpose that is religious, educational, literary, scientific, social, for development, cultural, for sporting, or charitable (CAMA Section 825(1)(b)).
+Company Limited By Guarantee
+A company limited by guarantee is established to promote commerce, art, science, religion, sports, culture, education, research, charity, or other similar objects (CAMA Section 26(1)). [1]
+It is important to note that the Nigerian Criminal Code Act, which is applicable in the southern states of Nigeria, prohibits certain societies on the basis of their activities. Societies of persons are unlawful if formed for any of the following purposes:
+- Levying war or encouraging or assisting any person to levy war on the Government or the inhabitants of any part of Nigeria;
+- Killing or injuring or encouraging the killing or injuring of any person;
+- Destroying or injuring or encouraging the destruction or injuring of any property;
+- Subverting or promoting the subversion of the Government or its officials;
+- Committing or inciting to acts of violence or intimidation;
+- Interfering with, or resisting, or encouraging interference with or resistance to the administration of the law; or
+- Disturbing or encouraging the disturbance of peace and order in any part of Nigeria.
+In addition, a society will be deemed unlawful if declared by an order of the President to be a society dangerous to the good governance of Nigeria or of any part thereof (See Criminal Code Act Section 62).
+2. Public Benefit Activities
+Activities that are ecclesiastical, charitable, or educational in nature, or that promote sports, are considered to be of public benefit for the purposes of tax exemption and deductibility of donations (CITA Sections 19(1)(c) and (d)).
+3. Economic Activities
+Association with Incorporated Trustees
+An association with incorporated trustees may engage in economic activities. There is no statutory provision that prevents it from doing business directly or through a for-profit subsidiary. Income derived from economic activities is subject to tax at the same rate that for-profit organizations are taxed for economic activities. There are no tax rules that distinguish between commercial or economic activities related or unrelated to the core objects of the association.
+Company Limited by Guarantee
+A company limited by guarantee may not be incorporated with the object of carrying out business for the purpose of making profits for distribution to its members (CAMA Section26(3)). In addition, Section 26(1) of CAMA requires that a company limited by guarantee apply its income and property "solely towards the promotion of its objects," which must be the promotion of "commerce, art, science, religion, sport, culture, education, research, charity or other similar objects."
+4. Political Activities
+There is no statutory provision that prevents Nigerian NGOs from engaging in advocacy or from endorsing candidates for public office. It seems possible that the provisions of Section 62 of the Criminal Code Act (See above at Section IV(D)(1) describing unlawful societies) could be used to prohibit some organizations from engaging in political activities. Companies limited by guarantee may not directly or indirectly make a donation of property or funds to a political party or association for any political purposes (CAMA Section 43(2)).
+E. Discrimination
+Section 15(2) of the Constitution of the Federal Republic of Nigeria (1999) prohibits discrimination on the basis of place of origin, sex, religion, status, ethnic or linguistic association or ties. Furthermore, the Constitution states that every citizen shall have equality of rights, obligations and opportunities before the law (Constitution Section 17(2)(a)). The Constitution requires the government to direct its policy towards ensuring that there are equal and adequate educational opportunities at all levels (Constitution Section 18(1)). The government shall provide free, compulsory and universal primary education where practicable (Constitution Section 18(3)(a)).
+At the same time, the rights enumerated above are non-justiciable. They apply only to state actors and do not apply to private or non-governmental entities.
+F. Control of Organization
+In general, no restriction exists on the control of not-for-profit organizations by other organizations or persons. It is possible that a Nigerian not-for-profit may be controlled by a for-profit entity or by a foreign grantor.
+The Corporate Affairs Commission or a court may suspend trustees and appoint interim managers for associations with incorporated trustees under certain circumstances (CAMA Section 839(1) and (2) and Companies Regulations Section 28). However, the Federal High Court declared several sections of the CAMA unconstitutional in two separate cases in 2023, including Section 839(1) (See Registered Trustees of Christian Association of Nigeria v. Corporate Affairs Commission and Minister of Trade and Industry and Emmanuel Ekpenyong v. the National Assembly & 2 others). Appeals against these rulings are currently pending.
+V. Tax Laws
+A. Approved List of Taxes
+Subject to the provisions of the Constitution of the Federal Republic of Nigeria, 1999, the Taxes and Levies (Approved List for Collection) Act 1998 No. 21 ("Approved List of Taxes Law") is the most comprehensive and authoritative legislation on taxes that can be collected by each level of government—i.e., federal, state, or local government—in Nigeria.[2] The Finance Act 2023 applies a 10% Capital Gains Tax on digital assets, allowing capital loss deductions, repealing certain tax incentives, imposing a 0.5% levy on imported goods, and adding new VAT compliance requirements.
+B. Tax Exemptions
+In Nigeria, certain types of income are exempt from income tax. Exempt income includes:
+- The profits of any company [3] engaged in ecclesiastical, charitable, or educational activities of a public character in so far as such profits are not derived from a trade or business carried on by such company; and
+- The profits of any company formed for the purpose of promoting sporting activities where such profits are wholly expendable for such purpose (CITA Section 23(1)(c) and (d)).
+Companies limited by guarantee may also apply to the President for an order exempting them from all or any profits from any source (CITA Section 23(2)).
+The Federal Inland Revenue Service (FIRS) issued guidelines stating that:
+All NGOs are expected to register with the nearest Integrated Tax Office (ITO) of FIRS with the following documents:
+- A copy of registration certificate issued by Corporate Affairs Commission (CAC);
+- Certified copy of Memorandum or Constitution, Rules and Regulations governing the NGO;
+- List and Profiles of the Trustees/Board Members nominated;
+- Copy of the current Tax Clearance Certificate (TCC) of each of the Trustees (Paragraph 5 of the Guidelines On The Tax Exemption Status Of Non-Governmental Organisations issued on August 27, 2010, pursuant to Section 8(1)(t) of the Federal Inland Revenue Service (Establishment) Act 2007).
+Paragraph 6 of the Guidelines stipulates that in line with section 55 of CITA, it is mandatory for every NGO to file a tax return every year at the ITO where it was registered. An NGO seeking clarification on its tax exemption status can direct its inquiry the ITO where it was registered (Guidelines at Para 7.1).
+C. Deductibility of Donations to Nigerian NGOs By Individuals and Corporations Based In Nigeria
+The laws of Nigeria do not provide for the deductibility of donations made by individuals to Nigerian NGOs.
+Companies are taxed at a rate of 30 percent. A tax benefit, in the form of an allowable deduction, is available to any Nigerian company that makes a donation to certain Nigerian funds and institutions. Specifically, the amount of any donation made by a company to any of the Nigerian funds and institutions specified in the Fifth Schedule of CITA may be deducted. The amount of the deduction for any year of assessment may not exceed 10 percent of the total profits for the company during that year (CITA Section 25(3)). The Council of Ministers may alter this limitation on the amount of the deduction by order in the Federal Gazette (CITA Section 25(3)).
+Institutions to which tax deductible donations may be made include the ecclesiastical, charitable, benevolent, educational and scientific institutions, established in Nigeria, which are specified in the Fifth Schedule to the Companies Income Tax Act (CITA Section 23(1)(c)).
+The Finance Minister is empowered to amend the listing in the Schedule "in any manner whatsoever" (CITA Section 25(6)). In 2011, the Coordinating Minister for the Economy and Minister of Finance exercised this power using Order No. 1 of 2011 to amend the Fifth Schedule to CITA. Numbers 35-42 were added to the list of institutions to which tax deductible donations may be made. As a result, any donation made to institutions, bodies or funds engaged in the following broad categories of activities will now be tax deductible provided that such organizations are not set up for the purpose of profits or gains to individual members of the society or associations:
+- Promotion or defense of human rights;
+- Women’s empowerment and development;
+- Reorientation, rehabilitation, welfare support service for orphans, widows, physically challenged, refugees and all categories of persons that may require social or economic rehabilitation and transformation;
+- Youth empowerment and development;
+- Leadership and resource development;
+- Promotion of national unity and patriotism;
+- Promotion of social and economic development;
+- Accident prevention and control activities;
+- Information system development and awareness;
+- Creation of awareness for transparency in governance and electoral processes;
+- Promotion of national unity and patriotism;
+- Museum development and promotion of sports, arts and culture;
+- Rendering assistance in the provision of safe water, electricity, infrastructure and agricultural development; and
+- Any professional body established under an Act of the National Assembly for the regulation and practice of the profession. [4]
+D. Value Added Tax
+The current VAT rate is 7.5 percent. Nigerian NGOs are not exempt from payment of VAT. However, VAT will not be assessed on the provision of certain goods and services, including:
+- Medical and pharmaceutical products;
+- Basic food items;
+- Books and educational materials;
+- Baby products;
+- Commercial vehicles and commercial vehicle parts;
+- Fertilizer, agricultural and veterinary medicine, farming machinery and farming transportation equipment;
+- All exports;
+- Medical services;
+- Services rendered by Community Banks, People's Bank and Mortgage Institutions;
+- Plays and performances conducted by educational institutions as part of learning;
+- All exported services;
+- Plant and machinery imported for use in the Export Processing Zone;
+- Plant, machinery and equipment purchased for utilization of gas in downstream petroleum operations; and
+- Tractors, ploughs and agricultural equipment and implements purchased for agricultural purposes (Value Added Tax Act 1993 Section 3 and Schedule; Value Added Tax Act and Schedule, as amended).
+E. Double Tax Treaties
+No double taxation treaty exists between the United States and Nigeria.
+F. Personal Income Tax
+Personal Income Tax is regulated by the Personal Income Tax Act 2004. The Personal Income Tax is levied on the income of an individual, community, family, trust, and other similar forms, but not on a company.
+The Personal Income Tax (Amendment) Act was assented to by the President of the Federal Republic of Nigeria on June 14, 2011 and publicized on December 12, 2011. Some of the major changes introduced by the Personal Income Tax (Amendment) Act 2011 include:
+- Introduction of Consolidated Relief Allowance (CRA) (Section 33) [5]
+- Subjection of temporary/contract staff to taxation under PITA (Section 3(1)b) [6]
+- Changes in the rules for taxation of non-resident individuals (Section 10(1)) [7]
+- Stiffer penalties for non-compliance with provisions of PITA (Section 47(3), 49(3), 52(1), 81(1)) [8]
+- New Pay-As-You-Earn (PAYE) filing requirement for employers and change in due date for filing of annual returns (Section 81) [9]
+- Introduction of new personal income tax rates (Section 34 (3)) [Sixth Schedule] [10]
+G. Money Laundering and Terrorism Financing
+Globally, money laundering and terrorism financing measures have increasingly impacted NPOs’ operations, including through regulating their ability to open and access bank accounts, and subjecting them to certain reporting obligations. While these measures do not impact equivalency determinations, this Note highlights some money laundering and terrorism financing measures which may impact NPOs in Nigeria to raise donors’ awareness of potential legal obstacles to their grantees’ work.
+In 2022, after sustained advocacy by civil society, the Economic and Financial Crimes Commission’s (EFCC) Special Control Unit against Money Laundering (SCUML), which supervises NPOs at risk of terrorism financing, exempted NPOs from certain anti-money laundering-related obligations (Money Laundering (Prevention and Prohibition) Act, 2022). However, certain NPOs must still undertake certain measures to counter risks of terrorism financing abuse, including verifying donor credentials and identities and filing quarterly activity reports with SCUML (Economic and Financial Crimes Commission (Special Control Unit against Money Laundering Supervision of NPOs that are at Risk of Terrorism Financing Abuse) Regulations, 2023). NPO grantees may require increased resources to comply with these obligations.
+Footnotes
+[1] Section 4(3) of the Guidelines for Attorney General’s Authority in Registering Companies Limited by Guarantee (2023) prohibits company objectives from engaging in political activities, such as donating to campaign funds, sponsoring election candidates, or collaborating with political parties for such purposes.
+[2] The list of taxes and levies for collection by the three tiers of government, as approved and published by the Joint Tax Board (J.T.B.), includes, but is not limited to: (1) Taxes collected by the Federal Government, including the companies income tax, withholding tax on companies, VAT, and certain categories of personal income tax; (2) Taxes collected by state governments, including personal income tax such as Pay-As-You-Earn (PAYE) and individual withholding tax; (3) Taxes collected by local governments, including right of occupancy fees, and merriment and road closure fees.
+[3] For purposes of the CITA, the term ‘company’ means any company or corporation (other than a "corporation sole") established by or under any law in force in Nigeria or elsewhere. Therefore, it appears that only not-for-profit organizations established as companies limited by guarantee or associations with incorporated trustees (the trustees of which are a body corporate) will be entitled to tax exemption under CITA Section 23(1) (c) and (d) or Section 23(2). Because the tax exemption is only available to companies, not-for-profit organizations such as charitable trusts formed under the common law and unincorporated associations are not eligible to receive tax exemption.
+[4] The recently launched National Tax Policy makes tax waivers/incentives broad-based rather than for selected organizations as was the case prior to the amendment of the schedule.
+[5] Personal relief granted in the Principal Act under the old Section 33 has been abrogated, while a consolidated relief allowance (CRA) in lieu of it has now been introduced under the new Section 33.
+A taxable person is now entitled to the higher of a consolidated relief allowance of N200,000 or 1 percent of gross income plus 20 percent of the gross income, with the balance taxable in accordance with the revised graduated income tax rates.
+This is an improvement on the provisions in the principal Act of personal allowance of N5,000 plus 20 percent of earned income, with earned income having a definition of gross income in the main Act and basic salary under the subsidiary PAYE regulations.
+[6] The PIT (Amendment) Act brought temporary employees or contract staff otherwise known as ”casual staff” into the Personal Income Tax net, effectively eliminating the argument that had persisted under the principal Act on the applicability of the PITA/PAYE to temporary or contract staff who do not hold employment letters issued by their employers.
+This amendment prevents companies using casual workers who are not on their payroll from avoiding the PAYE tax net.
+[7] The (Amendment) Act introduced more stringent rules in the taxation of non-resident individuals by amending the conditions for determining tax liability in Nigeria. The changes are:
+- Expatriates working in Nigeria on behalf of a Non-Nigerian employer but whose remuneration are borne by a fixed base in Nigeria are now liable to tax in Nigeria;
+- The days spent on annual leave or temporary periods of absence are included in the calculation of the 183 days residency rule qualifying non-residents for tax exemption in Nigeria; and
+- The recognition of the tax paid by the non-resident is limited to only the taxes paid in countries that have double taxation treaties with Nigeria.
+[8] The Principal Act made provision for fines of N5,000 for corporate bodies and N500 for individuals. Under the (Amendment) Act, this has been increased to N500,000 for corporate entities and N50,000 for individuals. The infringements mentioned in these sections clearly give rise to criminal liabilities, as they specify that the fines and penalties are to be imposed on conviction of the offenders.
+[9] Under the Principal Act, employers had no formal tax filing obligation, thus making compliance monitoring difficult. The provision under Section 41 of PITA, strictly speaking, put the obligation on private individuals to file their Personal Income Tax Returns on or before March 30 of every year. However, the PIT (Amendment) Act makes it a legal requirement for every employer of labor to file PAYE returns not later than January 31 of every year; showing all the emoluments paid to its staff in the preceding year.
+[10] The PIT (Amendment) Act provides for the following tax rates:
+- First N300,000 at 7 percent;
+- Next N300,000 at 11 percent;
+- Next N500,000 at 15 percent;
+- Next N500,000 at 19 percent;
+- Next N1,600,000 at 21 percent; and
+- Above N3,200,000 at 24 percent.

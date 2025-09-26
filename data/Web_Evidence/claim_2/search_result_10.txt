@@ -1,0 +1,13 @@
+https://logri.org/our-work/where-we-work/nigeria/
+Nigeria’s tax system is three-tiered, involving federal, state, and local governments. Property taxes, like ground rent, tenement rates, and land use charge, are levied by state and local governments for public service funding. The Nigerian constitution defines each government level’s tax and levy collection abilities, as per the Joint Tax Board and the Minister of Finance’s revisions.
+State tax affairs, including property taxes, are managed by the State Internal Revenue Service (SIRS). In Kaduna State, the Kaduna Geographic Information System (KADGIS) and Development Control handle property tax management, assisted by the Kaduna Internal Revenue Service (KADIRS) through an inter-ministry-department-agency unit for specialized collection and enforcement.
+In states like Enugu, Ondo, and Borno, SIRS chairs appoint property identification officers and assessors for tax base establishment. In Enugu, SIRS, with the State Ministry of Lands and Urban Development’s help, appoints an assessor to prepare valuation rolls, distributes tax notices, and appoints revenue collectors. Lagos state underwent property tax reform in 2001, consolidating several taxes into the Land Use Charge (LUC), managed by the Zonal Office for property identification and valuation. The original law was replaced in 2018 by the LUCL 2018, reflecting rate increases and other changes.
+Nigerian states, facing limited capacity and rapid urbanization, struggle to maximize property tax potential. Lagos state, grappling with property identification challenges due to a booming population and informal settlement growth, has implemented digital mapping and GIS for cadastral planning. An electronic GIS land administration portal has been introduced in Lagos State to enhance property tax collection and land management.
+Learn more:
+- Nnamani et.al (2023) : Barriers to Effective Property Tax Reform in Nigeria : Implementation of the Land Use Charge in Enugu State
+https://doi.org/10.1016/j.landusepol.2023.106544 - Goodfellow, Bolarinwa, and Owen (2018): The Land Use Charge Controversy in Lagos: What Lessons to Learn?
+https://www.ictd.ac/blog/land-use-charge-controversy-in-lagos-lessons/ - Goodfellow & Owen (2020): Thick Claims and Thin Rights : Taxation and the Construction of Analogue Property Rights in Lagos
+https://www.tandfonline.com/doi/full/10.1080/03085147.2020.1730587
+Featured Projects
+Related Media
+Photo credit to Eokwong

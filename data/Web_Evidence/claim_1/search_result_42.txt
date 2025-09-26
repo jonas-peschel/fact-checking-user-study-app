@@ -1,0 +1,25 @@
+https://taxfoundation.org/blog/economics-1986-tax-reform-didnt-create-growth/
+Recently, an article in The American Prospect claimed that the TaxA tax is a mandatory payment or charge collected by local, state, and national governments from individuals or businesses to cover the costs of general government services, goods, and activities. Cuts and Jobs Act (TCJA) will not lead to an increase in private investment, citing as evidence that even though the tax reform law of 1986 reduced the corporate tax rate from 46 percent to 34 percent, investment fell after the law passed. This data point has led commentators to assert that “corporate tax cuts don’t work.” But this analysis of the 1986 tax reform ignores other provisions of the law that counteracted the reduction in corporate tax rates.
+The case for a corporate tax cut goes something like this: a lower corporate tax rate means a lower cost of capital. A lower cost of capital means an expansion of capital stock. A larger capital stock means a larger economy, higher wages, and higher living standards. There is strong evidence for the responsiveness of investment to changes in effective tax rates.
+This is why most estimates of the economic impact of the TCJA project larger long-run GDP. This effect is driven primarily by the permanent corporate income tax rate cut from 35 percent to 21 percent, as most other provisions are scheduled to expire by 2026.
+While the 1986 law also reduced the corporate tax rate, the two laws are not strictly comparable. It is true that the ’86 reform drastically reduced the statutory corporate income taxA corporate income tax (CIT) is levied by federal and state governments on business profits. Many companies are not subject to the CIT because they are taxed as pass-through businesses, with income reportable under the individual income tax. rate like the TCJA. However, the ’86 reform included other provisions that actually made the cost of capital higher in spite of the lower corporate tax rate.
+In 2016, the Tax Foundation modeled a series of past tax reform bills, including the Tax Reform Act of 1986. This was the output of the model.
+| Provision | Long-Run Change in GDP | Static Change in Annual Revenue (billions of 1986 dollars) |
+|---|---|---|
+|
+Source: Tax Foundation Taxes and Growth Model |
+||
+| Tax capital gains as ordinary income | -2.59% | $10.91 |
+| Move from ACRS to MACRS | -1.81% | $8.24 |
+| Repeal the investment tax credit for businesses | -2.67% | $23.73 |
+| Expand the personal exemption and standard deduction | 0.56% | -$27.35 |
+| Collapse the 16-bracket structure to a 2-bracket structure | 2.97% | $3.78 |
+| Lower the corporate tax rate from 46% to 34% | 3.31% | -$24.25 |
+| TOTAL | -0.23% | -$4.93 |
+According to our model, reducing the corporate tax rate increased long-run GDP by 3.31 percent by lowering the marginal tax rate on capital.
+However, other provisions of the 1986 law raised the tax rate on capital. Taxing capital gains as ordinary income (in other words, raising capital gains taxes from 20 percent to 28 percent) raised the effective tax rate on capital, and reduced long-run GDP by 2.59 percent. Eliminating the investment tax credit for businesses and elongating depreciation schedules for business investment also raised taxes on capital, combined reducing long-run GDP by 2.67 percent and 1.81 percent respectively. Ultimately, the capital-related provisions of the 1986 law on net increased the marginal tax rate on capital. Therefore, a fall in capital investment would make sense.
+On net, the 1986 law had a negligible impact on long-run GDP overall, because while it increased taxes on capital, it lowered the marginal tax rate on labor. By reducing the top marginal income tax rate from 50 percent to 28 percent and reducing the number of income tax brackets from 16 to two, the 1986 act lowered the marginal tax rate on labor, leading to a higher supply of labor available in the economy.
+While 1986 tax reform did include a corporate tax cut, it on the whole raised taxes on capital. In contrast, the TCJA not only lowered the corporate tax rate, but also allows full and immediate expensing of short-lived capital investments for the next five years, significantly lowering, instead of raising, the effective tax rate on capital.
+Stay informed on the tax policies impacting you.
+Subscribe to get insights from our trusted experts delivered straight to your inbox.
+Subscribe

@@ -1,0 +1,110 @@
+https://usafacts.org/just-the-facts/us-federal-income-taxes/
+The federal government collected $4.9 trillion in revenue in 2024, 99% of which came from taxes. How much does the average American pay? And who pays the most?
+In this episode of Just the Facts: Federal taxes.
+There’s an old saying: the only two things you can count on are death and taxes. And today I want to skip the death part and just talk about taxes.
+Not the Boston Tea Party tax in 1773 that ignited the American Revolution. But federal taxes today.
+Hi. I’m Steve Ballmer, I spent 34 years growing Microsoft, 10 years owning the LA Clippers basketball team. I love computers, data and facts. That’s why I started USA Facts to help understand what our government is up to and what’s going on in America. I’ll share with you the facts and data, all from our government. You make up your own mind. In this episode of Just the Facts: Taxes.
+But first a quick disclaimer. As I talk, I do a lot of rounding of numbers but the data you see on screen will be more exact. So now let’s roll.
+In 2024, the federal government collected 4.9 trillion in revenue.
+That's a 4 and 9 and then 11 zeroes.
+99% of that money comes from taxes. And the biggest source of taxes?
+One: Individual Income Taxes. 2.4 Trillion. That's 49% of all the money the federal government takes in.
+Two: Payroll Taxes. 1.7 Trillion or 35% of the total.
+These are FICA taxes, and they are put away for Social Security and to partially fund Medicare.
+You pay 6.2% out of each paycheck for Social Security on wages up to $176,100.
+Employers, the people you work for, pay another 6.2% on your behalf.
+Unless you're self-employed, in which case you pay 12.4%. You also pay 1.45% for Medicare on all your wages. High earners pay an extra .9% Medicare tax after hitting $200,000 in income.
+For someone making the median household income in this country, that is, half of people make more, and half make less, which is $80,610, this would amount to $4,998 for Social Security, and $1,169 in Medicare.
+Corporate Income Taxes are number three: $530 billion, or 11% of total tax revenue. Only so-called C corporations pay taxes.
+Other companies, such as partnerships and sole proprietorships, pay simply individual income tax.
+Other Federal Taxes amount to $220 billion, or 4% of the total.
+This includes customs duties, which are taxes on imported goods, including tariffs.
+Excise taxes are part of this. That's $101 billion. And those are special taxes that the federal government places on gas, alcohol and tobacco and others. Special taxes.
+Estate and gift taxes equal $32 billion in revenue.
+These are taxes on inheritance or gifts. And specifically on estates over 13.99 million and gifts over $19,000.
+All right. We know where the money comes from. Now let's break down the biggest category and talk about how income taxes work.
+One important wrinkle in understanding taxes is that not all income is taxed, and not all income is taxed in the same way.
+The tax code has a lot of nooks and crannies, often called deductions and tax credits.
+A tax deduction allows a taxpayer to lower the amount of income they're taxed on, a tax credit comes in after someone calculates what they owe in taxes and actually lowers what is due to the IRS.
+Here are some of the common deductions:
+There is something called the Standard Deduction, it’s on the tax form and allows taxpayers to automatically deduct a fixed amount from their total income without the need to itemize deductions.
+As a taxpayer you can either take the standard deduction or you can itemize. Most people take whichever is larger.
+For the 2025 tax year, the standard deduction amounts are for single or married people filing separately $15,000. For a married couple filing together, $30,000. And for someone who is unmarried but has a dependent child: $22,500.
+As of 2022, 88% of filers just used the standard deduction.
+If you choose to itemize, here are some of the things you might use.
+First: The Mortgage Interest Deduction. This deduction was used by approximately 12 million taxpayers in 2022. Homeowners can deduct the interest they pay on home loans up to $750,000 on mortgages on just their primary home.
+Second: Charitable Donations – if you donate to a qualified charity, you can deduct that amount from your taxable income. So, if your income is, let's say, $150,000 and you gave $4,000 to charity, you would pay your taxes on an income of $146,000.
+Another deduction is The State and Local Tax, sometimes called the SALT Deduction.
+This deduction allows taxpayers who itemized deductions to deduct certain state and local taxes from their federally taxable income.
+The SALT deduction is currently capped at $10,000, or $5,000, for married couples filing separately.
+There are many other deductions, but those are the most common.
+It’s important to note that your actual tax rate is determined after deductions.
+The U.S. has a progressive tax system. That means that the more you make, the higher your tax rate. But not all of your money gets taxed at the same rate.
+These are the current tax brackets for a single filer. The brackets are different for married couples.
+It's like a staircase, with each step representing a higher tax rate. You don't pay the higher rate on all your income. Just on the portion above each step.
+You can see as a person’s income goes up, the percent paid in taxes does too.
+The lowest rate is 10% on the first $11,600 of income.
+The highest rate is 37%. And that applies to income over 609,350.
+Here’s a quick example:
+Let's say you made $65,000 in 2024, and you're going to take the standard deduction as a single person of $15,000.
+That means your taxable income is actually $50,000.
+Then we start computing the tax you owe. Your first $11,600 is taxed at 10%. In other words, $1,160.
+The next $35,550 of your taxable income is taxed at 12%, $4,266.
+The rest of your income, over 47,150, is taxed at 22%, or $627.
+You would owe $6,053, which is just under 10% of your overall income.
+Another source of income is from what is called capital gains. A capital gain results from the profit or gain from the sale of an asset that is increased in value.
+This includes stocks, bonds, real estate such as houses and farms, cryptocurrencies, businesses and even collectible items.
+Capital gains taxes have different rates. Currently for 2025, these are the rates:
+The top capital gains rate is 20%. That's the max. Well kind of. There's a 3.8% surtax on capital gains. It was implemented in 2013 to help fund Medicare as part of the Affordable Care Act.
+Finally, we have tax credits. Remember that tax credits are actually taken off the tax that you owe.
+In certain instances, tax credits can be refundable, resulting in a payment to a taxpayer even if no tax is due. Whether you choose to itemize or take the standard deduction, you can use tax credits if you meet the criteria.
+An example: if you owe $10,000 in taxes and you get a $2,000 tax credit, then you only owe $8,000.
+Here are some of the big tax credits.
+One: The Child Tax Credit…which is $2,000 per child under the age of 17. This tax credit fades out by $50 for every $1,000 that you make over $200,000, or 400,000 for married couples.
+Second: is The Earned Income Tax Credit...or the EITC. That's available to people who are working but earn less than a specific income level from their work. The income level ranges from $18,591, if you're single with no children…
+…to $66,819 if you're married, filing jointly with three or more children.
+Both the Child Tax Credit and the EITC are refundable so the taxpayer will get a cash refund even if they don't owe any taxes.
+Example: a head of a household with three children under 17 and earnings of $22,000 would take the standard deduction of $22,500; more than their income and therefore would owe no income taxes.
+However, they still get a check for around $13,146.
+This accounts for $5,100 in refundable child tax credits and $8,046 in EITC.
+Keep in mind these filers nonetheless pay payroll taxes out of each paycheck.
+Tax credits cost the government about $309 billion in 2022, and that's the most recent number available.
+Third: Education Credits
+These help offset tuition costs for four-year and two-year colleges, graduate school, retraining programs and other educational needs.
+Those are just a few of the many tax credits that are available.
+Now let's see how many people actually fall into each group when they file their taxes.
+First there's 161 million tax filers. And of that, the tax bracket with the most filers is a 12% tax rate. That's over 53 million returns.
+And that's incomes up to $41,775 for single filers and $83,550 for people filing jointly. They make up 33% of tax filers, and they pay 7% of all federal income tax.
+You can see that the top 3% of filers, just over 4.8 million taxpayers, pay the 32, 35 and 37% tax rates. Those 3% of Americans account for half of total federal income taxes.
+But how much are people actually paying?
+Let's go back to the 12% tax bracket. The average adjusted gross income in that tax bracket is $54,611, and the average tax paid for that tax bracket is $2,910, after deductions and credits, which is a rate of about 5%.
+The average tax rate for the richest 1% of tax filers who have an average adjusted gross income of over $2.2 million is 27%.
+Of course, federal taxes aren't the only taxes people pay. State and local governments collect their own taxes.
+In 2022, which is the most recent number available, state and local governments collected $2.4 trillion, on top of the federal total of 4.8 trillion.
+Every state has their own tax structure. Income taxes or sales taxes, property taxes, and many other taxes and fees… varies all over the map.
+Example: these states have no income tax.
+These have no sales tax.
+These states don't tax diapers. You get the point.
+It's important to note the tax policy changes a lot. And it certainly drives a lot of what gets discussed in Washington, DC.
+Here's how individual tax brackets have changed over the last three decades.
+The Tax Reform Act of 1986 reduced the number of brackets from 14. -- that's a lot of brackets - to just two, with rates of 15% and 28%.
+Through the years, there have been six other big changes, the most recent with the Tax Cuts and Jobs Act of 2017, called the TCJA, but also called the Trump tax cuts. It lowered most rates from 2012, leaving us with seven rates as of the date of this recording, which is March 17th of 2025.
+Side note: in addition to changing the tax brackets, tax reforms often impact individual deductions and tax credits which are all too numerous to go through here.
+How do these changes in tax rates really impact people?
+$55,000 dollars was the average pretax income among all tax filers married, single and head of household in the 12% tax bracket in 2022, compared to the 15% tax bracket in 2017.
+They paid an effective rate - that is, after credits and deductions - of 5% in 2022 and 7% in 2017, a difference of two percentage points.
+Now let’s spend a moment taking a look at corporate taxes. They've remained much more stable during the 30-year period we covered above.
+Prior to 1986, corporations faced a complex tax structure with a top rate of 46%
+In 1986, Washington reduced the top rate from 46% to 34% and imposed three tax rate brackets with rates of 15, 25, and 34%.
+It changed in 1993, effectively adding a fourth bracket, and remained in place until the 2017 tax cuts eliminated all corporate tax brackets and replaced them with a flat corporate tax rate of 21%. So, the top rate went from 34% to 21% for every business.
+Also in 2022, the Corporate Alternative Minimum Tax was put in place by the Biden administration to ensure that profitable corporations pay a minimum tax of 15%, despite any tax credits or deductions that get used.
+In addition to the normal deductions that companies can take for expenses, salaries, etc., there are also tax credits for corporations. Credits include a research and development tax credit, one for farm machinery, oil exploration, clean energy investment and many more.
+When Washington debates taxes, there's a whole lot of lobbying over what tax breaks should be kept, increased, cut or eliminated for corporations.
+Looking ahead, the individual tax cuts put in place in 2017 expire at the end of this year, 2025, meaning tax rates will return to pre-2017 levels unless Congress takes action.
+The corporate tax reduction from 35% to 21% passed in 2017 was permanent, meaning the 21% corporate tax rate will remain in place unless Congress enacts new legislation to change that.
+As of the recording of this video, Congress has not acted, but that may have changed. Visit USAfacts.org for updates.
+Nothing about taxes is simple or easy. To learn more, I'd recommend watching our Economy video and our new video coming out soon on tariffs and trade.
+Now, when you hear or read about a tax policy debate in Washington, you'll know when they're talking facts or talking nonsense.
+That's our mission at Just the Facts. You get the data. You make up your own mind. Just the Facts from USAFacts. You decide what you believe.
+All of the data on the page was sourced directly from government agencies. The analysis and final review was performed by USAFacts.
+Subscribe to our weekly newsletter to get data-backed answers to today’s most debated issues

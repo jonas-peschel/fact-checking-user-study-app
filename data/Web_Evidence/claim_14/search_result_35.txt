@@ -1,0 +1,6 @@
+https://www.statescape.com/resources/legislative/bill-effective-dates/
+While some bills may specify an effective date, most states have default rules that govern the effective dates of newly signed laws. For bills that do not specify an effective date, the guidelines below can be used to calculate one.
+While some bills may specify an effective date, most states have default rules that govern the effective dates of newly signed laws. For bills that do not specify an effective date, the guidelines below can be used to calculate one.
+| State | Effective Dates |
+|---|---|
+| {{state.Name}} | {{state.Backdrop.EffectiveDates}} |

@@ -1,0 +1,18 @@
+https://www.aeaweb.org/articles?id=10.1257/jep.38.3.61
+Journal of Economic Perspectives
+ISSN 0895-3309 (Print) | ISSN 1944-7965 (Online)
+Lessons from the Biggest Business Tax Cut in US History
+Journal of Economic Perspectives
+(pp. 61–88)
+(Complimentary)
+Abstract
+We assess the business provisions of the 2017 Tax Cuts and Jobs Act, the biggest corporate tax cut in US history. We draw five lessons. First, corporate tax revenue fell by 40 percent due to the lower rate and more generous expensing. Second, firms with larger declines in their effective tax wedge increased investment relatively more. In aggregate, we suggest a loose consensus from the literature that total tangible corporate investment increased by 11 percent. Third, the business tax provisions increased economic growth and wages by less than advertised by the Act's proponents, with long-run GDP higher by less than 1 percent and labor income by less than $1,000 per employee. Fourth, provisions that increase foreign investment by US-based multinationals also boost their domestic operations. Fifth, some of the expired and expiring provisions, such as accelerated depreciation, generate more investment per dollar of tax revenue than others.Citation
+Chodorow-Reich, Gabriel, Owen Zidar, and Eric Zwick. 2024. "Lessons from the Biggest Business Tax Cut in US History." Journal of Economic Perspectives 38 (3): 61–88. DOI: 10.1257/jep.38.3.61Additional Materials
+JEL Classification
+- E22 Investment; Capital; Intangible Capital; Capacity
+- E23 Macroeconomics: Production
+- F23 Multinational Firms; International Business
+- H25 Business Taxes and Subsidies including sales and value-added (VAT)
+- G31 Capital Budgeting; Fixed Investment and Inventory Studies; Capacity
+- J31 Wage Level and Structure; Wage Differentials
+- K34 Tax Law

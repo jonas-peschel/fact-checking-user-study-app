@@ -1,0 +1,429 @@
+[
+    {
+        "url": "https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trumps-historic-tax-cuts-delivering-real-savings-creating-opportunity-americans/",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "President Donald J. Trump's Historic Tax Cuts Are Delivering Real ...",
+        "date": "Apr 15, 2019"
+    },
+    {
+        "url": "https://www.brookings.edu/articles/the-middle-class-needs-a-tax-cut-trump-didnt-give-it-to-them/",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "The middle class needs a tax cut: Trump didn't give it to them",
+        "date": null
+    },
+    {
+        "url": "https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-achieved-biggest-tax-cuts-reforms-american-history/",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "President Donald J. Trump Achieved the Biggest Tax Cuts and ...",
+        "date": "Feb 5, 2018"
+    },
+    {
+        "url": "https://www.brookings.edu/articles/effects-of-the-tax-cuts-and-jobs-act-a-preliminary-analysis/",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Effects of the Tax Cuts and Jobs Act: A preliminary analysis | Brookings",
+        "date": null
+    },
+    {
+        "url": "https://www.crfb.org/blogs/president-trumps-tax-cut-largest-history-yet",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Is President Trump's Tax Cut the Largest in History Yet?",
+        "date": "Oct 25, 2017"
+    },
+    {
+        "url": "https://www.bbc.com/news/world-43790895",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "US tax cuts: Are they the biggest in American history? - BBC",
+        "date": "Apr 17, 2018"
+    },
+    {
+        "url": "https://taxfoundation.org/research/all/federal/trump-tax-cuts-2025-budget-reconciliation/",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Budget Reconciliation: Tracking the 2025 Trump Tax Cuts",
+        "date": null
+    },
+    {
+        "url": "https://x.com/RepBost/status/1965172211389731176",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Rep. Mike Bost - X",
+        "date": "15 hours ago"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Tax Cuts and Jobs Act - Wikipedia",
+        "date": null
+    },
+    {
+        "url": "https://www.afscme.org/blog/trumps-alleged-tax-cut-for-the-middle-class-has-been-anything-but",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Trump's Alleged Tax Cut for the Middle Class Has Been Anything But",
+        "date": "Jan 6, 2020"
+    },
+    {
+        "url": "https://www.cnn.com/2017/12/15/politics/is-trumps-bill-largest-tax-cut-in-history-no",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "The biggest tax cut in history? Not quite. | CNN Politics",
+        "date": "Dec 15, 2017"
+    },
+    {
+        "url": "https://www.bbc.com/news/world-us-canada-42429424",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Trump hails 'largest tax cut' in US history - BBC",
+        "date": "Dec 20, 2017"
+    },
+    {
+        "url": "https://donnellonlaw.com/blog/which-tax-bracket-benefited-most-from-the-trump-tax-cut/",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Who Did Trump's Tax Cut Help the Most? New Data Tell Us.",
+        "date": null
+    },
+    {
+        "url": "https://www.rev.com/transcripts/eric-trump-2020-rnc-speech-transcript",
+        "search_string": "Eric Trump Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "claim+author",
+        "title": "Eric Trump 2020 RNC Speech Transcript - Rev",
+        "date": null
+    },
+    {
+        "url": "https://www.crfb.org/blogs/president-trumps-tax-cut-largest-history",
+        "search_string": "Eric Trump Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "claim+author",
+        "title": "Is President Trump's Tax Cut the Largest in History?-2017-04-26",
+        "date": "Apr 26, 2017"
+    },
+    {
+        "url": "https://ctj.org/donald-trumps-12-trillion-tax-cut/",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Donald Trump's $12 Trillion Tax Cut | Citizens for Tax Justice",
+        "date": "Sep 28, 2015"
+    },
+    {
+        "url": "https://www.pbs.org/newshour/politics/ap-fact-check-trumps-tax-miracle-immigration-claims",
+        "search_string": "Eric Trump Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "claim+author",
+        "title": "AP fact check: Trump's tax 'miracle,' immigration claims | PBS News",
+        "date": "Jul 2, 2018"
+    },
+    {
+        "url": "https://www.theguardian.com/business/2019/oct/09/trump-tax-cuts-helped-billionaires-pay-less",
+        "search_string": "Eric Trump Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "claim+author",
+        "title": "Trump's tax cuts helped billionaires pay less than the working class ...",
+        "date": "Oct 9, 2019"
+    },
+    {
+        "url": "https://www.brookings.edu/articles/did-the-2017-tax-cut-the-tax-cuts-and-jobs-act-pay-for-itself/",
+        "search_string": "Eric Trump Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "claim+author",
+        "title": "Did the 2017 tax cut\u2014the Tax Cuts and Jobs Act\u2014pay for itself?",
+        "date": "Feb 14, 2020"
+    },
+    {
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-asks-supreme-court-for-emergency-order-to-keep-billions-of-dollars-in-foreign-aid-frozen",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump administration asks Supreme Court for emergency order to ...",
+        "date": "23 hours ago"
+    },
+    {
+        "url": "https://www.bbc.com/news/articles/c237vkk10l0o",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump asks Supreme Court to allow billions in foreign aid cuts - BBC",
+        "date": "21 hours ago"
+    },
+    {
+        "url": "https://www.aeaweb.org/articles?id=10.1257/jep.38.3.61",
+        "search_string": "What was the biggest tax cut in U S history?",
+        "search_type": "question",
+        "title": "Lessons from the Biggest Business Tax Cut in US History",
+        "date": null
+    },
+    {
+        "url": "https://www.cbsnews.com/news/trump-supreme-court-foreign-aid/",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump administration asks Supreme Court to let it freeze billions in ...",
+        "date": "23 hours ago"
+    },
+    {
+        "url": "https://www.nbcnews.com/politics/supreme-court/trump-asks-supreme-court-allow-4-billion-foreign-aid-cuts-rcna229794",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump asks Supreme Court to allow $4 billion in foreign aid cuts",
+        "date": "23 hours ago"
+    },
+    {
+        "url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump Tariffs: Tracking the Economic Impact of the Trump Trade War",
+        "date": null
+    },
+    {
+        "url": "https://www.aljazeera.com/news/2025/9/8/trump-asks-supreme-court-to-let-it-cut-billions-in-foreign-aid",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump asks Supreme Court to let it cut billions in foreign aid",
+        "date": "19 hours ago"
+    },
+    {
+        "url": "https://www.cnbc.com/2025/09/08/trump-tariff-refund-trade-treasury-bessent-supreme-court.html",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump tariff refunds possible as Supreme Court fight looms - CNBC",
+        "date": "16 hours ago"
+    },
+    {
+        "url": "http://democrats-appropriations.house.gov/trumps-unprecedented-funding-freeze-hits-communities-across-america",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump's Unprecedented Funding Freeze Hits Communities Across ...",
+        "date": null
+    },
+    {
+        "url": "https://www.appropriations.senate.gov/news/minority/new-weeks-away-from-end-of-fiscal-year-trump-is-blocking-410-billion-dollars-in-funding-owed-to-communities-nationwide",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "NEW: Weeks Away from End of Fiscal Year, Trump is Blocking $410 ...",
+        "date": "24 hours ago"
+    },
+    {
+        "url": "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/erisa/ebsa-addresses-trump-administration-pension-investing-priorities-at-oecd-event",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "EBSA Addresses Trump Administration's Pension Investing Priorities ...",
+        "date": "1 day ago"
+    },
+    {
+        "url": "https://trumpwhitehouse.archives.gov/issues/budget-spending/",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Budget & Spending - Trump White House Archives",
+        "date": null
+    },
+    {
+        "url": "https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Clemency Grants by President Donald J. Trump (2025-Present)",
+        "date": null
+    },
+    {
+        "url": "https://ag.ny.gov/press-release/2019/donald-j-trump-pays-court-ordered-2-million-illegally-using-trump-foundation",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Donald J. Trump Pays Court-Ordered $2 Million For Illegally Using ...",
+        "date": "Dec 10, 2019"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Wealth_of_Donald_Trump",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Wealth of Donald Trump - Wikipedia",
+        "date": null
+    },
+    {
+        "url": "https://yaf.org/news/on-this-day-in-history-president-reagan-signs-largest-tax-cut-in-us-history/",
+        "search_string": "What was the biggest tax cut in U S history?",
+        "search_type": "question",
+        "title": "On This Day In History: President Reagan Signs Largest Tax Cut In ...",
+        "date": null
+    },
+    {
+        "url": "https://www.mlive.com/politics/2025/09/trump-shares-misleading-video-alleging-5b-money-laundering-scheme-in-michigan-budget.html",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump shares misleading video alleging $5B money laundering ...",
+        "date": "17 hours ago"
+    },
+    {
+        "url": "https://www.pbs.org/newshour/show/news-wrap-democrats-release-birthday-message-trump-allegedly-sent-to-jeffrey-epstein",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "News Wrap: Democrats release birthday message Trump allegedly ...",
+        "date": "14 hours ago"
+    },
+    {
+        "url": "https://www.investopedia.com/donald-trump-presidency-economic-impact-8666666",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "How Trump's Second Term Could Shape the US Economy",
+        "date": null
+    },
+    {
+        "url": "https://trumpwhitehouse.archives.gov/articles/president-donald-j-trump-donate-salary-department-education/",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "President Donald J. Trump to Donate Salary to the Department of ...",
+        "date": "Jul 26, 2017"
+    },
+    {
+        "url": "https://www.nbcnews.com/politics/2028-election/trump-helps-pad-jd-vances-political-fund-questions-2028-loom-rcna229402",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "Trump helps pad JD Vance's political fund as questions about 2028 ...",
+        "date": "1 day ago"
+    },
+    {
+        "url": "https://finance.yahoo.com/news/president-donald-trump-just-made-070600067.html",
+        "search_string": "What did President trump do with the money?",
+        "search_type": "question",
+        "title": "President Donald Trump Just Made Stock Market History by Doing ...",
+        "date": "2 days ago"
+    },
+    {
+        "url": "https://taxfoundation.org/blog/economics-1986-tax-reform-didnt-create-growth/",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "The Economics of 1986 Tax Reform, and Why It Didn't Create Growth",
+        "date": "Jul 17, 2018"
+    },
+    {
+        "url": "https://red.library.usd.edu/honors-thesis/133/",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Tax Reform Throughout U.S. History and The Economic Impact",
+        "date": null
+    },
+    {
+        "url": "https://protectprosperity.com/updates/undisputable-benefits-of-tax-reform/",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "4 Undisputable Benefits of Tax Reform - Protect Prosperity",
+        "date": null
+    },
+    {
+        "url": "https://nam.org/issues/tax/",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Tax Increases Threaten American Jobs and Wages - NAM",
+        "date": null
+    },
+    {
+        "url": "https://www.hamiltonproject.org/publication/economic-fact/a-dozen-economic-facts-about-tax-reform/",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "A dozen economic facts about tax reform - The Hamilton Project",
+        "date": "May 3, 2012"
+    },
+    {
+        "url": "https://www.brookings.edu/articles/dont-buy-the-sales-tax/",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Don't Buy the Sales Tax | Brookings",
+        "date": null
+    },
+    {
+        "url": "https://www.westernasset.com/us/en/research/whitepapers/policy-matters-tax-reform-then-and-now-2017-11.cfm",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Tax Reform: Then and Now | Western Asset",
+        "date": "Nov 6, 2017"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Tax_Reform_Act_of_1986",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Tax Reform Act of 1986 - Wikipedia",
+        "date": null
+    },
+    {
+        "url": "https://www.heritage.org/blueprint-balance/policy-agenda/pro-growth-tax-reform",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Pro-Growth Tax Reform | The Heritage Foundation",
+        "date": null
+    },
+    {
+        "url": "https://www.finance.senate.gov/download/2010/09/23/92310rwtest",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "[PDF] How Did the 1986 Tax Reform Act Attract So Much Support?",
+        "date": "Sep 23, 2010"
+    },
+    {
+        "url": "https://itrfoundation.org/05-01-18/",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "The Historical Success Story of Tax Cuts - - ITR Foundation",
+        "date": null
+    },
+    {
+        "url": "https://obamawhitehouse.archives.gov/issues/taxes",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Taxes | whitehouse.gov - Obama White House",
+        "date": null
+    },
+    {
+        "url": "https://www.heritage.org/taxes/report/the-historical-lessons-lower-tax-rates",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "The Historical Lessons of Lower Tax Rates | The Heritage Foundation",
+        "date": null
+    },
+    {
+        "url": "https://www.hoover.org/research/corporate-tax-reform-0",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Corporate Tax Reform - Hoover Institution",
+        "date": null
+    },
+    {
+        "url": "https://siepr.stanford.edu/publications/policy-brief/tax-reform-optimal-equation",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Tax Reform: An Optimal Equation",
+        "date": null
+    },
+    {
+        "url": "https://www.investopedia.com/articles/tax/10/concise-history-tax-changes.asp",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "A History of U.S. Tax Law Changes - Investopedia",
+        "date": null
+    },
+    {
+        "url": "https://www.imf.org/en/Publications/fandd/issues/2018/03/akitoby",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "Improving Tax Collection, Raising Tax Revenue and Lessons in Tax ...",
+        "date": null
+    },
+    {
+        "url": "https://www.finance.senate.gov/download/tax-reform-lessons-from-the-tax-reform-act-of-1986",
+        "search_string": "Was the tax reform a success?",
+        "search_type": "question",
+        "title": "[PDF] LESSONS FROM THE TAX REFORM ACT OF 1986 HEARING",
+        "date": "Sep 23, 2010"
+    },
+    {
+        "url": "https://itep.org/federal-tax-cuts-in-the-bush-obama-and-trump-years/",
+        "search_string": "Eric Trump Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "claim+author",
+        "title": "Federal Tax Cuts in the Bush, Obama, and Trump Years \u2013 ITEP",
+        "date": "Jul 11, 2018"
+    },
+    {
+        "url": "https://itep.org/category/trump-tax-policies/",
+        "search_string": "Donald Trump delivered the largest tax cuts in American history.",
+        "search_type": "raw-claim",
+        "title": "Trump Tax Policies \u2013 ITEP",
+        "date": null
+    }
+]

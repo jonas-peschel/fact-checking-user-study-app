@@ -1,0 +1,535 @@
+https://www.govtrack.us/congress/bills/statistics
+Statistics and Historical Comparison
+Here are counts of bills and resolutions by status and by when they were introduced or enacted.
+Bills by Final Status
+This table breaks down the bills and resolutions introduced in each two-year Congress by their final status. Note that the current Congress is not yet finished.
+Since World War II (the earliest we have data), Congress has typically enacted 4-6 million words of new law in each two-year Congress. However, those words have been enacted in fewer but larger bills. Therefore, the generally decreasing number of bills enacted into law does not reflect less legislative work is occurring.
+Counts & Percents | Counts Only | Percents Only
+| Congress | Enacted Legislation (including via incorporation) | Enacted Legislation | Passed Resolutions | Got A Vote | Failed Legislation | Vetoed Bills (without Override) | Other Legislation | TOTAL |
+|---|---|---|---|---|---|---|---|---|
+|
+119th
+Jan. 3, 2025
+-present |
+1%
+|
+0%
+|
+3%
+|
+3%
+|
+0%
+|
+0%
+|
+94%
+|
+9,182 |
+|
+118th
+Jan. 3, 2023
+-Jan. 3, 2025 |
+3%
+|
+1%
+|
+4%
+|
+4%
+|
+0%
+|
+0%
+|
+91%
+|
+19,315 |
+|
+117th
+Jan. 3, 2021
+-Jan. 3, 2023 |
+7%
+|
+2%
+|
+4%
+|
+4%
+|
+0%
+|
+0%
+|
+90%
+|
+17,817 |
+|
+116th
+Jan. 3, 2019
+-Jan. 3, 2021 |
+7%
+|
+2%
+|
+4%
+|
+4%
+|
+0%
+|
+0%
+|
+89%
+|
+16,601 |
+|
+115th
+Jan. 3, 2017
+-Jan. 3, 2019 |
+8%
+|
+3%
+|
+6%
+|
+6%
+|
+0%
+|
+0%
+|
+85%
+|
+13,556 |
+|
+114th
+Jan. 6, 2015
+-Jan. 3, 2017 |
+6%
+|
+3%
+|
+6%
+|
+5%
+|
+0%
+|
+0%
+|
+86%
+|
+12,063 |
+|
+113th
+Jan. 3, 2013
+-Jan. 2, 2015 |
+4%
+|
+3%
+|
+6%
+|
+4%
+|
+0%
+|
+0%
+|
+86%
+|
+10,637 |
+|
+112th
+Jan. 5, 2011
+-Jan. 3, 2013 |
+4%
+|
+2%
+|
+6%
+|
+3%
+|
+0%
+|
+0%
+|
+88%
+|
+12,299 |
+|
+111th
+Jan. 6, 2009
+-Dec. 22, 2010 |
+5%
+|
+3%
+|
+11%
+|
+4%
+|
+0%
+|
+0%
+|
+82%
+|
+13,675 |
+|
+110th
+Jan. 4, 2007
+-Jan. 3, 2009 |
+5%
+|
+3%
+|
+10%
+|
+6%
+|
+0%
+|
+0%
+|
+80%
+|
+14,042 |
+|
+109th
+Jan. 4, 2005
+-Dec. 9, 2006 |
+5%
+|
+4%
+|
+8%
+|
+5%
+|
+0%
+|
+0%
+|
+84%
+|
+13,072 |
+|
+108th
+Jan. 7, 2003
+-Dec. 9, 2004 |
+6%
+|
+5%
+|
+8%
+|
+7%
+|
+0%
+|
+0%
+|
+80%
+|
+10,669 |
+|
+107th
+Jan. 3, 2001
+-Nov. 22, 2002 |
+4%
+|
+4%
+|
+6%
+|
+6%
+|
+0%
+|
+0%
+|
+84%
+|
+10,789 |
+|
+106th
+Jan. 6, 1999
+-Dec. 15, 2000 |
+7%
+|
+6%
+|
+7%
+|
+6%
+|
+0%
+|
+0%
+|
+81%
+|
+10,840 |
+|
+105th
+Jan. 7, 1997
+-Dec. 19, 1998 |
+6%
+|
+4%
+|
+7%
+|
+6%
+|
+1%
+|
+0%
+|
+82%
+|
+9,141 |
+|
+104th
+Jan. 4, 1995
+-Oct. 4, 1996 |
+5%
+|
+4%
+|
+8%
+|
+6%
+|
+0%
+|
+0%
+|
+82%
+|
+7,991 |
+|
+103rd
+Jan. 5, 1993
+-Dec. 1, 1994 |
+6%
+|
+5%
+|
+5%
+|
+5%
+|
+0%
+|
+0%
+|
+85%
+|
+9,822 |
+|
+102nd
+Jan. 3, 1991
+-Oct. 9, 1992 |
+7%
+|
+5%
+|
+5%
+|
+5%
+|
+0%
+|
+0%
+|
+84%
+|
+12,016 |
+|
+101st
+Jan. 3, 1989
+-Oct. 28, 1990 |
+8%
+|
+6%
+|
+5%
+|
+5%
+|
+0%
+|
+0%
+|
+84%
+|
+11,787 |
+|
+100th
+Jan. 6, 1987
+-Oct. 22, 1988 |
+9%
+|
+7%
+|
+3%
+|
+5%
+|
+0%
+|
+0%
+|
+85%
+|
+11,278 |
+|
+99th
+Jan. 3, 1985
+-Oct. 18, 1986 |
+8%
+|
+6%
+|
+3%
+|
+5%
+|
+0%
+|
+0%
+|
+86%
+|
+11,602 |
+|
+98th
+Jan. 3, 1983
+-Oct. 12, 1984 |
+7%
+|
+6%
+|
+3%
+|
+5%
+|
+0%
+|
+0%
+|
+87%
+|
+12,202 |
+|
+97th
+Jan. 5, 1981
+-Dec. 23, 1982 |
+5%
+|
+4%
+|
+3%
+|
+4%
+|
+0%
+|
+0%
+|
+89%
+|
+13,236 |
+|
+96th
+Jan. 15, 1979
+-Dec. 16, 1980 |
+6%
+|
+5%
+|
+6%
+|
+4%
+|
+0%
+|
+0%
+|
+85%
+|
+14,590 |
+|
+95th
+Jan. 4, 1977
+-Oct. 15, 1978 |
+5%
+|
+4%
+|
+4%
+|
+3%
+|
+0%
+|
+0%
+|
+89%
+|
+22,313 |
+|
+94th
+Jan. 14, 1975
+-Oct. 1, 1976 |
+4%
+|
+3%
+|
+4%
+|
+3%
+|
+0%
+|
+0%
+|
+90%
+|
+24,285 |
+|
+93rd
+Jan. 3, 1973
+-Dec. 20, 1974 |
+4%
+|
+3%
+|
+3%
+|
+2%
+|
+0%
+|
+0%
+|
+91%
+|
+26,222 |
+Here is what we mean in each column:
+- Enacted Legislation (including via incorporation): Enacted bills including bills (and joint resolutions) identical to or incorporated into enacted legislation, based on an approximate, automated GovTrack.us data analysis that varies by Congress
+- Enacted Legislation: Enacted bills that were either signed by the president or enacted via a veto override or the 10-day rule (including joint resolutions which can also be enacted as law)
+- Passed Resolutions: Passed resolutions (for joint and concurrent resolutions, we mean passed both chambers)
+- Got A Vote: Bills and resolutions that had a significant vote in one chamber but were not enacted (or, for resolutions, passed)
+- Failed Legislation: Bills and resolutions that failed a vote on passage and are dead or failed a significant vote such as cloture, passage under suspension, or resolving differences
+- Vetoed Bills (without Override): Vetoed bills that was not overridden by Congress
+- Other Legislation: Bills and resolutions that were introduced or reported by committee but did not have further action
+When does Congressional activity occur?
+These charts show when during the course of the two-year Congressional sessions activity tends to occur. Note that each Congress starts a few days into January and finishes a few days into January two calendar years later.
+This first chart shows when bills and resolutions tend to be introduced. It shows that legislation tends to be introduced early on in the session.
+This next chart shows when bills and joint resolutions tend to be enacted (either by being signed by the president or by a veto being overridden). It shows that about half of all legislation that will be enacted is enacted only in the final quarter of the session.
+Use the cumulative percent charts to estimate how much has yet to occur in the current session of Congress. For instance, the cumulative percent of bills enacted for December in the first year of a session is 33%, meaning that while the session is half over, only one-third of the number of bills that will be enacted have been enacted by that point.

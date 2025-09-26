@@ -1,0 +1,104 @@
+https://justfacts.votesmart.org/candidate/key-votes/117285/rand-paul
+Vote Smart provides easy access to congressional and state voting records and maintains a collection of key votes grouped by issue. Vote Smart uses the following criteria to select key votes:
+Vote Smart provides a summary of the version of the bill text associated with each selected key vote. Our summaries are written by Vote Smart's staff and interns, who adhere to our strict policies and procedures in order to guarantee absolute impartiality and accuracy. They do not necessarily reflect the content of the final version of the bill, but rather the version voted on in that stage. While many procedural votes take place before a full chamber vote, our voting stages reflect the final reading of each chamber vote. Each key vote selection is reviewed by the project's community of advisors, who are political scientists and journalists from all fifty states.
+For more information about the legislative process, see here.
+| Bill No. | S 2296 |
+|---|---|
+| Outcome | Motion Vote - Motion Agreed - Senate (83 - 13) |
+| Date | 09/04/2025 |
+| Bill No. | S 2296 |
+|---|---|
+| Outcome | Cloture Vote - Cloture Invoked - Senate (84 - 14) |
+| Date | 09/02/2025 |
+| Bill No. | PN 12-26 |
+|---|---|
+| Outcome | Cloture Vote - Cloture Invoked - Senate (76 - 19) |
+| Date | 08/02/2025 |
+| Bill No. | PN 12-26 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (78 - 17) |
+| Date | 08/02/2025 |
+| Bill No. | PN 22-18 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (71 - 23) |
+| Date | 08/02/2025 |
+| Bill No. | PN 24-2 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (59 - 35) |
+| Date | 08/02/2025 |
+| Bill No. | PN 25-16 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (50 - 45) |
+| Date | 08/02/2025 |
+| Bill No. | PN 26-2 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (52 - 42) |
+| Date | 08/02/2025 |
+| Bill No. | PN 26-39 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (53 - 44) |
+| Date | 08/02/2025 |
+| Bill No. | PN 26-39 |
+|---|---|
+| Outcome | Cloture Vote - Cloture Invoked - Senate (52 - 41) |
+| Date | 08/02/2025 |
+| Bill No. | PN 26-5 |
+|---|---|
+| Outcome | Cloture Vote - Cloture Invoked - Senate (51 - 45) |
+| Date | 08/02/2025 |
+| Bill No. | PN 26-5 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (49 - 44) |
+| Date | 08/02/2025 |
+| Bill No. | PN 55-43 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (72 - 22) |
+| Date | 08/02/2025 |
+| Bill No. | HR 3944 |
+|---|---|
+| Outcome | Passage - Bill Passed - Senate (87 - 9) |
+| Date | 08/01/2025 |
+| Bill No. | PN 13-11 |
+|---|---|
+| Outcome | Cloture Vote - Cloture Invoked - Senate (55 - 41) |
+| Date | 08/01/2025 |
+| Bill No. | PN 13-11 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (52 - 44) |
+| Date | 08/01/2025 |
+| Bill No. | PN 25-26 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (50 - 45) |
+| Date | 08/01/2025 |
+| Bill No. | PN 25-35 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (54 - 43) |
+| Date | 08/01/2025 |
+| Bill No. | PN 26-49 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (51 - 43) |
+| Date | 08/01/2025 |
+| Bill No. | PN 55-36 |
+|---|---|
+| Outcome | Cloture Vote - Cloture Invoked - Senate (52 - 45) |
+| Date | 08/01/2025 |
+| Bill No. | PN 55-36 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (51 - 44) |
+| Date | 08/01/2025 |
+| Bill No. | PN 141-30 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (53 - 45) |
+| Date | 07/31/2025 |
+| Bill No. | PN 141-30 |
+|---|---|
+| Outcome | Cloture Vote - Cloture Invoked - Senate (53 - 41) |
+| Date | 07/31/2025 |
+| Bill No. | PN 25-26 |
+|---|---|
+| Outcome | Cloture Vote - Cloture Invoked - Senate (52 - 45) |
+| Date | 07/31/2025 |
+| Bill No. | PN 25-8 |
+|---|---|
+| Outcome | Confirmation Vote - Nomination Confirmed - Senate (52 - 45) |
+| Date | 07/31/2025 |

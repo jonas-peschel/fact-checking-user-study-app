@@ -1,0 +1,47 @@
+https://www.theglobaleconomy.com/Nigeria/oil_revenue/
+Nigeria: Oil revenue
+* indicates monthly or quarterly data series
+| Nigeria |
+Revenue minus production cost of oil, percent of GDP |
+|---|---|
+| Latest value | 6.25 |
+| Year | 2021 |
+| Measure | percent |
+| Data availability | 1970 - 2021 |
+| Average | 12.34 |
+| Min - Max | 0.57 - 40.91 |
+| Source | The World Bank |
+The latest value from 2021 is 6.25 percent, an increase from 3.31 percent in 2020. In comparison, the world average is 2.69 percent, based on data from 181 countries. Historically, the average for Nigeria from 1970 to 2021 is 12.34 percent. The minimum value, 0.57 percent, was reached in 1971 while the maximum of 40.91 percent was recorded in 1979.
+See the global rankings or
+world map for that indicator or
+use the country comparator to compare trends over time.
+Select indicator
+* indicates monthly or quarterly data series
+Recent data
+Historical series
+Definition: Oil rents are the difference between the value of crude oil production at regional prices and total costs of production.
+Selected articles from our guide:
+Are trade deficits bad for the economy?
+Sources of economic growth
+Currency values and investment returns
+How to write an economics research paper
+All articles
+| Related indicators | Latest | Reference | Measure |
+|---|---|---|---|
+| Gasoline prices | 0.46 | 2016 | dollars |
+| Diesel prices | 0.64 | 2016 | dollars |
+| Energy use per capita | 333.06 | 2022 | kilograms of oil equivalent |
+| Share of clean energy | 80.30 | 2021 | percent |
+| Carbon intensity | 0.10 | 2023 | kg of CO2 per dollar of GDP |
+| Energy use per $1000 GDP | 59.98 | 2022 | kilograms of oil equivalent |
+| Electricity from renewable sources, kWh | 0.00 | 2015 | million kWh |
+| Carbon dioxide (CO2) emissions | 128 | 2023 | Mt CO2 eq |
+| Carbon dioxide (CO2) emissions per capita | 0.56 | 2023 | metric tons of carbon dioxide equivalent per capita |
+| Greenhouse gas emissions | 322,337 | 2020 | kt of CO2 equivalent |
+| GDP per unit of energy | 17.86 | 2022 | GDP per kg of oil equivalent |
+| Net energy imports | -66.29 | 2022 | percent |
+| Natural resources income | 8.55 | 2021 | percent |
+| Oil revenue | 6.25 | 2021 | percent |
+| Natural gas revenue | 1.16 | 2021 | percent |
+| Access to electricity | 60.50 | 2022 | percent |
+| Gasoline consumption per capita | 93.745 | 2023 | liters per person per year |

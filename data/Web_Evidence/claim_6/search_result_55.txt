@@ -1,0 +1,285 @@
+https://www.osc.ny.gov/reports/new-yorks-balance-payments-federal-budget-federal-fiscal-year-2023
+Message from the Comptroller
+April 2025
+The distribution of federal resources—and the fiscal relationship between states and the federal government—is complex. The federal budget plays an integral role in state economies and budgets. New York received an estimated $96.7 billion in federal receipts in State Fiscal Year 2024-25, representing 38.8 percent of total receipts. Many programs rely heavily on federal contributions, including Medicaid, education, safety net assistance, and transportation.
+This report, the ninth in a series by the Office of the State Comptroller, details the differences among the 50 states with respect to what is paid in federal taxes and how much is received in federal spending. The results for Federal Fiscal Year 2023 (FFY 2023) have not fully returned to patterns that were typical before the pandemic: in FFY 2023, 47 states, including New York, had a positive balance of payments. The State ranked 42nd, compared to 39th in FFY 2022, 30th in FFY 2021, 40th in FFY 2020, and 49th in FFY 2019.
+In FFY 2023, New York State generated $320.1 billion in federal taxes and benefited from $337.9 billion in federal spending. For every tax dollar paid to Washington, our State received $1.06 in return, compared to the average for all states of $1.32. This is the fourth year in a row that New York has had a positive balance of payments, largely due to extraordinary federal pandemic aid. Previously, New York ranked among states with the largest negative balance of payments.
+Just as the federal pandemic assistance had a large impact on traditional patterns of balance of payments, actions currently under consideration in Washington may also significantly change the relationship between the federal government and states. Cuts have been announced to education and health programs backed by aid allocated during the pandemic, and additional actions may be taken to reduce grants to state and local governments, limit aid to individuals, and decrease federal spending on payrolls. While all states benefitted from pandemic assistance, most states would be in a position to lose from such actions, although which states will be most impacted remains to be seen.
+The late Daniel Patrick Moynihan pioneered the concept of this balance of payments report when he represented New York in the United States Senate, and we are proud to carry on his work. Senator Moynihan believed that making the facts clear about how the federal budget distributes money among the states could help produce a more equitable outcome for all Americans. I hope this report contributes to a constructive dialogue about how best to structure the fiscal relationship between the federal government and the states.
+Thomas P. DiNapoli
+State Comptroller
+Table of Contents
+The Balance of Payments Between the Federal Government and the States
+Revenues Paid to the Federal Government
+Executive Summary
+The budget of the United States government plays a major role in the finances of New York State and its local governments, as well as in the daily lives of New Yorkers. Federal spending provides Social Security income and Medicare and helps fund Medicaid health coverage and other benefits for millions of State residents. Federal aid represents almost four in ten dollars in the State Budget. Spending from Washington also supports tens of thousands of New York jobs.
+This report examines the flow of funds between the federal government and the states for the Federal Fiscal Year (FFY) ending September 30, 2023, with special attention to its impact on New York State. The analysis is based on data from federal budget documents, the Internal Revenue Service and many other sources identified in Appendix E.
+New York has historically been a state that experiences a negative balance of payments with the federal government. During the COVID-19 pandemic, federal spending increased substantially and in FFYs 2020 and 2021, all states had a positive balance of payments. This changed in FFY 2022, with five states, but not New York, experiencing a negative balance of payments. In FFY 2023, the balance of payments was positive for 47 states and negative for only 3 states: Washington, Massachusetts and New Jersey. In FFY 2023, total U.S. tax revenues decreased by 9.3 percent, more than overall spending which declined by only 2.2 percent, reflecting continued federal pandemic-related spending.
+Key findings include:
+- For every dollar New York generated in federal tax receipts, the State received $1.06 in return (the same as in FFY 2022). The national average was $1.32.
+- New York's balance of payments was $912 per capita, ranking it 42nd among states.
+- New York generated $16,355 per capita, ranking it 3rd in per capita contributions to the federal treasury.
+- New York received $17,266 per capita, ranking it 21st in per capita federal spending.
+- Federal expenditure areas where New York ranks high include Medicaid ($3,082 per capita, 2nd), the Basic Health Program ($656 per capita, 1st), Supplemental Nutrition Assistance Program ($533 per capita, 4th), Rental Assistance and Public Housing ($295 per capita, 1st), and Supplemental Security Income ($238 per capita, 6th).
+- Federal expenditure areas where New York ranks low include Procurement ($842 per capita, 42nd), Federal Employee Wages and Salaries ($459 per capita, 42nd), Veterans Benefits ($445 per capita, 49th), Federal Employees Retirement ($216 per capita, 50th), and Highways ($103 per capita, 49th).
+The Balance of Payments Between the Federal Government and the States
+This report examines the flow of funds between the federal government and the 50 states for the Federal Fiscal Year (FFY) ending September 30, 2023.1 In FFY 2023, the federal government spent $6.1 trillion and brought in $4.4 trillion in revenue, with a budget deficit of $1.7 trillion. Approximately 96.5 percent of federal receipts and 92.2 percent of outlays are allocated by state in this report.2 A description of the full methodology can be found in last year's report.
+In FFY 2023, federal expenditures for each U.S. resident were on average $4,089 more than they paid in federal taxes. Since New York contributed $16,355 to the federal treasury and received $17,266 in federal spending per capita, this amount was much lower for New York residents, $912. Even so, New York was one of 47 states with a favorable balance of payments, as shown in Figure 1. For every dollar New York generated in federal tax receipts, it received $1.06 back in federal spending, lower than the national level of $1.32.
+FIGURE 1 – Per Capita Balance of Payments Between the Federal Government and States, FFY 2023
+Note: The numbers shown in the map reflect each state’s ranking in per capita balance of payments for FFY 2023, from most favorable (1) to least favorable (50).
+The Empire State ranked 42nd, as shown in Figure 2 for per capita balance of payments, three positions lower than its 39th ranking in 2022.3 Only three states—Washington, Massachusetts, and New Jersey—had negative balance of payments amounts in FFY 2023.
+FIGURE 2 – Per Capita Balance of Payments Between the Federal Government and States, FFY 2023
+Revenues Paid to the Federal Government: New York
+For the 50 states and the District of Columbia, tax collections generated almost $4.3 trillion, or $12,802 per capita, in FFY 2023.4 New York generated approximately $320.1 billion, or 7.5 percent, of this amount, while the State represented 5.8 percent of the nation’s population. At $16,355, New York’s per capita contribution to the federal treasury was 27.8 percent more than the national level.
+As shown in Figure 3, New York’s per capita tax contribution ranks highly in most tax categories, except for excise taxes, where New York ranks 48th.
+- On a per capita basis, individual income taxes represent the largest portion of taxes paid at $8,745—35.9 percent higher than the national average of $6,433.
+- The second largest component of federal revenues reflects payments for social insurance taxes and contributions, including sources that finance programs for Social Security and Medicare, among others.5 New York’s per capita contribution for such payments, $5,472, was 14.2 percent above the national level of $4,792, ranking it 7th.
+- New York ranked first on per capita corporate income taxes, which, at $1,840, were 47 percent higher than the national per capita level of $1,252.
+FIGURE 3 – Federal Taxes Paid: Nation and New York, FFY 2023
+| 50 States | New York | |||||
+|---|---|---|---|---|---|---|
+| Total (millions) | Per Capita | Total (millions) | Share of Total | Per Capita | Rank (per capita) | |
+| Total | $4,287,523 | $12,802 | $320,085 | 7.5% | $16,355 | 3 |
+| Individual Income | $2,154,438 | $6,433 | $171,157 | 7.9% | $8,745 | 4 |
+| Social Insurance | $1,604,982 | $4,792 | $107,090 | 6.7% | $5,472 | 7 |
+| Corporate Income | $419,198 | $1,252 | $36,021 | 8.6% | $1,840 | 1 |
+| Excise | $75,595 | $226 | $3,013 | 4.0% | $154 | 48 |
+| Estate and Gift | $33,310 | $99 | $2,804 | 8.4% | $143 | 7 |
+Spending by the Federal Government: New York
+In FFY 2023, the federal government spent $6.1 trillion, including approximately $5.7 trillion in expenditures that could be allocated among the states.
+As the recipient of $17,266 in per capita federal spending, 2.2 percent higher than the national figure of $16,891 per capita, New York’s ranking dropped to 21st among the states in FFY 2023—from 11th in FFY 2022 and 8th in FFY 2021, continuing its trend toward pre-pandemic outcomes (e.g., New York ranked 24th in spending among the states in FFY 2019). During the peak of the pandemic, federal spending in New York ranked the State higher due to its increased share of procurement, among other federal spending areas.
+FIGURE 4 – Federal Spending by Major Category: Nation and New York, FFY 2023
+| 50 States | New York | |||||
+|---|---|---|---|---|---|---|
+| Total (millions) | Per Capita | Total (millions) | Share of Total | Per Capita | Rank (per capita) | |
+| Total | $5,656,887 | $16,891 | $337,924 | 6.0% | $17,266 | 21 |
+| Direct Payments | $3,487,571 | $10,413 | $196,898 | 5.6% | $10,061 | 36 |
+| Grants | $1,064,141 | $3,177 | $111,310 | 10.5% | $5,687 | 3 |
+| Procurement | $699,789 | $2,089 | $16,486 | 2.4% | $842 | 42 |
+| Wages and Salaries | $325,008 | $970 | $8,980 | 2.8% | $459 | 42 |
+| Other Identified Federal Spending | $80,377 | $240 | $4,250 | 5.3% | $217 | 25 |
+Expenditure Areas Where New York Does Well
+Figure 5 identifies federal expenditure areas or programs where New York receives a high per capita share. Most of these are in social programs relating to the health and well-being of New Yorkers, particularly supplemental assistance for daily needs. Transit is another area where New York receives high levels of total and per capita spending.
+FIGURE 5 – Areas of Spending Where New York Ranks High (per capita), FFY 2023
+| 50 States | New York | |||||
+|---|---|---|---|---|---|---|
+| Total (millions) | Per Capita | Total (millions) | Share of Total | Per Capita | Rank (per capita) | |
+| Medicaid (G) | $611,861 | $1,827 | $60,314 | 9.9% | $3,082 | 2 |
+| Basic Health Program (G) | $13,599 | $41 | $12,833 | 94.4% | $656 | 1 |
+| Supplemental Nutrition Assistance Program (DP) | $123,537 | $369 | $10,426 | 8.4% | $533 | 4 |
+| Rental Assistance and Public Housing (G) | $37,003 | $110 | $5,764 | 15.6% | $295 | 1 |
+| Supplemental Security Income (DP) | $60,171 | $180 | $4,655 | 7.7% | $238 | 6 |
+| Temporary Assistance for Needy Families (G) | $16,384 | $49 | $2,460 | 15.0% | $126 | 1 |
+| Pell Grants (DP) | $29,876 | $89 | $1,997 | 6.7% | $102 | 10 |
+| Child Nutrition (G) | $28,911 | $86 | $1,895 | 6.6% | $97 | 10 |
+| Elementary and Secondary Education Act, Title I (G) | $17,363 | $52 | $1,404 | 8.1% | $72 | 5 |
+| Transit (G) | $9,784 | $29 | $1,379 | 14.1% | $70 | 3 |
+| Children and Family Services (G) | $14,212 | $42 | $1,063 | 7.5% | $54 | 9 |
+| Low-Income Home Energy Assistance Program (G) | $5,846 | $17 | $547 | 9.4% | $28 | 11 |
+| Homeless Assistance Grants (G) | $3,607 | $11 | $319 | 8.8% | $16 | 6 |
+Note: DP signifies Direct Payments and G signifies Grants.
+Medicaid
+In FFY 2023, New York received $60.3 billion in Medicaid funding, or $3,082 per capita, 68.7 percent higher than the national level of $1,827, ranking it second among the states.
+Medicaid funding is based partly on the Federal Medical Assistance Percentage (FMAP), the level at which the federal government reimburses certain state Medicaid expenditures. FMAP is higher in states with relatively low per capita personal incomes and lower in states with higher personal incomes. New York has a higher per capita income than most states and its FMAP is at the lowest level—50 percent.
+Despite its low FMAP, New York receives relatively high federal Medicaid funding per capita because the overall level of funding also reflects other factors, including: the number of beneficiaries (New York has a higher proportion of its population enrolled in the program than most states); the breadth of benefits each state makes available; the costs of providing care (wages and certain other costs are generally higher in New York than in many other states); and special agreements called waivers in which the federal government may provide additional aid.
+Basic Health Plan
+The Affordable Care Act authorizes states to establish a Basic Health Program (known in New York as the Essential Plan), a low-cost health insurance option for individuals who meet certain income and other requirements. In 2015, New York joined Minnesota as one of only two states in the nation to establish such a program.6 This program has provided an important source of federal aid to New York. New York’s share of nationwide funding in this area for FFY 2023 was 94.4 percent of the total, or $12.8 billion; Minnesota received the remainder of the funding.
+Other Safety Net Spending
+New York receives significant levels of grant funding for a range of safety net programs apart from Medicaid. The State received a combined $27.1 billion in funding for the Supplemental Nutrition Assistance Program (SNAP), Rental Assistance and Public Housing, Supplemental Security Income (SSI), Temporary Assistance for Needy Families (TANF), Child Nutrition programs (e.g., school breakfast and lunch), programs for Children and Families (e.g., Head Start), the Low-Income Home Energy Assistance Program and for Homeless Assistance Grants. New York had the highest per capita expenditure among the states for Rental Assistance and Public Housing, and TANF, at $295 and $126, respectively, both of which were more than double the national per capita amount.
+Education
+Pell Grants, which provide higher education assistance to low-income individuals, were another area in which New York did well. Of the $29.9 billion allocated nationwide, New Yorkers received almost $2 billion, or $102 per capita, ranking it 10th in the nation per capita.
+The federal government spent almost $17.4 billion on elementary and secondary education for disadvantaged students (Elementary and Secondary Education Act or ESEA, Title I), resulting in federal per capita spending of $52. New York, ranking fifth, had per capita spending of $72.
+Federal Transit Grants
+New York ranked third for federal transit funding; the State’s per capita amount, $70, was 141.1 percent higher than the national per capita level ($29), resulting from investments made for the Metropolitan Transportation Agency (MTA) and other transit authorities.
+Expenditure Areas Where New York Does Not Do Well
+Figure 6 identifies areas where New York receives fewer federal expenditures than would otherwise be expected if these were distributed equally per capita throughout the states. Most of this spending is related to the federal workforce, including employee wages and salaries, retirement payments and veterans’ benefits.7 New York’s low ranking is due to a relatively smaller presence of federal employees and veterans.
+FIGURE 6 – Areas of Spending Where New York Ranks Low (per capita), FFY 2023
+| 50 States | New York | |||||
+|---|---|---|---|---|---|---|
+| Total (millions) | Per Capita | Total (millions) | Share of Total | Per Capita | Rank (per capita) | |
+| Procurement | $699,789 | $2,089 | $16,486 | 2.4% | $842 | 42 |
+| Federal Employee Wages and Salaries | $325,008 | $970 | $8,980 | 2.8% | $459 | 42 |
+| Veterans Benefits (DP) | $286,505 | $855 | $8,706 | 3.0% | $445 | 49 |
+| Federal Employee Retirement (DP) | $177,641 | $530 | $4,227 | 2.4% | $216 | 50 |
+| Highways (G) | $47,478 | $142 | $2,021 | 4.3% | $103 | 49 |
+| Vocational Rehabilitation (G) | $3,459 | $10 | $148 | 4.3% | $8 | 45 |
+| Airports (G) | $4,249 | $13 | $72 | 1.7% | $4 | 48 |
+Note: DP signifies Direct Payments and G signifies Grants.
+Procurement8 spending in New York, an area where the State experienced increases during the pandemic, is reverting to pre-pandemic levels, with the State receiving $842 per capita in 2023, ranking it 42nd compared to 17th in 2021 and 20th in 2022. New York’s rankings prior to FFY 2021 were typically in the 40s out of the 50 states.
+Federal spending on highways and mass transit is largely funded by the Highway Trust Fund, which raised $43.7 billion, primarily from the motor fuel tax, in FFY 2023. Highway Trust Fund moneys are used both for highway and transit projects. Fund expenditures are distributed to states based on factors including lane miles and vehicle miles traveled, estimated fuel tax payments by highway users, and mass transit usage. New York ranked 49th in the nation for per capita federal highway funding ($103) and 48th in the nation for per capita airport funding ($4).
+Other Notable Expenditure Areas
+For other areas of federal expenditure, New York ranked mostly in the middle of the 50 states, as shown in Figure 7. The most significant of these programs are those providing a social safety net for seniors: Medicare and Social Security, which had a combined national expenditure of over $2.3 trillion in FFY 2023. With $3,282 in per capita Medicare payments, New York ranked 14th.
+FIGURE 7 – Other Notable Areas of Spending, FFY 2023
+| 50 States | New York | |||||
+|---|---|---|---|---|---|---|
+| Total (millions) | Per Capita | Total (millions) | Share of Total | Per Capita | Rank (per capita) | |
+| Social Security (DP) | $1,328,320 | $3,966 | $77,486 | 5.8% | $3,959 | 37 |
+| Medicare (DP) | $1,014,302 | $3,029 | $64,236 | 6.3% | $3,282 | 14 |
+| Earned Income Tax Credit (DP) | $55,441 | $166 | $3,155 | 5.7% | $161 | 21 |
+| Child Tax Credit (DP) | $28,598 | $85 | $1,568 | 5.5% | $80 | 24 |
+| Children's Health Insurance Program (G) | $17,440 | $52 | $1,170 | 6.7% | $60 | 14 |
+| Special Education (G) | $14,911 | $45 | $976 | 6.5% | $50 | 16 |
+Note: DP signifies Direct Payments and G signifies Grants.
+New York’s rank was much lower for per capita Social Security payments, which were $3,959, just under the national level of $3,966. As with other per capita figures, this amount represents total Social Security payments divided by the State population, not average Social Security benefits per recipient. Differences among the states in per capita payments received for Social Security and other benefit programs reflect a mix of factors, including the proportion of the population eligible for benefits and the amount of benefits received by individual recipients, which may vary based on numerous criteria.
+For both the earned income tax credit and the child tax credit, New York ranked in the upper half of the states, with rankings of 21st and 24th, respectively. Note that for these tax credits, the allocations represent the amounts refunded to tax filers and, accordingly, do not capture any credit amounts that offset any federal tax liability.
+New York also fared better than most states for the Children’s Health Insurance Program, ranking the State 14th with a per capita amount of $60, as opposed to $52 in national per capita spending. Similarly, New York received $50 per capita for Special Education, higher than the national per capita amount of $45, ranking it 16th among the states.
+Conclusion
+Figure 8 shows that New York has historically had a negative balance of payments except in recent years due to the federal government’s robust response to the pandemic. While overall trends seem to be reverting to this norm, in FFY 2023, New York was still a positive recipient of funds from the federal government due to comparatively lower tax payments and remaining pandemic relief.
+FIGURE 8 – New York’s Balance of Payments, FFY 2013 to FFY 2023
+| 2013 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | |
+|---|---|---|---|---|---|---|---|---|---|
+| Per Capita | ($1,011) | ($2,070) | ($1,216) | ($1,363) | ($1,219) | $7,236 | $7,455 | $1,076 | $912 |
+| Rank | 46 | 47 | 47 | 48 | 49 | 40 | 30 | 39 | 42 |
+| Total Dollars (billions) | ($19.9) | ($40.9) | ($24.1) | ($26.6) | ($23.7) | $146.2 | $147.9 | $21.2 | $17.8 |
+| Rank | 49 | 50 | 49 | 50 | 50 | 4 | 4 | 23 | 24 |
+| Return on Each One Dollar of Taxes Paid | $0.91 | $0.84 | $0.90 | $0.90 | $0.91 | $1.59 | $1.51 | $1.06 | $1.06 |
+| Rank | 49 | 47 | 46 | 48 | 49 | 44 | 38 | 39 | 43 |
+Population shifts have occurred over the period covered by these analyses. In FFY 2023, New York was home to 5.8 percent of the population, down from 6.2 percent in the first report completed for FFY 2013. Given the range of factors that influence federal government spending, the role of population changes is not always explicit, but year-to-year variations in per capita estimates and state rankings reflect such shifts.
+New York ranked 3rd in total taxes paid per capita to the federal government and New York’s personal income comprised 6.9 percent of U.S. personal income. Individual income tax payments were just over half (50.2 percent) of total federal revenues, and New York’s share of this revenue, 7.9 percent, reflects the interplay of the State’s higher per capita expenditures. New York’s share of federal spending was slightly higher than its share of the nation’s population: 6.0 percent compared to 5.8 percent, respectively.
+Since State Fiscal Year 2020-21, federal receipts have represented around 40 percent of all revenue received by the State. The federal government provides the backbone of the State’s safety net: Millions of New Yorkers rely on Social Security as a staple of household income, Medicare and/or Medicaid for essential health care, and SNAP for basic food needs. In education alone, federal grants provide important support for services to children with disabilities or limited English proficiency, breakfast and lunch programs, and college loans. Other federal funds pay for essential capital projects and services. These include highway and mass transit construction and maintenance, housing, job training, environmental protection, public safety initiatives and far more.
+However, this crucial funding appears to be at risk. Executive Orders issued by the President paused disbursement of funds from the Infrastructure Investment and Jobs Act (IIJA) and the Inflation Reduction Act (IRA). The State expected to receive $13.6 billion in IIJA funds and $2 billion from the IRA, backing projects ranging from roadways and bridges to mass transit to broadband to clean energy and resiliency. While some funding has been unfrozen, the extent to which State and local governments and State residents can rely on these dollars is unclear.
+Other federal actions have also impacted the receipt of funds by states; in New York, these include the potential claw back of approximately $158 million in Elementary and Secondary School Emergency Relief aid from school districts9 and the freezing of $367 million in funds for public health, addiction services, and mental health programming.10 This loss of funding translates into weaker state services in crucial areas such as virus surveillance, laboratory support and testing, transitional housing for individuals in recovery and mental health supports.
+The current federal budget discussions in Washington may result in more significant impacts on federal funding streams and spending in New York. The federal budget plays an important role in state budgets and economies, and changes in the relationship between the federal government and the states can have profound impacts on both the states and the nation. State-by-state impacts will depend in part on particular policy choices and affected programs. Debate in Washington should be informed by careful consideration of the fiscal and human impacts.
+Appendix A: Balance of Payments
+Balance of Payments (Expenditures Minus Revenues), FFY 2023
+| Total (millions) | Per Capita | Variation from National Per Capita | Percentage Variation from National Per Capita | Rank (per capita) | |
+|---|---|---|---|---|---|
+| National: 50 States & D.C. | $1,369,364 | $4,089 | |||
+| Alabama | $52,159 | $10,210 | $6,122 | 149.7% | 9 |
+| Alaska | $11,357 | $15,485 | $11,396 | 278.7% | 3 |
+| Arizona | $49,550 | $6,668 | $2,579 | 63.1% | 16 |
+| Arkansas | $22,306 | $7,271 | $3,182 | 77.8% | 14 |
+| California | $11,911 | $306 | ($3,783) | -92.5% | 46 |
+| Colorado | $8,748 | $1,488 | ($2,600) | -63.6% | 41 |
+| Connecticut | $14,498 | $4,008 | ($81) | -2.0% | 27 |
+| Delaware | $2,841 | $2,753 | ($1,336) | -32.7% | 34 |
+| Florida | $79,563 | $3,519 | ($570) | -13.9% | 32 |
+| Georgia | $42,226 | $3,829 | ($260) | -6.4% | 31 |
+| Hawaii | $16,123 | $11,235 | $7,146 | 174.8% | 6 |
+| Idaho | $8,510 | $4,332 | $243 | 5.9% | 26 |
+| Illinois | $9,916 | $790 | ($3,299) | -80.7% | 43 |
+| Indiana | $27,108 | $3,950 | ($138) | -3.4% | 28 |
+| Iowa | $10,195 | $3,179 | ($910) | -22.3% | 33 |
+| Kansas | $11,583 | $3,939 | ($150) | -3.7% | 29 |
+| Kentucky | $48,449 | $10,704 | $6,616 | 161.8% | 8 |
+| Louisiana | $44,233 | $9,671 | $5,582 | 136.5% | 11 |
+| Maine | $13,941 | $9,988 | $5,900 | 144.3% | 10 |
+| Maryland | $69,215 | $11,199 | $7,111 | 173.9% | 7 |
+| Massachusetts | ($3,627) | ($518) | ($4,607) | (-112.7%) | 49 |
+| Michigan | $45,794 | $4,562 | $474 | 11.6% | 25 |
+| Minnesota | $2,938 | $512 | ($3,577) | -87.5% | 45 |
+| Mississippi | $36,236 | $12,326 | $8,238 | 201.5% | 4 |
+| Missouri | $44,636 | $7,204 | $3,115 | 76.2% | 15 |
+| Montana | $6,479 | $5,719 | $1,631 | 39.9% | 18 |
+| Nebraska | $3,844 | $1,943 | ($2,146) | -52.5% | 39 |
+| Nevada | $5,938 | $1,859 | ($2,230) | -54.5% | 40 |
+| New Hampshire | $105 | $75 | ($4,014) | -98.2% | 47 |
+| New Jersey | ($17,656) | ($1,900) | ($5,989) | -146.5% | 50 |
+| New Mexico | $38,135 | $18,036 | $13,947 | 341.1% | 1 |
+| New York | $17,839 | $912 | ($3,177) | -77.7% | 42 |
+| North Carolina | $51,116 | $4,717 | $629 | 15.4% | 24 |
+| North Dakota | $3,017 | $3,849 | ($240) | -5.9% | 30 |
+| Ohio | $56,222 | $4,770 | $682 | 16.7% | 23 |
+| Oklahoma | $34,407 | $8,488 | $4,399 | 107.6% | 12 |
+| Oregon | $20,583 | $4,862 | $774 | 18.9% | 22 |
+| Pennsylvania | $67,517 | $5,209 | $1,120 | 27.4% | 20 |
+| Rhode Island | $5,742 | $5,239 | $1,150 | 28.1% | 19 |
+| South Carolina | $42,375 | $7,886 | $3,797 | 92.9% | 13 |
+| South Dakota | $2,124 | $2,310 | ($1,779) | -43.5% | 38 |
+| Tennessee | $36,698 | $5,149 | $1,061 | 25.9% | 21 |
+| Texas | $76,879 | $2,520 | ($1,568) | -38.4% | 35 |
+| Utah | $1,968 | $576 | ($3,513) | -85.9% | 44 |
+| Vermont | $3,721 | $5,747 | $1,658 | 40.6% | 17 |
+| Virginia | $139,728 | $16,032 | $11,943 | 292.1% | 2 |
+| Washington | ($809) | ($104) | ($4,192) | -102.5% | 48 |
+| West Virginia | $21,727 | $12,275 | $8,186 | 200.2% | 5 |
+| Wisconsin | $14,771 | $2,499 | ($1,590) | -38.9% | 36 |
+| Wyoming | $1,431 | $2,450 | ($1,638) | -40.51% | 37 |
+| District of Columbia | $55,056 | $81,088 | $76,999 | 1,883.2% |
+Note: Does not include spending in or taxes from Puerto Rico and other outlying areas.
+Appendix B: Per Capita Taxes and Expenditures
+Per Capita Taxes Paid to the Federal Government,
+FFY 2023
+Per Capita Federal Expenditures,
+FFY 2023
+Appendix C: Federal Revenues and Spending
+Revenues
+In FFY 2023, all revenues paid to the federal government totaled over $4.4 trillion. For the 50 states and the District of Columbia, collections from these taxes generated a total of almost $4.3 trillion, or $12,802 per capita in FFY 2023.
+Federal Revenues by Source in FFY 2023: $4.4 Trillion
+Note: Social Insurance Taxes include the Federal Insurance Contributions Act (FICA) tax, the Self-Employment Contributions Act (SECA) tax, the Federal Unemployment Tax Act (FUTA) tax, Railroad Retirement Act and the Railroad Unemployment Insurance Act taxes, and other receipts, primarily pension contributions from federal employees. Other taxes include excise taxes, which are primarily imposed on production, sale or consumption of fuel, tobacco and alcohol products, among others; as well as estate and gift taxes. “Excluded from Analysis” represents miscellaneous receipts and customs duties and fees, along with revenues from Puerto Rico and other outlying areas. Percentages do not add to 100 due to rounding.
+Spending
+In FFY 2023, the federal government spent over $6.1 trillion, including almost $5.7 trillion in expenditures that could be allocated among the states. Below is a breakdown of overall FFY 2023 federal spending.
+Federal Spending by Category in FFY 2023: $6.1 Trillion
+Note: Veterans’ service-connected compensation is included with Veterans Benefits, not Employee Retirement. “Excluded from Analysis” consists primarily of undistributed offsetting receipts, net interest of the federal government debt, and overseas procurement, along with expenditures in Puerto Rico and other outlying areas.
+Totaling almost $3.5 trillion (56.9 percent), the largest category of federal expenditure was direct payments to or on behalf of individuals. While significant in size, this amount is $214.3 billion less than in FFY 2022. Social Security and Medicare were a combined $2.3 trillion, constituting 67.2 percent of these direct payments in FFY 2023. Veterans’ benefits totaled $286.5 billion, or 8.2 percent of FFY 2023’s direct payments.
+Grants to state and local governments was the second largest category at about $1.1 trillion in FFY 2023. Such spending was $111.2 billion less than in FFY 2022. Medicaid made up 57.5 percent of such expenditures. During the COVID-19 pandemic, federal legislation increased the FMAP received by all states by 6.2 percentage points due to the active declaration of a public health emergency. This level of reimbursement, or enhanced FMAP (eFMAP), was available to states through the entirety of FFY 2023, although it began tapering in the later part of FFY 2023 (and ultimately ended in December 2023, the first quarter of FFY 2024). FFY 2023 Medicaid disbursements to the states and territories by the federal government included $34.7 billion in such spending, including $3.4 billion in New York.11
+Procurement was the third largest category, at almost $700 billion in the 50 states and D.C., while the fourth largest category, federal employee wages and salaries, totaled just over $325 billion.
+Another major federal budget category is “All Other,” which totaled $188.9 billion in FFY 2023. The portion of “All Other” identified by this analysis for FFY 2023 is 43.6 percent, or $82.4 billion with $80.4 billion in the states. It primarily reflects the Education Stabilization Fund and Disaster Loans through the Small Business Administration, which together comprise 90.9 percent of the total. Overall, “All Other” represented 1.3 percent of total allocated expenditures in this analysis among the states in FFY 2023, 0.4 and 5.2 percentage points less than in FFYs 2022 and 2021 respectively.12
+Appendix D: The Federal Budget Deficit
+This report uses the same methodology as applied and described in previous reports. The figure below indicates the total amounts of receipts and outlays that were allocated during this analysis and the amounts that were not allocable or excluded.
+Federal Government Receipts and Outlays, FFY 2023 Amounts Allocated and Not Allocated in This Report
+(amounts in millions)
+| Total | Not Allocable | Allocated | ||
+|---|---|---|---|---|
+| Outside the 50 States and D.C. | 50 States and D.C. | |||
+| Receipts | $4,440,947 | $120,956 | $32,468 | $4,287,523 |
+| Outlays | $6,134,672 | $429,677 | $48,108 | $5,656,887 |
+| Deficit | ($1,693,725) |
+The figures presented in this report are based on actual expenditures and revenues as reported by the federal government, with certain estimates and adjustments by the Office of the State Comptroller. Such figures reflect the budgetary imbalance associated with the federal budget deficit for FFY 2023, which was almost $1.7 trillion.13 The federal deficit results from expenditures ($6.1 trillion in FFY 2023) exceeding revenues received the same year ($4.4 trillion), with the difference generally financed by borrowing that will be repaid in future years.
+Federal budget deficits (or surpluses) shift over time depending on many factors, including changes in the economy and policy actions that affect levels of spending and revenues. The deficit for FFY 2023 was $317.8 billion more than in FFY 2022.
+Appendix E: Sources
+Department of Commerce
+Bureau of Economic Analysis
+Regional Data, GDP & Personal Income, Annual and Quarterly Gross Domestic Product (GDP) by State. See also Interactive Data Tables.
+Regional Data, GDP & Personal Income, Quarterly Personal Income by State. See Quarterly Personal Income by State/Personal Current Transfer Receipts (SQINC35) using the Medicare benefits statistic; and Quarterly Personal Income by State/ Wages and Salaries by Industry (SQINC7) using the NAICS option. See also Interactive Data Tables.
+Census Bureau
+Population Division, Annual Estimates of Resident Population Change for the United States, States, District of Columbia, Puerto Rico, and State Rankings: April 1, 2020 to July 1, 2023, December 2024, under Vintage 2023.
+Department of Education
+Federal Student Loan Portfolio under Direct Loan Portfolio by Location, Portfolio by Location and Debt Size and Federal Student Aid Portfolio by Loan Type.
+Education Stabilization Fund (see Annual reports and data downloads); and Data Download.
+Center for Medicare and Medicaid Services
+Effectuated Enrollment: Early 2024 Snapshot and Full Year 2023 Average, as of March 15, 2024, for premium tax credit data.
+Expenditure Reports from MBES/CBES (Medicaid Budget and Expenditure System/State Children’s Health Insurance Program Budget and Expenditure System), Financial Management Report for FY 2023.
+Department of Labor
+Bureau of Labor Statistics, Quarterly Census of Employment and Wages: Employment and Wages Data Viewer under Federal Government (Ownership), NAICS 491 Postal Service (Industry).
+Bureau of Labor Statistics, Quarterly Census of Employment and Wages for Ownership: Employment and Wages Data Viewer under Federal Government (Ownership), Total, all industries.
+Employment Training Administration, ETA 2112: UI Financial Transaction Summary.
+Federal Highway Administration
+Office of Highway Policy Information, Highway Statistics Series, Highway Statistics 2023, Federal Highway Trust Fund Receipts Attributable to Highway Users in Each State, Table FE-9.
+Office of Highway Policy Information, Highway Statistics Series, Highway Statistics 2023, Status of the Federal Highway Trust Fund, October 1, 2022 – September 30, 2023, Table FE-10.
+Department of the Treasury
+Assistance of State, Local, and Tribal Governments, Emergency Rental Assistance Program/Reporting/Public Data, ERA2 Cumulative Program Data.
+Internal Revenue Service
+Statistics of Income (SOI) Tax Stats – Historic Table 2, Individual Income and Tax Data, by State and Size of Adjusted Gross Income, Tax Year 2022.
+Statistics of Income (SOI) Tax Stats – IRS Data Book, Table 5: Gross Collections, by Type of Tax and State, Fiscal Year 2023 and Table 8: Amount of Refunds Issued, Including Interest, by State, Fiscal Year 2023.
+Data Book PDF By Year, October 1, 2022 to September 30, 2023.
+Statistics of Income (SOI) Tax Stats – Corporation Income Tax Returns Complete Report, see Table 1: Returns of Active Corporations, Selected Income Statement, Balance Sheet, and Tax Items, 2021.
+Executive Office of the President, Office of Management and Budget: President’s Budget (as accessed on March 7, 2025)
+Fiscal Year 2025, Analytical Perspectives, Tables 8-3 through 8-51. 2025 Budget Program State-by-State Tables and Table 25-1. Budget Authority and Outlays by Function, Category, and Program.
+Historical Tables, see: Table 1.1 – Summary of Receipts, Outlays, and Surpluses or Deficits (-): 1789 – 2029; Table 2.1 – Receipts by Source: 1934 – 2029; Table 2.4 – Composition of Social Insurance and Retirement Receipts and of Excise Taxes: 1940 – 2029; Table 2.5 – Composition of “Other Receipts”: 1940 – 2029; Table 3.2 – Outlays by Function and Subfunction: 1962 – 2029; Table 5.1 – Budget Authority by Function and Subfunction: 1976 – 2029; Table 6.1 – Composition of Outlays: 1940 – 2029; and Table 11.3 – Outlays for Payments for Individuals by Category and Major Program: 1940 – 2029.
+Public Budget Database, Outlays.
+Social Security Administration
+Annual Statistical Supplement, 2023 – Old-Age, Survivors, and Disability Insurance: Benefits in Current-Payment Status, Geographic Data (5.J); and Supplemental Security Income: State Data (7.B), November 2023.
+Other
+Department of Agriculture, SNAP (Supplemental Nutrition Assistance Program) Data Tables, under National and/or State Level Monthly and/or Annual Data: FY 69 through FY 25.
+Defense Health Agency/Military Health System (Health.mil), TRICARE by the Numbers, 2023.
+Department of Veterans Affairs, National Center for Veterans Analysis and Statistics, Fiscal Year 2023 Expenditures data for the Geographic Distribution of VA Expenditures for Fiscal Year 2023.
+National Institute of Alcoholism and Alcohol Abuse, Surveillance Report #121, Table 2. Apparent alcohol consumption for States, census regions, and the United States, 2021.
+Office of Personnel Management (OPM), Civil Service Retirement and Disability Program, Exhibit R14: Fiscal Year 2022 Annuitants on the Retirement Roll – CSRS/FERS Employees and Survivor Annuitants: Geographic Distribution by Number on Roll and Monthly Annuities, provided on December 4, 2024.
+Railroad Retirement Board, Annual Railroad Retirement Act and Railroad Unemployment Insurance Act Data, Statistical Tables, Section A – Financial Statistics see Table A6.– Retirement, survivor, unemployment, and sickness benefit payments, by class of benefit and state of residence of beneficiary, fiscal year 2023 (In thousands), cash basis.
+USAspending.gov, see Award Search/Advanced Search and Download/Award Data Archive.
+Federal Funds Information for States, FFIS Grants Database.
+Endnotes
+1 References to the states as a group in this report include the District of Columbia, unless otherwise noted. For data consistency, national totals and averages in this report included expenditures in and revenues from the District of Columbia in addition to the states. However, because it is an outlier in many categories, the District of Columbia is not included in the rankings of the states. Rankings and figures in tables, charts and text in this report and related materials are based on unrounded amounts.
+2 For the purposes of this analysis, as in previous reports by the Office of the State Comptroller (OSC), certain revenue and spending amounts were excluded, resulting in an allocation of $5.7 trillion in expenditures and $4.3 trillion in tax revenues that are relevant and practical to allocate to the states. Customs duties and fees (including tariffs) and miscellaneous receipts, such as deposits of earnings by the Federal Reserve, are excluded from revenues. Undistributed offsetting receipts, net interest on the federal government debt, spending for international affairs and overseas procurement (military- and non-military-related) and unidentified spending represent most of the outlays excluded from this analysis. In addition, approximately $335.6 million in negative subsidies resulting from the U.S. Supreme Court’s decision to strike down President Biden’s student loan cancellation has been excluded. Receipts from and outlays to Puerto Rico and other outlying areas are also excluded. Note that FFY 2023 outcomes do not include adjustments relating to the Supreme Court’s striking down of then President Biden’s student loan forgiveness proposal whereas OSC’s analysis of FFY 2022 balance of payments included the allocation of such forgiveness.
+3 Based on total dollars rather than on dollars per capita, New York’s ranking was 24th among the states, with a surplus of $17.8 billion. Last year, New York ranked 23rd with a surplus of $21.2 billion.
+4 In FFY 2023, all revenues paid to the federal government totaled approximately $4.4 trillion. Taxes as classified by the federal Office of Management and Budget.
+5 Social insurance taxes and contributions include: (1) FICA (the Federal Insurance Contributions Act tax), withheld for Social Security and Medicare; (2) SECA (the Self-Employment Contributions Act tax), paid by self-employed small business owners on their net earnings to cover their Social Security, Medicare, and Old-Age, Survivors and Disability Insurance (OASDI) costs; (3) FUTA (the Federal Unemployment Tax Act tax), withheld for unemployment compensation; (4) RRA and the RUIA (the Railroad Retirement Act and the Railroad Unemployment Insurance Act taxes), used in place of FICA, SECA and FUTA for railroad employees, and (5) other receipts, primarily pension contributions from federal employees.
+6 Note that Oregon is currently in the process of establishing its own Basic Health Plan; once finalized and made available to the public, it would be the third state in the United States to have such a health plan.
+7 Veterans benefits include: (1) payments for service-connected disability; (2) payments for non-service-connected disability; (3) educational and training services, and (4) hospital and medical care.
+8 Procurement is the acquisition of supplies or services (including construction) with appropriated funds by and for the use of the federal government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated and evaluated.
+9 U.S. Secretary of Education Linda McMahon, letter to State Chiefs of Education, March 28, 2025, esf-funding-letter-sec-mcmahon.pdf
+10 Governor Kathy Hochul, press release (By the Numbers: Governor Hochul Updates New Yorkers on the Devastating Impacts of Federal Cuts on New York State’s Health and Human Services Programs), March 28, 2025 at https://www.governor.ny.gov/news/numbers-governor-hochul-updates-new-yorkers-devastating-impact-federal-cuts-new-york-states.
+11 U.S. Department of Health and Human Services, Center for Medicare and Medicaid Services, Medicaid CMS-64 FFCRA and CAA Increased FMAP Expenditure Data Collected through MBES, quarterly reports for FFY 2023.
+12 In FFY 2019, prior to the COVID pandemic and related economic shutdown, “All Other” spending in the federal budget totaled roughly $203 billion and was not identified or allocated by this analysis.
+13 U.S. Government Publishing Office, Budget of the United States Government, Fiscal Year, Historical Tables, Table 1.1 – Summary of Receipts, Outlays, and Surpluses or Deficits (-): 1789 – 2029 (as accessed on March 25, 2025).

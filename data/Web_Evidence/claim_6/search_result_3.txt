@@ -1,0 +1,484 @@
+https://www.ssoar.info/ssoar/bitstream/handle/document/34277/ssoar-fedgov-2010-1-ojo-The_politics_of_revenue_allocation.pdf?sequence=1&isAllowed=y
+%PDF-1.4
+%÷õ³▀
+1 0 obj
+<<
+/Type /Catalog
+/Version /1.6
+/Pages 2 0 R
+/PageLabels 3 0 R
+/Metadata 4 0 R
+/Outlines 5 0 R
+>>
+endobj
+6 0 obj
+<<
+/Creator (Apache FOP Version 2.2)
+/Producer (Apache FOP Version 2.2)
+/CreationDate (D:20241202180019+01'00')
+/Subject ()
+/Author ()
+/AAPL#3AKeywords [()]
+/Keywords ()
+/ModDate (D:20101004124536-07'00')
+/Title ()
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R
+17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R
+27 0 R 28 0 R 29 0 R 30 0 R]
+/Count 24
+>>
+endobj
+3 0 obj
+<<
+/Nums [0 31 0 R]
+>>
+endobj
+4 0 obj
+<<
+/Length 869
+/Type /Metadata
+/Subtype /XML
+>>
+stream
+application/pdf
+x-unknown
+2024-12-02T18:00:19+01:00
+Apache FOP Version 2.2
+1.4
+Apache FOP Version 2.2
+2024-12-02T18:00:19+01:00
+2024-12-02T18:00:19+01:00
+endstream
+endobj
+5 0 obj
+<<
+/First 32 0 R
+/Count 3
+/Last 33 0 R
+/Type /Outlines
+>>
+endobj
+7 0 obj
+<<
+/Resources 34 0 R
+/Type /Page
+/MediaBox [0.0 0.0 595.275 841.889]
+/CropBox [0.0 0.0 595.275 841.889]
+/BleedBox [0 0 595.275 841.889]
+/TrimBox [0 0 595.275 841.889]
+/Parent 2 0 R
+/Annots [35 0 R 36 0 R 37 0 R 38 0 R]
+/Contents 39 0 R
+/Rotate 0
+>>
+endobj
+8 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 0
+/Contents [40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R]
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 48 0 R
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 1
+/Contents 49 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 50 0 R
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 2
+/Contents 51 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 52 0 R
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 3
+/Contents 53 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 54 0 R
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 4
+/Contents 55 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 56 0 R
+/Type /Page
+>>
+endobj
+13 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 5
+/Contents 57 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 58 0 R
+/Type /Page
+>>
+endobj
+14 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 6
+/Contents 59 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 60 0 R
+/Type /Page
+>>
+endobj
+15 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 7
+/Contents 61 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 62 0 R
+/Type /Page
+>>
+endobj
+16 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 8
+/Contents 63 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 64 0 R
+/Type /Page
+>>
+endobj
+17 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 9
+/Contents 65 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 66 0 R
+/Type /Page
+>>
+endobj
+18 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 10
+/Contents 67 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 68 0 R
+/Type /Page
+>>
+endobj
+19 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 11
+/Contents 69 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 70 0 R
+/Type /Page
+>>
+endobj
+20 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 12
+/Contents 71 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 72 0 R
+/Type /Page
+>>
+endobj
+21 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 13
+/Contents 73 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 74 0 R
+/Type /Page
+>>
+endobj
+22 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 14
+/Contents 75 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 76 0 R
+/Type /Page
+>>
+endobj
+23 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 15
+/Contents 77 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 78 0 R
+/Type /Page
+>>
+endobj
+24 0 obj
+<<
+/CropBox [0.0 0.0 792.0 612.0]
+/Parent 2 0 R
+/StructParents 16
+/Contents 79 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 792.0 612.0]
+/Resources 80 0 R
+/Type /Page
+>>
+endobj
+25 0 obj
+<<
+/CropBox [0.0 0.0 792.0 612.0]
+/Parent 2 0 R
+/StructParents 17
+/Contents 81 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 792.0 612.0]
+/Resources 82 0 R
+/Type /Page
+>>
+endobj
+26 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 18
+/Contents 83 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 84 0 R
+/Type /Page
+>>
+endobj
+27 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 19
+/Contents 85 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 86 0 R
+/Type /Page
+>>
+endobj
+28 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 20
+/Contents 87 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 88 0 R
+/Type /Page
+>>
+endobj
+29 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 21
+/Contents 89 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 90 0 R
+/Type /Page
+>>
+endobj
+30 0 obj
+<<
+/CropBox [0.0 0.0 595.28 841.89]
+/Parent 2 0 R
+/StructParents 22
+/Contents 91 0 R
+/Rotate 0
+/MediaBox [0.0 0.0 595.28 841.89]
+/Resources 92 0 R
+/Type /Page
+>>
+endobj
+31 0 obj
+<<
+/S /D
+>>
+endobj
+32 0 obj
+<<
+/Parent 5 0 R
+/A 93 0 R
+/Next 94 0 R
+/SE 95 0 R
+/Title (FG_VOL7_ISS1_OJO)
+>>
+endobj
+33 0 obj
+<<
+/Parent 5 0 R
+/A 96 0 R
+/Prev 94 0 R
+/SE 97 0 R
+/Title (FG_VOL7_ISS1_OJO.3)
+>>
+endobj
+34 0 obj
+<<
+/Font 98 0 R
+/ProcSet [/PDF /ImageB /ImageC /Text]
+/XObject <<
+/Im1 99 0 R
+/Im2 100 0 R
+/Im3 101 0 R
+/Im4 102 0 R
+>>
+/ColorSpace 103 0 R
+>>
+endobj
+35 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [401.693 709.262 532.913 726.146]
+/C [0 0 0]
+/Border [0 0 0]
+/A 104 0 R
+/H /I
+>>
+endobj
+36 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [195.508 477.266 418.033 485.708]
+/C [0 0 0]
+/Border [0 0 0]
+/A 105 0 R
+/H /I
+>>
+endobj
+37 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [59.527 157.154 235.503 164.634]
+/C [0 0 0]
+/Border [0 0 0]
+/A 106 0 R
+/H /I
+>>
+endobj
+38 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [304.723 166.754 480.699 174.234]
+/C [0 0 0]
+/Border [0 0 0]
+/A 107 0 R
+/H /I
+>>
+endobj
+39 0 obj
+<<
+/Length 2363
+/Filter /FlateDecode
+>>
+stream
+x£Ē[I»▄ĖŠ„»ą0═}¶÷éõfÓ9rrb┐ī !E▓(Qęū▌|h$słmO*ÆĄ│J²ŪAMÆ■╚óU"Ų4}~;³┴p5╣$£tKąO’ä/P99#óŗJpcäų!źP╔;%\╩│┤>I®“─Å}SėÕwB iEB╦D│╠ŹZ7ö┌ŚG)SE®Ż0ųgTręÖ)'źf┤ĪźKaó╦ōĶQ8=A┐=£^=½ģ“.E¦įż£░^źöHm»oėŪ½'¦ū/ć<¹§¤ć¤żöµńķ§▀$▓H▀įĶhą«g║:S
+)Ń#©oąį£į®1Éł(Ø
+ąēöņ¢¦ļļųI BĄ¬£■BūW&ż¶ŽĖśØµāNæĄ3¾š^y▒╚ oĢ-ÅØ«ų¢æ³ńĒ`yM"ūEß▀ų 2»Kę9e"
+╔▌s^ļß’ć▀R─m&c│ŌE╠ÄSPV(B¦Ż÷ė█µ9Żč:¾Ż'▀§õĄ╬iĒT=ž:’╠jI |░eŪ®Æ\æ,>ąc▓Ųō{÷C+!{Ļkķ;Ü¤7ć6:ļXčŚėŖS▓┴ĪŪÆU┘-═║]=«Ö∙§e▐┐ż?I[ęÉ3žķŁł@ø8{e ų├ŹT"ÖśÆ#Ė▄>«V▌Ąm7│├×ÆłęōĘM▀ 5}┘Ė7/®XK3µSģ═ß└nC╠/y’£ķ║ąuźKč§ÆĮŠ▐╩= ═¹├±¤7"▀Ū║VŲqż{█ß§O┴ńOX\ŪenY’ųĖ]Žx#ŃĖ■³Åķ§oXNä¶ye¢│¼aZ¬ßnr6^śÕYµ└¶#ÅgŠŃ2_ź¬»YWĘdk“£╗ń+╦█ĶäÄ'ŪĖ2ņ╚4:╗©SšÖØlknÜ▌Ya|¢ģÆf3{▓ŗjg§ŪN▄#│ž\D±║{¬Åö}=▌g9ŗkrō┼^81(Ą└╬ž▌Æö,0┌
+fü)0Oś«yß.
+╬2k|¼Į0L/╣LY ½Yė- ł× Ęę0¼╩& WYĢj»3uzD¾Nņ■ŠŖ▓▀©]v┬"╗ ═]Ųä}╩®¤┤▄ēēr^ó-mį»u7ń@Üvf9°(ä«9ś¤9pą)¾¾°╦:"©╝[49qÉŌĄsõžŌqćŚk╔└┌/3Pē┤F@3<ėB’Ó│)┘v9▌#┼¤óä╦Ī1/└ņ
+∙┬\*¶äLŪ=nÕŃäMÄx££ć¬T╚õPm*ĒéĻ="Óķ)ļ└Ć!0Ļh»sHf▄Ŗž]Ā:ŲģD╦ń▓Ń!╬wś°öYÆA
+Č8Z<¼^l2©ŖßÄ╣än0lq8\█ćĪ$ £ąÄąÉOõo:Gł│.4│╦ 0ČÄćč?qŻÄFapažün8Ä┌Ųāa’xGtģ|ŅuMüŹ╣äF{.’Ļ─ŁU4╗╩ĻŃšŃ█·V'Ļ┬rük<▒\TČāæ■£ĶįŹ¤yNkŗlw.│”¾)Ī2┌@ĻÕ(”Ł▐qsšGD
+^|ĮI6ĒÕR-,'e&Ślr>*ŽYNį$½>Ę┬Š®Ø─„»]’i©żŹyiäTJōiĻź}m>u¼
+di"ÅĄĮÉLĄ┤ń:Or│ś[ÅU¹ąZ╔m[”5ĀÅĘą╗T╝∙>┐Ń)Æ^XB═MqŻ┘N▄Ü«╣X”ļģ»źyØ┼7į▒R Ģ▒LZkß┤-ĢŠąŲŻc\o©═J«ĄČK77▐Ļ®Q-”ę+Ģ┌┌eČV¬q¼Äų9źel¦┬]eŁh╚ł┌š«ēr¹BĻģ„v╗#Ą╬/~¼ĒČq
+6÷■¼╣Ę“d█ņnøxJĮŠ»£Vö═å“rõó└AŽŖł¢2ŅÉłÉÉG3ŽH╚³s║─jāb"¢×Ąd½åī▐Įg|ÓCśŪ╦ųėĀ╠├Ņ«l║┌├Yé½79Ė╩█TpĖkBėģ?umÕ·Ó!N§▄ŚOæT■Ä-%é3ć“╦;%▄īą¤NŁ!$═|zųŃõsČŹ4hK╝cā├ÖÉ%;╝ļĘ
+µs;{▀U░ O{ć┴Ā½īm&┤ńķßÅqÄńxaž │ā┌žę.¶QźņsĶŗįÄ┤JČĮF?wŁūÖ[æ÷Ü▐ųguĻ×}9b╣čÆõ’D(ØÕyvdavAŠåw7Ŗ@|į│ÖÖFüĖ¼╝4µQ└A>▌ KüÉ▄0¤<Ūä╔_U®É_╩║r▓$┤Ą?’>ź°ĪR∙┬l~Sz│#_Üv╣Ę╝Äāū█\Ī║»%9ÓćA┘+▓%╗×°ķ^ß"▀z5żŹõß"m94Ė}░ąŠŽjüĮ╝ą%Ä>hä¦9?qR╚ŪŚzņQ╬”8IöŃī═³[x╩║ą%Ö-ØæĪŠ╠"£6į¤Üõ³nŻł▓╝B©hĒév§╗ŻERf║§āÖsšĻĶ¦├ ■ŹŖł
+endstream
+endobj
+40 0 obj
+<<
+/Length 610
+/Filter /FlateDecode
+>>
+stream
+HēīT█n█0}░ÓŻ$Ŗ([▒=ų┤:`[ūž├ąŽMĘ╣5ķ¶7Ę-V®£─^@7Ü<ćõaWÕ·NNGŚńĀß¶¶ņ|¶µŠ└õjś &
+SŁl:äse¼'
+0m¬
+yš┐ME.ZÖä’§!│J;W½bį:š╬
+▓i4Ŗ
+t?o┼cTŖ;°čń{ 9DK 1D= D Ī[ł.ż0) 7P|Ćŗ┬nó#ZĢg┘<ņÓō4=Ć`ś5ožĖØäX┴¤N
+V½įbvż:Ž^QüŌŚżs4q½╦ØjpE;Ŗ║,¶8ō0ähĻųŪÓ\IĀm▄Ļ┘Ń╬┘²█Ą}ŃČ┌┬Ł┐ÅÓ┐½±=2»╣rM)▌ÖĖXŽe¶A╩ÓĒČa╣”▌1ĶX\ųTx¤^ōūłC4«╚ZŖ§“.╠»╔ņćaėŽ F×J1¶¶▀6é]║öńtŻŽV▌a╩e└ŗCģ|w²jūö¬$Q:~QuŚ¢ļ¢„-ßRĢ”Iy/×ō©!ēŖ Ht╔eŚ³śź1╣Øk9sŽl³╩Rceö?”n¤yØXoyĻ£©Z·„tāē▓╔+&ĻoŽ7╗$Żp1eżulM 2×║┼S:Q’4Hļ¹Z<^█@šņ└▓će¦³čŲ▀PæīŲŻ=źNß/ÜEĻ┴¢UL┤·▄$BVÉ“╝?[UXL▒O&6ZĪ1”U`ŁL{üåV+▄ąvĄ1Č9²šŪĖ▀Ų.ģD²÷QēćF┼ķ^<°'└ °>
+stream
+HēżöIoė@Ū’■ÅøŹį╔ņĘ,¦$SB J%aIß└Ę’ø%ŗS┼Mģ|x│³ń„ČÅ3äiLį©OÅŗ¶·░Ī¶»*ĖbPųĶßŖ+Õ§<Ł╠Ü¬@Ńø
+┼Õ8-.„▓¼ÜŅ¶«nėĶ”K.╩ßl¢Oe┌0├¾j>ć·OÓ_?Æ-▐ ├Ä│5d;l'HńlĮ£▀,ŲuÜŹńŁ_╠gP8iŌRøv┌4{Y/ę`°"Ü▐%■│£P║ŃĘŚ[ó═Q┬į]Ép¾k*░®ĪžėdÜPÄ
+IS¤Ļ▐╠ė┤MfÖLėn▐\tWļ4ØTE0uG3ņ°äeŪY▐ÕĆvü┼▌ó³ą__CĢ6Ś·Ļ[\\_Õæ;X©/▐i¼»ųQÜL▒³©Š_■┼▄{š°│«Ńó.┤yÓ"D„ xÕ
+endstream
+endobj
+42 0 obj
+<<
+/Length 517
+/Filter /FlateDecode
+>>
+stream
+Hē¼UMo█0ĮļWhØ¬O╦┌®(Ü█aśwvgsÉ─[┌
+Ķ┐E┘Ąé║A░(øó¤Hń·Źį°
+┼jŽßĢübXųwŖ┘▀d[╬ąŅ8X(ĆņEŚxŅ┌ęKŽßį’`U├'°Rh2■Ōā6F8ļ┴/¼g═nk(K
+¢zūŪśĪ▐╬ā)ķģŚRü½▄äf

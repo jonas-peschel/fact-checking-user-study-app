@@ -1,0 +1,25 @@
+https://www.law.cornell.edu/wex/federalism
+federalism
+Overview
+Federalism is a system of government in which the same territory is controlled by two levels of government. Generally, an overarching national government is responsible for broader governance of larger territorial areas, while the smaller subdivisions, states, and cities govern the issues of local concern.
+Both the national government and the smaller political subdivisions have the power to make laws and both have a certain level of autonomy from each other.
+United States
+In the United States, the Constitution has established a system of “dual sovereignty,” under which the States have surrendered many of their powers to the Federal Government, but also retained some sovereignty. Examples of this dual sovereignty are described in the U.S. Constitution.
+Supremacy Clause
+Article VI of the U.S. Constitution contains the Supremacy Clause, which reads, "This Constitution, and the laws of the United States which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States, shall be the supreme law of the land; and the judges in every state shall be bound thereby, anything in the Constitution or laws of any State to the contrary notwithstanding." This effectively means that when the laws of the federal government are in conflict with the laws of a state's government, the federal law will supersede the state law.
+Article I, Section 8
+Article I, Section 8 of the Constitution describes specific powers which belong to the federal government. These powers are referred to as enumerated powers.
+Tenth Amendment
+The Tenth Amendment reserves powers to the states, as long as those powers are not delegated to the federal government. Among other powers, this includes creating school systems, overseeing state courts, creating public safety systems, managing business and trade within the state, and managing local government. These powers are referred to as reserved powers.
+Concurrent Powers
+Concurrent powers refer to powers that are shared by both the federal government and state governments. This includes the power to tax, build roads, and create lower courts.
+Further Reading
+For more on federalism, see this Florida State University Law Review article, this Vanderbilt Law Review article, and this Stanford Law Review article.
+Resources
+- U.S. Constitution
+- The Federalist No. 41
+- The Federalist No. 45
+- McCulloch v. Maryland, 17 U.S. 316 (1819)
+[Last reviewed in December of 2022 by the Wex Definitions Team]
+Keywords
+Wex
