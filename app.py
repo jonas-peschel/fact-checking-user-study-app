@@ -47,7 +47,7 @@ def manage_participant_id(cookies):
         cookies["participant_id"] = pid
         cookies.save()
 
-    return pid, cookies
+    return pid
 
 def setup_pages(claims, cookies):
  
@@ -55,7 +55,7 @@ def setup_pages(claims, cookies):
 
     # 1. check in cookies
     if "claim_order" in cookies:
-        order = cookies["claim_order"]
+        order = json.loads(cookies["claim_order"])
 
     # 2. check in session_state
     elif "claim_order" in st.session_state:
@@ -64,14 +64,14 @@ def setup_pages(claims, cookies):
     # 3. create order if it does not exist yet
     else:
         order = list(range(len(claims)))
-        order = random.shuffle(order)
+        random.shuffle(order)
 
     # save in cookies and session_state
-    cookies["claim_order"] = order 
+    cookies["claim_order"] = json.dumps(order)
     cookies.save()
     st.session_state.claim_order = order
 
-    pages = ["pre"] + [("claim", i) for i in order] + ["post"]
+    pages = ["pre"] + [i for i in order] + ["post"]
 
     return pages
 
@@ -654,6 +654,31 @@ def build_sources_html(claim, claim_idx, result_path, experiment_group):
 
 ## evidence formatting end ##
 
+def display_page(pages, pid):
+
+    page = pages[st.session_state.current_page]
+
+    if page == "pre":
+
+        st.header("Pre-study Survey")
+        iframe(f"https://jonas-peschel.github.io/fact-checking-surveys/pre/?pid={pid}&claim=pre", height=1000)
+
+    elif page == "post":
+
+        st.header("Post-study Survey")
+        iframe(f"https://jonas-peschel.github.io/fact-checking-surveys/post/?pid={pid}&claim=post", height=1000)
+
+    else:
+
+        claim_idx = page
+
+        st.write(f"Per-claim Survey: Claim {claim_idx}")
+        iframe(f"https://jonas-peschel.github.io/fact-checking-surveys/claim/?pid={pid}&claim={claim_idx}", height=1000)
+
+
+
+
+
 
 def main():
 
@@ -669,21 +694,22 @@ def main():
 
     # --- load the data (claims + results) from the pipeline and setup page order ---
     claims = load_json("data/results.json")
-
     pages = setup_pages(claims, cookies)
-    st.write(pages)
 
+    # --- display title + page content ---
     st.title("Fact-checking User Study")
+    display_page(pages, pid)
+
+    # --- page navigation buttons ---
+    col1, _, col2 = st.columns([1,3,1])     # TODO: it's ugly but streamlit options are limited it seems
+    with col1:
+        if st.session_state.current_page > 0:
+            st.button("⬅️ Previous", on_click=prev_page)
+    with col2:
+        if st.session_state.current_page < len(pages) - 1:
+            st.button("Next ➡️", on_click=next_page)
 
 
-    st.write("Pre-study Survey")
-    iframe(f"https://jonas-peschel.github.io/fact-checking-surveys/pre/?pid={pid}&claim=pre", height=1000)
-
-    st.write("Per-claim Survey")
-    iframe(f"https://jonas-peschel.github.io/fact-checking-surveys/claim/?pid={pid}&claim={100}", height=1000)
-
-    st.write("Post-study Survey")
-    iframe(f"https://jonas-peschel.github.io/fact-checking-surveys/post/?pid={pid}&claim=post", height=1000)
 
 
 if __name__ == "__main__":
