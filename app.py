@@ -7,6 +7,8 @@ from pathlib import Path
 import json 
 import pickle
 import numpy as np
+import nltk
+nltk.download('punkt_tab')
 from nltk import sent_tokenize
 import re
 from urllib.parse import urlparse
