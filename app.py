@@ -37,7 +37,6 @@ def manage_participant_id(cookies):
         pid = query_params["pid"]
 
         cookies["participant_id"] = pid
-        cookies.save()
 
     # 2. else check in cookies
     elif "participant_id" in cookies:
@@ -47,7 +46,6 @@ def manage_participant_id(cookies):
     else:
         pid = str(uuid4())
         cookies["participant_id"] = pid
-        cookies.save()
 
     return pid
 
@@ -62,7 +60,6 @@ def manage_experiment_group(cookies):
         exp_group = query_params["exp_group"]
 
         cookies["experiment_group"] = exp_group
-        cookies.save()
 
     # 2. else check in cookies
     elif "experiment_group" in cookies:
@@ -72,7 +69,6 @@ def manage_experiment_group(cookies):
     else:
         exp_group = str(random.choice([1,2]))
         cookies["experiment_group"] = exp_group
-        cookies.save()
 
     return int(exp_group)
 
@@ -95,7 +91,6 @@ def setup_pages(claims, cookies):
 
     # save in cookies and session_state
     cookies["claim_order"] = json.dumps(order)
-    cookies.save()
     st.session_state.claim_order = order
 
     pages = ["pre"] + [i for i in order] + ["post"]
@@ -780,6 +775,9 @@ def main():
     # --- load the data (claims + results) from the pipeline and setup page order ---
     claims = load_json("data/results.json")
     pages = setup_pages(claims, cookies)
+
+    # --- save cookies after all changes are made ---
+    cookies.save()
 
     # --- get current page from query params ---
     current_page_idx = int(st.query_params.get("page", 0))
