@@ -49,6 +49,31 @@ def manage_participant_id(cookies):
 
     return pid
 
+def manage_experiment_group(cookies):
+
+    # store experiment group as cookie in the browser 
+    # to make it stable across page reloads
+
+    # 1. read exp_group query parameter if provided
+    query_params = st.query_params
+    if "exp_group" in query_params:
+        exp_group = query_params["exp_group"]
+
+        cookies["experiment_group"] = exp_group
+        cookies.save()
+
+    # 2. else check in cookies
+    elif "experiment_group" in cookies:
+        exp_group = cookies["experiment_group"]
+
+    # 3. else choose random exp_group and store as cookie
+    else:
+        exp_group = str(random.choice([1,2]))
+        cookies["experiment_group"] = exp_group
+        cookies.save()
+
+    return int(exp_group)
+
 def setup_pages(claims, cookies):
  
     # setup page order: pre -> claims -> post (with claims in random order)
@@ -654,9 +679,59 @@ def build_sources_html(claim, claim_idx, result_path, experiment_group):
 
 ## evidence formatting end ##
 
-def display_page(pages, pid):
+def display_fc_results(claim, claim_idx, result_path, exp_group):
 
-    page = pages[st.session_state.current_page]
+    container = st.container(key="app-container", border=False)
+
+    with container:
+
+        # claim
+        st.markdown(f"""
+                    <div class="claim">
+                        <span class="section-label">Claim:</span> {claim['claim']}
+                    </div>
+        """, unsafe_allow_html=True)
+
+    # ground truth verdict
+    LABELS = ["SUPPORTED", "REFUTED", "NOT ENOUGH INFORMATION", "CONFLICTING EVIDENCE"]
+    COLORS = ["#28a745", "#cc1414", "#2995bd", "#fac104"]
+    EMOTES = ["\u2705", "\u274C", "\u2754", "\u26A1"]
+
+    ## pipeline results
+    if "predictions" not in claim:
+        st.error("No results available for this claim...")
+    else:
+        verdict = claim['predictions']['verdict_GPT'].upper()
+
+        idx = LABELS.index(verdict)
+
+        with container:
+            st.markdown(f"""
+            <div class="verdict" style="background-color: {COLORS[idx]};">
+                Verdict: {verdict} {EMOTES[idx]}
+            </div>
+            """, unsafe_allow_html=True)
+
+        # justification (with answer attributions depending on experiment_group)
+        with container:
+            st.markdown(f"""
+                <div class="justification" id="justification">
+                    <span class="section-label">Justification:</span> 
+                    {build_justification_html(claim, claim_idx, result_path, exp_group)}
+                                       
+            """, unsafe_allow_html=True)    ## TODO: don't know why there is an extra </div> tag showing and why it works to simply remove it here
+            
+
+        # evidence paragraphs
+        with container:
+            st.markdown('<div class="evidence-label" id="evidence-section">Evidence Paragraphs:</div>', unsafe_allow_html=True)
+            st.markdown(build_sources_html(claim, claim_idx, result_path, exp_group), unsafe_allow_html=True)
+        
+
+
+def display_page(current_page_idx, pages, claims, pid, exp_group):
+
+    page = pages[current_page_idx]
 
     if page == "pre":
 
@@ -671,8 +746,16 @@ def display_page(pages, pid):
     else:
 
         claim_idx = page
+        claim = claims[claim_idx]
 
-        st.write(f"Per-claim Survey: Claim {claim_idx}")
+        result_path = Path("data/")
+
+        st.header(f"Fact-checking Pipeline Results: Claim {current_page_idx}")
+        display_fc_results(claim, claim_idx, result_path, exp_group)
+
+        st.markdown("---")
+
+        st.header(f"Survey: Claim {current_page_idx}")
         iframe(f"https://jonas-peschel.github.io/fact-checking-surveys/claim/?pid={pid}&claim={claim_idx}", height=1000)
 
 
@@ -688,26 +771,39 @@ def main():
     pid = manage_participant_id(cookies)
     st.write(f"Participant ID: {pid}")
 
-    # --- initialize current page to display ---
-    if "current_page" not in st.session_state:
-        st.session_state.current_page = 0
+    # --- get experiment group ---
+    exp_group = manage_experiment_group(cookies)
+    st.write(f"Experiment Group: {exp_group}")
 
     # --- load the data (claims + results) from the pipeline and setup page order ---
     claims = load_json("data/results.json")
     pages = setup_pages(claims, cookies)
 
+    # --- get current page from query params ---
+    current_page_idx = int(st.query_params.get("page", 0))
+
     # --- display title + page content ---
     st.title("Fact-checking User Study")
-    display_page(pages, pid)
+    st.write("")
+    st.write("")
+    display_page(current_page_idx, pages, claims, pid, exp_group)
 
     # --- page navigation buttons ---
-    col1, _, col2 = st.columns([1,3,1])     # TODO: it's ugly but streamlit options are limited it seems
+    col1, _, col2 = st.columns([1,2,1])     # TODO: it's ugly but streamlit options are limited it seems
     with col1:
-        if st.session_state.current_page > 0:
-            st.button("⬅️ Previous", on_click=prev_page)
+        if current_page_idx > 0:
+            st.markdown(f"""
+                <div class="button-container">
+                    <a href="?page={current_page_idx-1}#top" target="_self" class="button" style="text-decoration: none;">⬅️ Previous</a>
+                </div>
+            """, unsafe_allow_html=True)
     with col2:
-        if st.session_state.current_page < len(pages) - 1:
-            st.button("Next ➡️", on_click=next_page)
+        if current_page_idx < len(pages) - 1:
+            st.markdown(f"""
+                <div class="button-container">
+                    <a href="?page={current_page_idx+1}#top" target="_self" class="button" style="text-decoration: none;">Next ➡️</a>
+                </div>
+            """, unsafe_allow_html=True)
 
 
 
