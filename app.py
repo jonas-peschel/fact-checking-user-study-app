@@ -399,11 +399,9 @@ def cite_sentence(attribution, min_abs_thresh=5, max_ratio_thresh=0.3, max_citat
 
 
 ## justification formatting ##
-def add_answer_attributions(justification, attributions):
+def format_justification_with_citations(justification, citations):
 
-    citations = [cite_sentence(attr) for attr in attributions]   # get list of length of the number of sentences with the indices of sources to cite per sentence
-
-    citations = [cite + 1 for cite in citations]   # adjust source indices starting from 1
+    citations = [[c + 1 for c in cite] for cite in citations]   # adjust source indices starting from 1
 
     # remove citations from the justification text that might have been produced by the LLM to avoid confusion
     citation_pattern = r"\s*\[\d+([,\s]*\d+)*\]+"
@@ -550,14 +548,11 @@ def build_justification_html(claim, claim_idx, result_path, experiment_group):
 
         return justification
 
-    elif experiment_group == 2:
-
-        # load answer attributions
-        attr_path = result_path / f"Answer_Attributions/claim_{claim_idx}/answer_attributions_np.pkl"
-        attributions = load_pickle(attr_path)
+    elif experiment_group == 2:     # faithful citations with ContextCite
 
         # get justification text with answer attributions (added to the text as citations in brackets, e.g. [1])
-        justification = add_answer_attributions(justification, attributions)
+        citations = claim["citations"]["faithful_citations"]    # load citations
+        justification = format_justification_with_citations(justification, citations)
 
         # load evidence texts that should be displayed for each citation 
         evidence_texts = get_evidence_tooltip_texts(claim, claim_idx, result_path)
