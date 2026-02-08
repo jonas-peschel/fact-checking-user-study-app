@@ -374,30 +374,6 @@ def get_domain_name(url):
 
     return domain 
 
-def cite_sentence(attribution, min_abs_thresh=5, max_ratio_thresh=0.3, max_citations=3):
-    """
-    Return indices of the context sources to cite
-    based on the attribution scores.
-
-    Thresholding: cite sources above a minimum absolute threshold
-    and all sources (up to a maximum number) with at least attribution
-    score of k% of the maximum score.
-    """
-
-    max_score = np.max(attribution)
-
-    # thresholding
-    citations = np.asarray((attribution >= min_abs_thresh) & (attribution >= (max_score*max_ratio_thresh))).nonzero()[0]
-
-    # sort citations based on attribution score
-    citations = np.array(sorted(citations, key=lambda x: attribution[x], reverse=True))
-
-    # keep top-n citations
-    citations = citations[:max_citations]
-
-    return citations
-
-
 ## justification formatting ##
 def format_justification_with_citations(justification, citations):
 
